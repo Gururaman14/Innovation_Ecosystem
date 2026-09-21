@@ -1,0 +1,133 @@
+================================================================================
+DATA AVAILABILITY AUDIT
+Generated: 2026-09-17 07:40
+Study window requested: 2000–2025
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION 1: COUNTRY ACCESSIBILITY
+────────────────────────────────────────────────────────────────────────────────
+  Countries with data returned: ['BRA', 'CHN', 'IND', 'ISR', 'KOR']
+  ✓  IND  India
+  ✓  CHN  China
+  ✓  KOR  South Korea
+  ✗  TWN  Taiwan  ← NO DATA
+  ✓  ISR  Israel
+  ✓  BRA  Brazil
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION 2: DEPENDENT VARIABLE COVERAGE (TX.VAL.TECH.MF.ZS)
+────────────────────────────────────────────────────────────────────────────────
+Code    Country        Non-null  Coverage    Missing%    Missing years
+------  -----------  ----------  ----------  ----------  -------------------------------
+IND     India                16  2009–2024   38%         [2000, 2001, 2002, 2003, 2004]…
+CHN     China                18  2007–2024   31%         [2000, 2001, 2002, 2003, 2004]…
+KOR     South Korea          18  2007–2024   31%         [2000, 2001, 2002, 2003, 2004]…
+TWN     Taiwan                0  —           100%        none
+ISR     Israel               18  2007–2024   31%         [2000, 2001, 2002, 2003, 2004]…
+BRA     Brazil               18  2007–2024   31%         [2000, 2001, 2002, 2003, 2004]…
+
+  Usable study end year (min across countries): 2024
+  → Study period for proposal: 2000–2024 (subject to predictor availability)
+
+────────────────────────────────────────────────────────────────────────────────
+SECTION 3: PREDICTOR INDICATOR COVERAGE
+────────────────────────────────────────────────────────────────────────────────
+
+  TX.VAL.TECH.MF.ZS — High-tech exports (% manufactured exports)  [DV]
+    IND (India):  16 years  [2009–2024]  missing 38% ← >30% missing — DROP?
+    CHN (China):  18 years  [2007–2024]  missing 31% ← >30% missing — DROP?
+    KOR (South Korea):  18 years  [2007–2024]  missing 31% ← >30% missing — DROP?
+    TWN (Taiwan):  NO DATA
+    ISR (Israel):  18 years  [2007–2024]  missing 31% ← >30% missing — DROP?
+    BRA (Brazil):  18 years  [2007–2024]  missing 31% ← >30% missing — DROP?
+
+  GB.XPD.RSDV.GD.ZS — R&D expenditure (% GDP)
+    IND (India):  21 years  [2000–2020]  missing 19%
+    CHN (China):  24 years  [2000–2023]  missing 8%
+    KOR (South Korea):  24 years  [2000–2023]  missing 8%
+    TWN (Taiwan):  NO DATA
+    ISR (Israel):  24 years  [2000–2023]  missing 8%
+    BRA (Brazil):  24 years  [2000–2023]  missing 8%
+
+  SP.POP.SCIE.RD.P6 — Researchers in R&D (per million people)
+    IND (India):  6 years  [2000–2020]  missing 77% ← >30% missing — DROP?
+    CHN (China):  24 years  [2000–2023]  missing 8%
+    KOR (South Korea):  24 years  [2000–2023]  missing 8%
+    TWN (Taiwan):  NO DATA
+    ISR (Israel):  NO DATA
+    BRA (Brazil):  15 years  [2000–2014]  missing 42% ← >30% missing — DROP?
+
+  IP.PAT.RESD — Patent applications, residents
+    IND (India):  22 years  [2000–2021]  missing 15%
+    CHN (China):  22 years  [2000–2021]  missing 15%
+    KOR (South Korea):  22 years  [2000–2021]  missing 15%
+    TWN (Taiwan):  NO DATA
+    ISR (Israel):  22 years  [2000–2021]  missing 15%
+    BRA (Brazil):  22 years  [2000–2021]  missing 15%
+
+  IP.PAT.NRES — Patent applications, non-residents
+    IND (India):  22 years  [2000–2021]  missing 15%
+    CHN (China):  22 years  [2000–2021]  missing 15%
+    KOR (South Korea):  22 years  [2000–2021]  missing 15%
+    TWN (Taiwan):  NO DATA
+    ISR (Israel):  22 years  [2000–2021]  missing 15%
+    BRA (Brazil):  22 years  [2000–2021]  missing 15%
+
+  IT.NET.USER.ZS — Internet users (% population)
+    IND (India):  26 years  [2000–2025]  missing 0%
+    CHN (China):  26 years  [2000–2025]  missing 0%
+    KOR (South Korea):  25 years  [2000–2024]  missing 4%
+    TWN (Taiwan):  NO DATA
+    ISR (Israel):  25 years  [2000–2024]  missing 4%
+    BRA (Brazil):  25 years  [2000–2024]  missing 4%
+
+  IT.NET.BBND.P2 — Fixed broadband subscriptions (per 100)
+    IND (India):  24 years  [2001–2024]  missing 8%
+    CHN (China):  25 years  [2000–2024]  missing 4%
+    KOR (South Korea):  25 years  [2000–2024]  missing 4%
+    TWN (Taiwan):  NO DATA
+    ISR (Israel):  24 years  [2001–2024]  missing 8%
+    BRA (Brazil):  25 years  [2000–2024]  missing 4%
+
+  SE.TER.ENRR — Tertiary enrolment rate (% gross)
+    IND (India):  26 years  [2000–2025]  missing 0%
+    CHN (China):  25 years  [2000–2024]  missing 4%
+    KOR (South Korea):  25 years  [2000–2024]  missing 4%
+    TWN (Taiwan):  NO DATA
+    ISR (Israel):  24 years  [2001–2024]  missing 8%
+    BRA (Brazil):  12 years  [2012–2024]  missing 54% ← >30% missing — DROP?
+
+  SE.XPD.TOTL.GD.ZS — Gov. expenditure on education (% GDP)
+    IND (India):  19 years  [2000–2022]  missing 27%
+    CHN (China):  1 years  [2023–2023]  missing 96% ← >30% missing — DROP?
+    KOR (South Korea):  8 years  [2015–2022]  missing 69% ← >30% missing — DROP?
+    TWN (Taiwan):  NO DATA
+    ISR (Israel):  23 years  [2000–2022]  missing 12%
+    BRA (Brazil):  22 years  [2000–2022]  missing 15%
+
+  BX.KLT.DINV.WD.GD.ZS — FDI net inflows (% GDP)  [VC proxy-1]
+    IND (India):  26 years  [2000–2025]  missing 0%
+    CHN (China):  26 years  [2000–2025]  missing 0%
+    KOR (South Korea):  26 years  [2000–2025]  missing 0%
+    TWN (Taiwan):  NO DATA
+    ISR (Israel):  26 years  [2000–2025]  missing 0%
+    BRA (Brazil):  26 years  [2000–2025]  missing 0%
+
+  FS.AST.PRVT.GD.ZS — Domestic credit to private sector (% GDP)  [VC proxy-2]
+    IND (India):  26 years  [2000–2025]  missing 0%
+    CHN (China):  25 years  [2000–2024]  missing 4%
+    KOR (South Korea):  25 years  [2000–2024]  missing 4%
+    TWN (Taiwan):  NO DATA
+    ISR (Israel):  26 years  [2000–2025]  missing 0%
+    BRA (Brazil):  26 years  [2000–2025]  missing 0%
+
+  NV.IND.MANF.ZS — Manufacturing value added (% GDP)
+    IND (India):  26 years  [2000–2025]  missing 0%
+    CHN (China):  22 years  [2004–2025]  missing 15%
+    KOR (South Korea):  26 years  [2000–2025]  missing 0%
+    TWN (Taiwan):  NO DATA
+    ISR (Israel):  25 years  [2000–2024]  missing 4%
+    BRA (Brazil):  26 years  [2000–2025]  missing 0%
+
+================================================================================

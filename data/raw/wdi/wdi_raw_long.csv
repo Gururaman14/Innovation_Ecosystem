@@ -1,0 +1,1185 @@
+country_code,country,year,variable,indicator,value,source
+BRA,Brazil,2000,fdi,BX.KLT.DINV.WD.GD.ZS,5.03391680528314,World Bank WDI
+BRA,Brazil,2000,fixed_broadband,IT.NET.BBND.P2,0.0574652265559086,World Bank WDI
+BRA,Brazil,2000,government_education,SE.XPD.TOTL.GD.ZS,3.94893002510071,World Bank WDI
+BRA,Brazil,2000,internet_users,IT.NET.USER.ZS,2.87068515854108,World Bank WDI
+BRA,Brazil,2000,manufacturing_value_added,NV.IND.MANF.ZS,13.1346595913847,World Bank WDI
+BRA,Brazil,2000,patent_nonresident,IP.PAT.NRES,14104.0,World Bank WDI
+BRA,Brazil,2000,patent_resident,IP.PAT.RESD,3179.0,World Bank WDI
+BRA,Brazil,2000,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.04752,World Bank WDI
+BRA,Brazil,2000,researchers_rd,SP.POP.SCIE.RD.P6,298.53981,World Bank WDI
+BRA,Brazil,2001,fdi,BX.KLT.DINV.WD.GD.ZS,4.14759377398385,World Bank WDI
+BRA,Brazil,2001,fixed_broadband,IT.NET.BBND.P2,0.187746875442478,World Bank WDI
+BRA,Brazil,2001,government_education,SE.XPD.TOTL.GD.ZS,3.84467005729675,World Bank WDI
+BRA,Brazil,2001,internet_users,IT.NET.USER.ZS,4.52849486902851,World Bank WDI
+BRA,Brazil,2001,manufacturing_value_added,NV.IND.MANF.ZS,13.0895379357967,World Bank WDI
+BRA,Brazil,2001,patent_nonresident,IP.PAT.NRES,14410.0,World Bank WDI
+BRA,Brazil,2001,patent_resident,IP.PAT.RESD,3439.0,World Bank WDI
+BRA,Brazil,2001,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.06197,World Bank WDI
+BRA,Brazil,2001,researchers_rd,SP.POP.SCIE.RD.P6,341.27926,World Bank WDI
+BRA,Brazil,2002,fdi,BX.KLT.DINV.WD.GD.ZS,3.25358061271527,World Bank WDI
+BRA,Brazil,2002,fixed_broadband,IT.NET.BBND.P2,0.409515816509217,World Bank WDI
+BRA,Brazil,2002,government_education,SE.XPD.TOTL.GD.ZS,3.75037002563477,World Bank WDI
+BRA,Brazil,2002,internet_users,IT.NET.USER.ZS,9.14942508560748,World Bank WDI
+BRA,Brazil,2002,manufacturing_value_added,NV.IND.MANF.ZS,12.3569626659174,World Bank WDI
+BRA,Brazil,2002,patent_nonresident,IP.PAT.NRES,13204.0,World Bank WDI
+BRA,Brazil,2002,patent_resident,IP.PAT.RESD,3481.0,World Bank WDI
+BRA,Brazil,2002,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.00967,World Bank WDI
+BRA,Brazil,2002,researchers_rd,SP.POP.SCIE.RD.P6,403.16475,World Bank WDI
+BRA,Brazil,2003,fdi,BX.KLT.DINV.WD.GD.ZS,1.81340052439304,World Bank WDI
+BRA,Brazil,2003,fixed_broadband,IT.NET.BBND.P2,0.534956051589709,World Bank WDI
+BRA,Brazil,2003,internet_users,IT.NET.USER.ZS,13.2075861035303,World Bank WDI
+BRA,Brazil,2003,manufacturing_value_added,NV.IND.MANF.ZS,14.4507645634139,World Bank WDI
+BRA,Brazil,2003,patent_nonresident,IP.PAT.NRES,12545.0,World Bank WDI
+BRA,Brazil,2003,patent_resident,IP.PAT.RESD,3866.0,World Bank WDI
+BRA,Brazil,2003,rd_expenditure,GB.XPD.RSDV.GD.ZS,0.99939,World Bank WDI
+BRA,Brazil,2003,researchers_rd,SP.POP.SCIE.RD.P6,428.48507,World Bank WDI
+BRA,Brazil,2004,fdi,BX.KLT.DINV.WD.GD.ZS,2.71353166307823,World Bank WDI
+BRA,Brazil,2004,fixed_broadband,IT.NET.BBND.P2,1.7284595748202,World Bank WDI
+BRA,Brazil,2004,government_education,SE.XPD.TOTL.GD.ZS,3.97448992729187,World Bank WDI
+BRA,Brazil,2004,internet_users,IT.NET.USER.ZS,19.073672274442,World Bank WDI
+BRA,Brazil,2004,manufacturing_value_added,NV.IND.MANF.ZS,15.0995301566951,World Bank WDI
+BRA,Brazil,2004,patent_nonresident,IP.PAT.NRES,12669.0,World Bank WDI
+BRA,Brazil,2004,patent_resident,IP.PAT.RESD,4044.0,World Bank WDI
+BRA,Brazil,2004,rd_expenditure,GB.XPD.RSDV.GD.ZS,0.96343,World Bank WDI
+BRA,Brazil,2004,researchers_rd,SP.POP.SCIE.RD.P6,489.27106,World Bank WDI
+BRA,Brazil,2005,fdi,BX.KLT.DINV.WD.GD.ZS,1.73389354602718,World Bank WDI
+BRA,Brazil,2005,fixed_broadband,IT.NET.BBND.P2,1.75095200096296,World Bank WDI
+BRA,Brazil,2005,government_education,SE.XPD.TOTL.GD.ZS,4.47909021377563,World Bank WDI
+BRA,Brazil,2005,internet_users,IT.NET.USER.ZS,21.022747248827,World Bank WDI
+BRA,Brazil,2005,manufacturing_value_added,NV.IND.MANF.ZS,14.7382811396728,World Bank WDI
+BRA,Brazil,2005,patent_nonresident,IP.PAT.NRES,14444.0,World Bank WDI
+BRA,Brazil,2005,patent_resident,IP.PAT.RESD,4054.0,World Bank WDI
+BRA,Brazil,2005,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.00247,World Bank WDI
+BRA,Brazil,2005,researchers_rd,SP.POP.SCIE.RD.P6,515.766,World Bank WDI
+BRA,Brazil,2006,fdi,BX.KLT.DINV.WD.GD.ZS,1.753125703626,World Bank WDI
+BRA,Brazil,2006,fixed_broadband,IT.NET.BBND.P2,2.55393928456781,World Bank WDI
+BRA,Brazil,2006,government_education,SE.XPD.TOTL.GD.ZS,4.87060022354126,World Bank WDI
+BRA,Brazil,2006,internet_users,IT.NET.USER.ZS,28.17840004,World Bank WDI
+BRA,Brazil,2006,manufacturing_value_added,NV.IND.MANF.ZS,14.1089458704485,World Bank WDI
+BRA,Brazil,2006,patent_nonresident,IP.PAT.NRES,15886.0,World Bank WDI
+BRA,Brazil,2006,patent_resident,IP.PAT.RESD,3956.0,World Bank WDI
+BRA,Brazil,2006,rd_expenditure,GB.XPD.RSDV.GD.ZS,0.98807,World Bank WDI
+BRA,Brazil,2006,researchers_rd,SP.POP.SCIE.RD.P6,550.49741,World Bank WDI
+BRA,Brazil,2007,fdi,BX.KLT.DINV.WD.GD.ZS,3.19082601308524,World Bank WDI
+BRA,Brazil,2007,fixed_broadband,IT.NET.BBND.P2,4.03572440795213,World Bank WDI
+BRA,Brazil,2007,government_education,SE.XPD.TOTL.GD.ZS,4.97426986694336,World Bank WDI
+BRA,Brazil,2007,hightech_exports,TX.VAL.TECH.MF.ZS,12.6278356939529,World Bank WDI
+BRA,Brazil,2007,internet_users,IT.NET.USER.ZS,30.87999916,World Bank WDI
+BRA,Brazil,2007,manufacturing_value_added,NV.IND.MANF.ZS,14.1542648057288,World Bank WDI
+BRA,Brazil,2007,patent_nonresident,IP.PAT.NRES,17469.0,World Bank WDI
+BRA,Brazil,2007,patent_resident,IP.PAT.RESD,4194.0,World Bank WDI
+BRA,Brazil,2007,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.08138,World Bank WDI
+BRA,Brazil,2007,researchers_rd,SP.POP.SCIE.RD.P6,562.55469,World Bank WDI
+BRA,Brazil,2008,fdi,BX.KLT.DINV.WD.GD.ZS,2.99060946922903,World Bank WDI
+BRA,Brazil,2008,fixed_broadband,IT.NET.BBND.P2,5.26188788450655,World Bank WDI
+BRA,Brazil,2008,government_education,SE.XPD.TOTL.GD.ZS,5.26884984970093,World Bank WDI
+BRA,Brazil,2008,hightech_exports,TX.VAL.TECH.MF.ZS,12.761526959305,World Bank WDI
+BRA,Brazil,2008,internet_users,IT.NET.USER.ZS,33.83,World Bank WDI
+BRA,Brazil,2008,manufacturing_value_added,NV.IND.MANF.ZS,13.9551769000753,World Bank WDI
+BRA,Brazil,2008,patent_nonresident,IP.PAT.NRES,18890.0,World Bank WDI
+BRA,Brazil,2008,patent_resident,IP.PAT.RESD,4280.0,World Bank WDI
+BRA,Brazil,2008,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.12904,World Bank WDI
+BRA,Brazil,2008,researchers_rd,SP.POP.SCIE.RD.P6,598.65285,World Bank WDI
+BRA,Brazil,2009,fdi,BX.KLT.DINV.WD.GD.ZS,1.88848224095724,World Bank WDI
+BRA,Brazil,2009,fixed_broadband,IT.NET.BBND.P2,6.10682944207956,World Bank WDI
+BRA,Brazil,2009,government_education,SE.XPD.TOTL.GD.ZS,5.46355009078979,World Bank WDI
+BRA,Brazil,2009,hightech_exports,TX.VAL.TECH.MF.ZS,14.7587820517537,World Bank WDI
+BRA,Brazil,2009,internet_users,IT.NET.USER.ZS,39.22,World Bank WDI
+BRA,Brazil,2009,manufacturing_value_added,NV.IND.MANF.ZS,13.0594621488915,World Bank WDI
+BRA,Brazil,2009,patent_nonresident,IP.PAT.NRES,18135.0,World Bank WDI
+BRA,Brazil,2009,patent_resident,IP.PAT.RESD,4271.0,World Bank WDI
+BRA,Brazil,2009,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.11866,World Bank WDI
+BRA,Brazil,2009,researchers_rd,SP.POP.SCIE.RD.P6,634.14103,World Bank WDI
+BRA,Brazil,2010,fdi,BX.KLT.DINV.WD.GD.ZS,3.73001288350945,World Bank WDI
+BRA,Brazil,2010,fixed_broadband,IT.NET.BBND.P2,7.27968486054674,World Bank WDI
+BRA,Brazil,2010,government_education,SE.XPD.TOTL.GD.ZS,5.64879989624023,World Bank WDI
+BRA,Brazil,2010,hightech_exports,TX.VAL.TECH.MF.ZS,12.590146869358,World Bank WDI
+BRA,Brazil,2010,internet_users,IT.NET.USER.ZS,40.65,World Bank WDI
+BRA,Brazil,2010,manufacturing_value_added,NV.IND.MANF.ZS,12.7218596106703,World Bank WDI
+BRA,Brazil,2010,patent_nonresident,IP.PAT.NRES,20771.0,World Bank WDI
+BRA,Brazil,2010,patent_resident,IP.PAT.RESD,4228.0,World Bank WDI
+BRA,Brazil,2010,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.15992,World Bank WDI
+BRA,Brazil,2010,researchers_rd,SP.POP.SCIE.RD.P6,696.09998,World Bank WDI
+BRA,Brazil,2011,fdi,BX.KLT.DINV.WD.GD.ZS,3.91518011405433,World Bank WDI
+BRA,Brazil,2011,fixed_broadband,IT.NET.BBND.P2,9.13182030910824,World Bank WDI
+BRA,Brazil,2011,government_education,SE.XPD.TOTL.GD.ZS,5.73741006851196,World Bank WDI
+BRA,Brazil,2011,hightech_exports,TX.VAL.TECH.MF.ZS,11.1409081379377,World Bank WDI
+BRA,Brazil,2011,internet_users,IT.NET.USER.ZS,45.69,World Bank WDI
+BRA,Brazil,2011,manufacturing_value_added,NV.IND.MANF.ZS,11.7837976692113,World Bank WDI
+BRA,Brazil,2011,patent_nonresident,IP.PAT.NRES,23954.0,World Bank WDI
+BRA,Brazil,2011,patent_resident,IP.PAT.RESD,4695.0,World Bank WDI
+BRA,Brazil,2011,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.13966,World Bank WDI
+BRA,Brazil,2011,researchers_rd,SP.POP.SCIE.RD.P6,749.17174,World Bank WDI
+BRA,Brazil,2012,fdi,BX.KLT.DINV.WD.GD.ZS,3.75496285641218,World Bank WDI
+BRA,Brazil,2012,fixed_broadband,IT.NET.BBND.P2,9.71151141846763,World Bank WDI
+BRA,Brazil,2012,government_education,SE.XPD.TOTL.GD.ZS,5.85510015487671,World Bank WDI
+BRA,Brazil,2012,hightech_exports,TX.VAL.TECH.MF.ZS,11.8872212915256,World Bank WDI
+BRA,Brazil,2012,internet_users,IT.NET.USER.ZS,48.56,World Bank WDI
+BRA,Brazil,2012,manufacturing_value_added,NV.IND.MANF.ZS,10.6759423074609,World Bank WDI
+BRA,Brazil,2012,patent_nonresident,IP.PAT.NRES,25637.0,World Bank WDI
+BRA,Brazil,2012,patent_resident,IP.PAT.RESD,4798.0,World Bank WDI
+BRA,Brazil,2012,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.12684,World Bank WDI
+BRA,Brazil,2012,researchers_rd,SP.POP.SCIE.RD.P6,801.40894,World Bank WDI
+BRA,Brazil,2012,tertiary_enrolment,SE.TER.ENRR,43.8344116210938,World Bank WDI
+BRA,Brazil,2013,fdi,BX.KLT.DINV.WD.GD.ZS,3.04150901624338,World Bank WDI
+BRA,Brazil,2013,fixed_broadband,IT.NET.BBND.P2,10.7622017659472,World Bank WDI
+BRA,Brazil,2013,government_education,SE.XPD.TOTL.GD.ZS,5.8388500213623,World Bank WDI
+BRA,Brazil,2013,hightech_exports,TX.VAL.TECH.MF.ZS,11.9698618012495,World Bank WDI
+BRA,Brazil,2013,internet_users,IT.NET.USER.ZS,51.04,World Bank WDI
+BRA,Brazil,2013,manufacturing_value_added,NV.IND.MANF.ZS,10.4796122911618,World Bank WDI
+BRA,Brazil,2013,patent_nonresident,IP.PAT.NRES,25925.0,World Bank WDI
+BRA,Brazil,2013,patent_resident,IP.PAT.RESD,4959.0,World Bank WDI
+BRA,Brazil,2013,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.19567,World Bank WDI
+BRA,Brazil,2013,researchers_rd,SP.POP.SCIE.RD.P6,852.71699,World Bank WDI
+BRA,Brazil,2013,tertiary_enrolment,SE.TER.ENRR,44.9966697692871,World Bank WDI
+BRA,Brazil,2014,fdi,BX.KLT.DINV.WD.GD.ZS,3.57135266957477,World Bank WDI
+BRA,Brazil,2014,fixed_broadband,IT.NET.BBND.P2,11.9790772854396,World Bank WDI
+BRA,Brazil,2014,government_education,SE.XPD.TOTL.GD.ZS,5.94848012924194,World Bank WDI
+BRA,Brazil,2014,hightech_exports,TX.VAL.TECH.MF.ZS,12.3711688680768,World Bank WDI
+BRA,Brazil,2014,internet_users,IT.NET.USER.ZS,54.5510018796392,World Bank WDI
+BRA,Brazil,2014,manufacturing_value_added,NV.IND.MANF.ZS,10.3370973963623,World Bank WDI
+BRA,Brazil,2014,patent_nonresident,IP.PAT.NRES,25683.0,World Bank WDI
+BRA,Brazil,2014,patent_resident,IP.PAT.RESD,4659.0,World Bank WDI
+BRA,Brazil,2014,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.26971,World Bank WDI
+BRA,Brazil,2014,researchers_rd,SP.POP.SCIE.RD.P6,903.20079,World Bank WDI
+BRA,Brazil,2014,tertiary_enrolment,SE.TER.ENRR,47.8131904602051,World Bank WDI
+BRA,Brazil,2015,fdi,BX.KLT.DINV.WD.GD.ZS,3.59214931791344,World Bank WDI
+BRA,Brazil,2015,fixed_broadband,IT.NET.BBND.P2,12.6353840484725,World Bank WDI
+BRA,Brazil,2015,government_education,SE.XPD.TOTL.GD.ZS,6.24105978012085,World Bank WDI
+BRA,Brazil,2015,hightech_exports,TX.VAL.TECH.MF.ZS,14.4858996246715,World Bank WDI
+BRA,Brazil,2015,internet_users,IT.NET.USER.ZS,58.3279517340924,World Bank WDI
+BRA,Brazil,2015,manufacturing_value_added,NV.IND.MANF.ZS,10.5209374571105,World Bank WDI
+BRA,Brazil,2015,patent_nonresident,IP.PAT.NRES,25578.0,World Bank WDI
+BRA,Brazil,2015,patent_resident,IP.PAT.RESD,4641.0,World Bank WDI
+BRA,Brazil,2015,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.28464,World Bank WDI
+BRA,Brazil,2015,tertiary_enrolment,SE.TER.ENRR,49.0805015563965,World Bank WDI
+BRA,Brazil,2016,fdi,BX.KLT.DINV.WD.GD.ZS,4.13737803865892,World Bank WDI
+BRA,Brazil,2016,fixed_broadband,IT.NET.BBND.P2,13.217709027651,World Bank WDI
+BRA,Brazil,2016,government_education,SE.XPD.TOTL.GD.ZS,6.31403017044067,World Bank WDI
+BRA,Brazil,2016,hightech_exports,TX.VAL.TECH.MF.ZS,16.0001642772964,World Bank WDI
+BRA,Brazil,2016,internet_users,IT.NET.USER.ZS,60.8725400681261,World Bank WDI
+BRA,Brazil,2016,manufacturing_value_added,NV.IND.MANF.ZS,10.7864511144495,World Bank WDI
+BRA,Brazil,2016,patent_nonresident,IP.PAT.NRES,22810.0,World Bank WDI
+BRA,Brazil,2016,patent_resident,IP.PAT.RESD,5200.0,World Bank WDI
+BRA,Brazil,2016,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.19584,World Bank WDI
+BRA,Brazil,2016,tertiary_enrolment,SE.TER.ENRR,48.9665794372559,World Bank WDI
+BRA,Brazil,2017,fdi,BX.KLT.DINV.WD.GD.ZS,3.33825981739039,World Bank WDI
+BRA,Brazil,2017,fixed_broadband,IT.NET.BBND.P2,14.1218273097456,World Bank WDI
+BRA,Brazil,2017,government_education,SE.XPD.TOTL.GD.ZS,6.32047986984253,World Bank WDI
+BRA,Brazil,2017,hightech_exports,TX.VAL.TECH.MF.ZS,14.3118892236086,World Bank WDI
+BRA,Brazil,2017,internet_users,IT.NET.USER.ZS,67.4712845236305,World Bank WDI
+BRA,Brazil,2017,manufacturing_value_added,NV.IND.MANF.ZS,10.7214980093214,World Bank WDI
+BRA,Brazil,2017,patent_nonresident,IP.PAT.NRES,20178.0,World Bank WDI
+BRA,Brazil,2017,patent_resident,IP.PAT.RESD,5480.0,World Bank WDI
+BRA,Brazil,2017,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.1175,World Bank WDI
+BRA,Brazil,2017,tertiary_enrolment,SE.TER.ENRR,50.7326316833496,World Bank WDI
+BRA,Brazil,2018,fdi,BX.KLT.DINV.WD.GD.ZS,4.07858821454947,World Bank WDI
+BRA,Brazil,2018,fixed_broadband,IT.NET.BBND.P2,15.1537620986579,World Bank WDI
+BRA,Brazil,2018,government_education,SE.XPD.TOTL.GD.ZS,6.08851003646851,World Bank WDI
+BRA,Brazil,2018,hightech_exports,TX.VAL.TECH.MF.ZS,14.7442418256611,World Bank WDI
+BRA,Brazil,2018,internet_users,IT.NET.USER.ZS,70.4342825404361,World Bank WDI
+BRA,Brazil,2018,manufacturing_value_added,NV.IND.MANF.ZS,10.5284573770078,World Bank WDI
+BRA,Brazil,2018,patent_nonresident,IP.PAT.NRES,19877.0,World Bank WDI
+BRA,Brazil,2018,patent_resident,IP.PAT.RESD,4980.0,World Bank WDI
+BRA,Brazil,2018,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.15016,World Bank WDI
+BRA,Brazil,2018,tertiary_enrolment,SE.TER.ENRR,52.05712890625,World Bank WDI
+BRA,Brazil,2019,fdi,BX.KLT.DINV.WD.GD.ZS,3.692673213156,World Bank WDI
+BRA,Brazil,2019,fixed_broadband,IT.NET.BBND.P2,15.8621991239093,World Bank WDI
+BRA,Brazil,2019,government_education,SE.XPD.TOTL.GD.ZS,5.96346998214722,World Bank WDI
+BRA,Brazil,2019,hightech_exports,TX.VAL.TECH.MF.ZS,14.0668052120423,World Bank WDI
+BRA,Brazil,2019,internet_users,IT.NET.USER.ZS,73.9124399133589,World Bank WDI
+BRA,Brazil,2019,manufacturing_value_added,NV.IND.MANF.ZS,10.3325005328998,World Bank WDI
+BRA,Brazil,2019,patent_nonresident,IP.PAT.NRES,19932.0,World Bank WDI
+BRA,Brazil,2019,patent_resident,IP.PAT.RESD,5464.0,World Bank WDI
+BRA,Brazil,2019,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.15115,World Bank WDI
+BRA,Brazil,2019,tertiary_enrolment,SE.TER.ENRR,53.6215400695801,World Bank WDI
+BRA,Brazil,2020,fdi,BX.KLT.DINV.WD.GD.ZS,2.59263795310275,World Bank WDI
+BRA,Brazil,2020,fixed_broadband,IT.NET.BBND.P2,17.418059685583,World Bank WDI
+BRA,Brazil,2020,government_education,SE.XPD.TOTL.GD.ZS,5.7714900970459,World Bank WDI
+BRA,Brazil,2020,hightech_exports,TX.VAL.TECH.MF.ZS,11.3500942678804,World Bank WDI
+BRA,Brazil,2020,internet_users,IT.NET.USER.ZS,81.34269353,World Bank WDI
+BRA,Brazil,2020,manufacturing_value_added,NV.IND.MANF.ZS,10.692931568332,World Bank WDI
+BRA,Brazil,2020,patent_nonresident,IP.PAT.NRES,19058.0,World Bank WDI
+BRA,Brazil,2020,patent_resident,IP.PAT.RESD,5280.0,World Bank WDI
+BRA,Brazil,2020,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.21907,World Bank WDI
+BRA,Brazil,2020,tertiary_enrolment,SE.TER.ENRR,55.529109954834,World Bank WDI
+BRA,Brazil,2021,fdi,BX.KLT.DINV.WD.GD.ZS,2.77979084938159,World Bank WDI
+BRA,Brazil,2021,fixed_broadband,IT.NET.BBND.P2,19.8363162401481,World Bank WDI
+BRA,Brazil,2021,government_education,SE.XPD.TOTL.GD.ZS,5.4969801902771,World Bank WDI
+BRA,Brazil,2021,hightech_exports,TX.VAL.TECH.MF.ZS,9.00155420026002,World Bank WDI
+BRA,Brazil,2021,internet_users,IT.NET.USER.ZS,80.68989314,World Bank WDI
+BRA,Brazil,2021,manufacturing_value_added,NV.IND.MANF.ZS,11.9043730112478,World Bank WDI
+BRA,Brazil,2021,patent_nonresident,IP.PAT.NRES,19566.0,World Bank WDI
+BRA,Brazil,2021,patent_resident,IP.PAT.RESD,4666.0,World Bank WDI
+BRA,Brazil,2021,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.13371,World Bank WDI
+BRA,Brazil,2021,tertiary_enrolment,SE.TER.ENRR,57.6311988830566,World Bank WDI
+BRA,Brazil,2022,fdi,BX.KLT.DINV.WD.GD.ZS,3.8680317970139,World Bank WDI
+BRA,Brazil,2022,fixed_broadband,IT.NET.BBND.P2,20.9534469027015,World Bank WDI
+BRA,Brazil,2022,government_education,SE.XPD.TOTL.GD.ZS,5.61920976638794,World Bank WDI
+BRA,Brazil,2022,hightech_exports,TX.VAL.TECH.MF.ZS,9.11134627987528,World Bank WDI
+BRA,Brazil,2022,internet_users,IT.NET.USER.ZS,80.52775094,World Bank WDI
+BRA,Brazil,2022,manufacturing_value_added,NV.IND.MANF.ZS,13.0740816282273,World Bank WDI
+BRA,Brazil,2022,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.18873,World Bank WDI
+BRA,Brazil,2022,tertiary_enrolment,SE.TER.ENRR,61.0000915527344,World Bank WDI
+BRA,Brazil,2023,fdi,BX.KLT.DINV.WD.GD.ZS,2.86383344298207,World Bank WDI
+BRA,Brazil,2023,fixed_broadband,IT.NET.BBND.P2,22.4192301618889,World Bank WDI
+BRA,Brazil,2023,hightech_exports,TX.VAL.TECH.MF.ZS,9.849149349554,World Bank WDI
+BRA,Brazil,2023,internet_users,IT.NET.USER.ZS,84.15060238,World Bank WDI
+BRA,Brazil,2023,manufacturing_value_added,NV.IND.MANF.ZS,13.2531636224002,World Bank WDI
+BRA,Brazil,2023,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.1938,World Bank WDI
+BRA,Brazil,2024,fdi,BX.KLT.DINV.WD.GD.ZS,3.38960808548439,World Bank WDI
+BRA,Brazil,2024,fixed_broadband,IT.NET.BBND.P2,24.079199344422,World Bank WDI
+BRA,Brazil,2024,hightech_exports,TX.VAL.TECH.MF.ZS,11.1103644206652,World Bank WDI
+BRA,Brazil,2024,internet_users,IT.NET.USER.ZS,84.46347227,World Bank WDI
+BRA,Brazil,2024,manufacturing_value_added,NV.IND.MANF.ZS,12.1108065153855,World Bank WDI
+BRA,Brazil,2024,tertiary_enrolment,SE.TER.ENRR,69.7317733764648,World Bank WDI
+BRA,Brazil,2025,fdi,BX.KLT.DINV.WD.GD.ZS,3.40696865505948,World Bank WDI
+BRA,Brazil,2025,manufacturing_value_added,NV.IND.MANF.ZS,11.7722632755736,World Bank WDI
+CHN,China,2000,fdi,BX.KLT.DINV.WD.GD.ZS,3.43984725315719,World Bank WDI
+CHN,China,2000,fixed_broadband,IT.NET.BBND.P2,0.00178484057941392,World Bank WDI
+CHN,China,2000,internet_users,IT.NET.USER.ZS,1.77591320677415,World Bank WDI
+CHN,China,2000,patent_nonresident,IP.PAT.NRES,26560.0,World Bank WDI
+CHN,China,2000,patent_resident,IP.PAT.RESD,25346.0,World Bank WDI
+CHN,China,2000,rd_expenditure,GB.XPD.RSDV.GD.ZS,0.88409,World Bank WDI
+CHN,China,2000,researchers_rd,SP.POP.SCIE.RD.P6,549.57477,World Bank WDI
+CHN,China,2000,tertiary_enrolment,SE.TER.ENRR,7.57777976989746,World Bank WDI
+CHN,China,2001,fdi,BX.KLT.DINV.WD.GD.ZS,3.47245235578959,World Bank WDI
+CHN,China,2001,fixed_broadband,IT.NET.BBND.P2,0.0262980690478576,World Bank WDI
+CHN,China,2001,internet_users,IT.NET.USER.ZS,2.63965021485872,World Bank WDI
+CHN,China,2001,patent_nonresident,IP.PAT.NRES,33412.0,World Bank WDI
+CHN,China,2001,patent_resident,IP.PAT.RESD,30038.0,World Bank WDI
+CHN,China,2001,rd_expenditure,GB.XPD.RSDV.GD.ZS,0.92948,World Bank WDI
+CHN,China,2001,researchers_rd,SP.POP.SCIE.RD.P6,582.78825,World Bank WDI
+CHN,China,2001,tertiary_enrolment,SE.TER.ENRR,9.28069019317627,World Bank WDI
+CHN,China,2002,fdi,BX.KLT.DINV.WD.GD.ZS,3.56241418263928,World Bank WDI
+CHN,China,2002,fixed_broadband,IT.NET.BBND.P2,0.256319449692495,World Bank WDI
+CHN,China,2002,internet_users,IT.NET.USER.ZS,4.59570433077551,World Bank WDI
+CHN,China,2002,patent_nonresident,IP.PAT.NRES,40426.0,World Bank WDI
+CHN,China,2002,patent_resident,IP.PAT.RESD,39806.0,World Bank WDI
+CHN,China,2002,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.04418,World Bank WDI
+CHN,China,2002,researchers_rd,SP.POP.SCIE.RD.P6,631.73478,World Bank WDI
+CHN,China,2002,tertiary_enrolment,SE.TER.ENRR,11.8050804138184,World Bank WDI
+CHN,China,2003,fdi,BX.KLT.DINV.WD.GD.ZS,3.43849537731211,World Bank WDI
+CHN,China,2003,fixed_broadband,IT.NET.BBND.P2,0.866655839568114,World Bank WDI
+CHN,China,2003,internet_users,IT.NET.USER.ZS,6.2,World Bank WDI
+CHN,China,2003,patent_nonresident,IP.PAT.NRES,48548.0,World Bank WDI
+CHN,China,2003,patent_resident,IP.PAT.RESD,56769.0,World Bank WDI
+CHN,China,2003,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.10465,World Bank WDI
+CHN,China,2003,researchers_rd,SP.POP.SCIE.RD.P6,667.9285,World Bank WDI
+CHN,China,2003,tertiary_enrolment,SE.TER.ENRR,14.513970375061,World Bank WDI
+CHN,China,2004,fdi,BX.KLT.DINV.WD.GD.ZS,3.43299015092913,World Bank WDI
+CHN,China,2004,fixed_broadband,IT.NET.BBND.P2,1.91533860283619,World Bank WDI
+CHN,China,2004,internet_users,IT.NET.USER.ZS,7.3,World Bank WDI
+CHN,China,2004,manufacturing_value_added,NV.IND.MANF.ZS,31.5101594673259,World Bank WDI
+CHN,China,2004,patent_nonresident,IP.PAT.NRES,64598.0,World Bank WDI
+CHN,China,2004,patent_resident,IP.PAT.RESD,65786.0,World Bank WDI
+CHN,China,2004,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.19732,World Bank WDI
+CHN,China,2004,researchers_rd,SP.POP.SCIE.RD.P6,713.42588,World Bank WDI
+CHN,China,2004,tertiary_enrolment,SE.TER.ENRR,16.9004402160644,World Bank WDI
+CHN,China,2005,fdi,BX.KLT.DINV.WD.GD.ZS,4.49218509012467,World Bank WDI
+CHN,China,2005,fixed_broadband,IT.NET.BBND.P2,2.85108597933654,World Bank WDI
+CHN,China,2005,internet_users,IT.NET.USER.ZS,8.52325700269541,World Bank WDI
+CHN,China,2005,manufacturing_value_added,NV.IND.MANF.ZS,31.6564574964127,World Bank WDI
+CHN,China,2005,patent_nonresident,IP.PAT.NRES,79842.0,World Bank WDI
+CHN,China,2005,patent_resident,IP.PAT.RESD,93485.0,World Bank WDI
+CHN,China,2005,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.29008,World Bank WDI
+CHN,China,2005,researchers_rd,SP.POP.SCIE.RD.P6,856.65892,World Bank WDI
+CHN,China,2005,tertiary_enrolment,SE.TER.ENRR,18.6565208435059,World Bank WDI
+CHN,China,2006,fdi,BX.KLT.DINV.WD.GD.ZS,4.44499743873593,World Bank WDI
+CHN,China,2006,fixed_broadband,IT.NET.BBND.P2,3.85818779891054,World Bank WDI
+CHN,China,2006,internet_users,IT.NET.USER.ZS,10.5231526193851,World Bank WDI
+CHN,China,2006,manufacturing_value_added,NV.IND.MANF.ZS,31.9945213596647,World Bank WDI
+CHN,China,2006,patent_nonresident,IP.PAT.NRES,88183.0,World Bank WDI
+CHN,China,2006,patent_resident,IP.PAT.RESD,122318.0,World Bank WDI
+CHN,China,2006,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.34923,World Bank WDI
+CHN,China,2006,researchers_rd,SP.POP.SCIE.RD.P6,931.20148,World Bank WDI
+CHN,China,2006,tertiary_enrolment,SE.TER.ENRR,20.5667705535889,World Bank WDI
+CHN,China,2007,fdi,BX.KLT.DINV.WD.GD.ZS,4.33537500236917,World Bank WDI
+CHN,China,2007,fixed_broadband,IT.NET.BBND.P2,5.00930152637401,World Bank WDI
+CHN,China,2007,hightech_exports,TX.VAL.TECH.MF.ZS,30.2374939097036,World Bank WDI
+CHN,China,2007,internet_users,IT.NET.USER.ZS,16.0,World Bank WDI
+CHN,China,2007,manufacturing_value_added,NV.IND.MANF.ZS,31.9005932714931,World Bank WDI
+CHN,China,2007,patent_nonresident,IP.PAT.NRES,92101.0,World Bank WDI
+CHN,China,2007,patent_resident,IP.PAT.RESD,153060.0,World Bank WDI
+CHN,China,2007,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.35321,World Bank WDI
+CHN,China,2007,researchers_rd,SP.POP.SCIE.RD.P6,1076.73747,World Bank WDI
+CHN,China,2007,tertiary_enrolment,SE.TER.ENRR,21.4715595245361,World Bank WDI
+CHN,China,2008,fdi,BX.KLT.DINV.WD.GD.ZS,3.67520717506325,World Bank WDI
+CHN,China,2008,fixed_broadband,IT.NET.BBND.P2,6.21365228211399,World Bank WDI
+CHN,China,2008,hightech_exports,TX.VAL.TECH.MF.ZS,29.4319344493349,World Bank WDI
+CHN,China,2008,internet_users,IT.NET.USER.ZS,22.6,World Bank WDI
+CHN,China,2008,manufacturing_value_added,NV.IND.MANF.ZS,31.6169791482305,World Bank WDI
+CHN,China,2008,patent_nonresident,IP.PAT.NRES,95259.0,World Bank WDI
+CHN,China,2008,patent_resident,IP.PAT.RESD,194579.0,World Bank WDI
+CHN,China,2008,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.4233,World Bank WDI
+CHN,China,2008,researchers_rd,SP.POP.SCIE.RD.P6,1197.58885,World Bank WDI
+CHN,China,2008,tertiary_enrolment,SE.TER.ENRR,21.8667392730713,World Bank WDI
+CHN,China,2009,fdi,BX.KLT.DINV.WD.GD.ZS,2.52538984334254,World Bank WDI
+CHN,China,2009,fixed_broadband,IT.NET.BBND.P2,7.74497137074886,World Bank WDI
+CHN,China,2009,hightech_exports,TX.VAL.TECH.MF.ZS,31.9775769727453,World Bank WDI
+CHN,China,2009,internet_users,IT.NET.USER.ZS,28.9,World Bank WDI
+CHN,China,2009,manufacturing_value_added,NV.IND.MANF.ZS,31.0611528606438,World Bank WDI
+CHN,China,2009,patent_nonresident,IP.PAT.NRES,85508.0,World Bank WDI
+CHN,China,2009,patent_resident,IP.PAT.RESD,229096.0,World Bank WDI
+CHN,China,2009,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.6366,World Bank WDI
+CHN,China,2009,researchers_rd,SP.POP.SCIE.RD.P6,861.24883,World Bank WDI
+CHN,China,2009,tertiary_enrolment,SE.TER.ENRR,23.2886295318604,World Bank WDI
+CHN,China,2010,fdi,BX.KLT.DINV.WD.GD.ZS,3.93541996731512,World Bank WDI
+CHN,China,2010,fixed_broadband,IT.NET.BBND.P2,9.34748427588032,World Bank WDI
+CHN,China,2010,hightech_exports,TX.VAL.TECH.MF.ZS,32.1501169663397,World Bank WDI
+CHN,China,2010,internet_users,IT.NET.USER.ZS,34.3,World Bank WDI
+CHN,China,2010,manufacturing_value_added,NV.IND.MANF.ZS,31.0748956423241,World Bank WDI
+CHN,China,2010,patent_nonresident,IP.PAT.NRES,98111.0,World Bank WDI
+CHN,China,2010,patent_resident,IP.PAT.RESD,293066.0,World Bank WDI
+CHN,China,2010,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.68456,World Bank WDI
+CHN,China,2010,researchers_rd,SP.POP.SCIE.RD.P6,898.85545,World Bank WDI
+CHN,China,2010,tertiary_enrolment,SE.TER.ENRR,25.2883066277701,World Bank WDI
+CHN,China,2011,fdi,BX.KLT.DINV.WD.GD.ZS,3.65069190228423,World Bank WDI
+CHN,China,2011,fixed_broadband,IT.NET.BBND.P2,11.504276685286,World Bank WDI
+CHN,China,2011,hightech_exports,TX.VAL.TECH.MF.ZS,30.5004796644425,World Bank WDI
+CHN,China,2011,internet_users,IT.NET.USER.ZS,38.3,World Bank WDI
+CHN,China,2011,manufacturing_value_added,NV.IND.MANF.ZS,31.5623565182378,World Bank WDI
+CHN,China,2011,patent_nonresident,IP.PAT.NRES,110583.0,World Bank WDI
+CHN,China,2011,patent_resident,IP.PAT.RESD,415829.0,World Bank WDI
+CHN,China,2011,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.75244,World Bank WDI
+CHN,China,2011,researchers_rd,SP.POP.SCIE.RD.P6,972.01743,World Bank WDI
+CHN,China,2011,tertiary_enrolment,SE.TER.ENRR,26.7875039907406,World Bank WDI
+CHN,China,2012,fdi,BX.KLT.DINV.WD.GD.ZS,2.78099138181613,World Bank WDI
+CHN,China,2012,fixed_broadband,IT.NET.BBND.P2,12.791553937217,World Bank WDI
+CHN,China,2012,hightech_exports,TX.VAL.TECH.MF.ZS,30.8618085179503,World Bank WDI
+CHN,China,2012,internet_users,IT.NET.USER.ZS,42.30009842,World Bank WDI
+CHN,China,2012,manufacturing_value_added,NV.IND.MANF.ZS,31.0143036500115,World Bank WDI
+CHN,China,2012,patent_nonresident,IP.PAT.NRES,117464.0,World Bank WDI
+CHN,China,2012,patent_resident,IP.PAT.RESD,535313.0,World Bank WDI
+CHN,China,2012,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.88095,World Bank WDI
+CHN,China,2012,researchers_rd,SP.POP.SCIE.RD.P6,1028.98334,World Bank WDI
+CHN,China,2012,tertiary_enrolment,SE.TER.ENRR,29.3081906903292,World Bank WDI
+CHN,China,2013,fdi,BX.KLT.DINV.WD.GD.ZS,2.98598708261986,World Bank WDI
+CHN,China,2013,fixed_broadband,IT.NET.BBND.P2,13.6989049026864,World Bank WDI
+CHN,China,2013,hightech_exports,TX.VAL.TECH.MF.ZS,31.5855813292794,World Bank WDI
+CHN,China,2013,internet_users,IT.NET.USER.ZS,45.79999924,World Bank WDI
+CHN,China,2013,manufacturing_value_added,NV.IND.MANF.ZS,30.1275021518721,World Bank WDI
+CHN,China,2013,patent_nonresident,IP.PAT.NRES,120200.0,World Bank WDI
+CHN,China,2013,patent_resident,IP.PAT.RESD,704936.0,World Bank WDI
+CHN,China,2013,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.96246,World Bank WDI
+CHN,China,2013,researchers_rd,SP.POP.SCIE.RD.P6,1079.63795,World Bank WDI
+CHN,China,2013,tertiary_enrolment,SE.TER.ENRR,32.7191603158803,World Bank WDI
+CHN,China,2014,fdi,BX.KLT.DINV.WD.GD.ZS,2.51155883670463,World Bank WDI
+CHN,China,2014,fixed_broadband,IT.NET.BBND.P2,14.4445199866037,World Bank WDI
+CHN,China,2014,hightech_exports,TX.VAL.TECH.MF.ZS,29.7037271802947,World Bank WDI
+CHN,China,2014,internet_users,IT.NET.USER.ZS,47.90000153,World Bank WDI
+CHN,China,2014,manufacturing_value_added,NV.IND.MANF.ZS,29.8300397890826,World Bank WDI
+CHN,China,2014,patent_nonresident,IP.PAT.NRES,127042.0,World Bank WDI
+CHN,China,2014,patent_resident,IP.PAT.RESD,801135.0,World Bank WDI
+CHN,China,2014,rd_expenditure,GB.XPD.RSDV.GD.ZS,1.98475,World Bank WDI
+CHN,China,2014,researchers_rd,SP.POP.SCIE.RD.P6,1101.80087,World Bank WDI
+CHN,China,2014,tertiary_enrolment,SE.TER.ENRR,43.7110051016854,World Bank WDI
+CHN,China,2015,fdi,BX.KLT.DINV.WD.GD.ZS,2.14957284731563,World Bank WDI
+CHN,China,2015,fixed_broadband,IT.NET.BBND.P2,19.8437947555032,World Bank WDI
+CHN,China,2015,hightech_exports,TX.VAL.TECH.MF.ZS,30.4312672747562,World Bank WDI
+CHN,China,2015,internet_users,IT.NET.USER.ZS,50.29999924,World Bank WDI
+CHN,China,2015,manufacturing_value_added,NV.IND.MANF.ZS,28.3889960582852,World Bank WDI
+CHN,China,2015,patent_nonresident,IP.PAT.NRES,133612.0,World Bank WDI
+CHN,China,2015,patent_resident,IP.PAT.RESD,968252.0,World Bank WDI
+CHN,China,2015,rd_expenditure,GB.XPD.RSDV.GD.ZS,2.01703,World Bank WDI
+CHN,China,2015,researchers_rd,SP.POP.SCIE.RD.P6,1162.7108,World Bank WDI
+CHN,China,2015,tertiary_enrolment,SE.TER.ENRR,47.1192619330726,World Bank WDI
+CHN,China,2016,fdi,BX.KLT.DINV.WD.GD.ZS,1.52539470315394,World Bank WDI
+CHN,China,2016,fixed_broadband,IT.NET.BBND.P2,22.9761329915729,World Bank WDI
+CHN,China,2016,hightech_exports,TX.VAL.TECH.MF.ZS,30.2545232296357,World Bank WDI
+CHN,China,2016,internet_users,IT.NET.USER.ZS,53.2,World Bank WDI
+CHN,China,2016,manufacturing_value_added,NV.IND.MANF.ZS,27.5237594259275,World Bank WDI
+CHN,China,2016,patent_nonresident,IP.PAT.NRES,133522.0,World Bank WDI
+CHN,China,2016,patent_resident,IP.PAT.RESD,1204981.0,World Bank WDI
+CHN,China,2016,rd_expenditure,GB.XPD.RSDV.GD.ZS,2.0595,World Bank WDI
+CHN,China,2016,researchers_rd,SP.POP.SCIE.RD.P6,1208.86205,World Bank WDI
+CHN,China,2016,tertiary_enrolment,SE.TER.ENRR,49.309077375597,World Bank WDI
+CHN,China,2017,fdi,BX.KLT.DINV.WD.GD.ZS,1.32468971748482,World Bank WDI
+CHN,China,2017,fixed_broadband,IT.NET.BBND.P2,27.9101271418763,World Bank WDI
+CHN,China,2017,hightech_exports,TX.VAL.TECH.MF.ZS,30.9118639785891,World Bank WDI
+CHN,China,2017,internet_users,IT.NET.USER.ZS,54.3,World Bank WDI
+CHN,China,2017,manufacturing_value_added,NV.IND.MANF.ZS,27.5998559245177,World Bank WDI
+CHN,China,2017,patent_nonresident,IP.PAT.NRES,135885.0,World Bank WDI
+CHN,China,2017,patent_resident,IP.PAT.RESD,1245709.0,World Bank WDI
+CHN,China,2017,rd_expenditure,GB.XPD.RSDV.GD.ZS,2.07771,World Bank WDI
+CHN,China,2017,researchers_rd,SP.POP.SCIE.RD.P6,1235.84935,World Bank WDI
+CHN,China,2017,tertiary_enrolment,SE.TER.ENRR,51.0678812273407,World Bank WDI
+CHN,China,2018,fdi,BX.KLT.DINV.WD.GD.ZS,1.66361992284408,World Bank WDI
+CHN,China,2018,fixed_broadband,IT.NET.BBND.P2,28.7089097131815,World Bank WDI
+CHN,China,2018,hightech_exports,TX.VAL.TECH.MF.ZS,31.5481478595353,World Bank WDI
+CHN,China,2018,internet_users,IT.NET.USER.ZS,65.35839844,World Bank WDI
+CHN,China,2018,manufacturing_value_added,NV.IND.MANF.ZS,27.34341880328,World Bank WDI
+CHN,China,2018,patent_nonresident,IP.PAT.NRES,148187.0,World Bank WDI
+CHN,China,2018,patent_resident,IP.PAT.RESD,1393815.0,World Bank WDI
+CHN,China,2018,rd_expenditure,GB.XPD.RSDV.GD.ZS,2.10232,World Bank WDI
+CHN,China,2018,researchers_rd,SP.POP.SCIE.RD.P6,1317.48914,World Bank WDI
+CHN,China,2018,tertiary_enrolment,SE.TER.ENRR,53.3987984572814,World Bank WDI
+CHN,China,2019,fdi,BX.KLT.DINV.WD.GD.ZS,1.28549226847992,World Bank WDI
+CHN,China,2019,fixed_broadband,IT.NET.BBND.P2,31.5611222411202,World Bank WDI
+CHN,China,2019,hightech_exports,TX.VAL.TECH.MF.ZS,30.8186302968419,World Bank WDI
+CHN,China,2019,internet_users,IT.NET.USER.ZS,64.080881297515,World Bank WDI
+CHN,China,2019,manufacturing_value_added,NV.IND.MANF.ZS,26.2594662949297,World Bank WDI
+CHN,China,2019,patent_nonresident,IP.PAT.NRES,157093.0,World Bank WDI
+CHN,China,2019,patent_resident,IP.PAT.RESD,1243568.0,World Bank WDI
+CHN,China,2019,rd_expenditure,GB.XPD.RSDV.GD.ZS,2.20144,World Bank WDI
+CHN,China,2019,researchers_rd,SP.POP.SCIE.RD.P6,1483.85803,World Bank WDI
+CHN,China,2019,tertiary_enrolment,SE.TER.ENRR,56.6050917923292,World Bank WDI
+CHN,China,2020,fdi,BX.KLT.DINV.WD.GD.ZS,1.68770756292082,World Bank WDI
+CHN,China,2020,fixed_broadband,IT.NET.BBND.P2,33.9069794578039,World Bank WDI
+CHN,China,2020,hightech_exports,TX.VAL.TECH.MF.ZS,31.2766154241293,World Bank WDI
+CHN,China,2020,internet_users,IT.NET.USER.ZS,70.05275998,World Bank WDI
+CHN,China,2020,manufacturing_value_added,NV.IND.MANF.ZS,25.5809804288007,World Bank WDI
+CHN,China,2020,patent_nonresident,IP.PAT.NRES,152342.0,World Bank WDI
+CHN,China,2020,patent_resident,IP.PAT.RESD,1344817.0,World Bank WDI
+CHN,China,2020,rd_expenditure,GB.XPD.RSDV.GD.ZS,2.35712,World Bank WDI
+CHN,China,2020,researchers_rd,SP.POP.SCIE.RD.P6,1600.30633,World Bank WDI
+CHN,China,2020,tertiary_enrolment,SE.TER.ENRR,61.6124675996947,World Bank WDI
+CHN,China,2021,fdi,BX.KLT.DINV.WD.GD.ZS,1.8903454142588,World Bank WDI
+CHN,China,2021,fixed_broadband,IT.NET.BBND.P2,37.5611751315805,World Bank WDI
+CHN,China,2021,hightech_exports,TX.VAL.TECH.MF.ZS,30.2190732796596,World Bank WDI
+CHN,China,2021,internet_users,IT.NET.USER.ZS,73.05323517,World Bank WDI
+CHN,China,2021,manufacturing_value_added,NV.IND.MANF.ZS,26.621932558827,World Bank WDI
+CHN,China,2021,patent_nonresident,IP.PAT.NRES,159019.0,World Bank WDI
+CHN,China,2021,patent_resident,IP.PAT.RESD,1426644.0,World Bank WDI
+CHN,China,2021,rd_expenditure,GB.XPD.RSDV.GD.ZS,2.38165,World Bank WDI
+CHN,China,2021,researchers_rd,SP.POP.SCIE.RD.P6,1685.97511,World Bank WDI
+CHN,China,2021,tertiary_enrolment,SE.TER.ENRR,66.8186077597542,World Bank WDI
+CHN,China,2022,fdi,BX.KLT.DINV.WD.GD.ZS,1.03841365474349,World Bank WDI
+CHN,China,2022,fixed_broadband,IT.NET.BBND.P2,41.3736197056022,World Bank WDI
+CHN,China,2022,hightech_exports,TX.VAL.TECH.MF.ZS,27.7650612563156,World Bank WDI
+CHN,China,2022,internet_users,IT.NET.USER.ZS,75.61131603,World Bank WDI
+CHN,China,2022,manufacturing_value_added,NV.IND.MANF.ZS,25.9806695043084,World Bank WDI
+CHN,China,2022,rd_expenditure,GB.XPD.RSDV.GD.ZS,2.4945,World Bank WDI
+CHN,China,2022,researchers_rd,SP.POP.SCIE.RD.P6,1849.23669,World Bank WDI
+CHN,China,2022,tertiary_enrolment,SE.TER.ENRR,71.5799465086024,World Bank WDI
+CHN,China,2023,fdi,BX.KLT.DINV.WD.GD.ZS,0.280991103634816,World Bank WDI
+CHN,China,2023,fixed_broadband,IT.NET.BBND.P2,44.728886496649,World Bank WDI
+CHN,China,2023,government_education,SE.XPD.TOTL.GD.ZS,3.89714002609253,World Bank WDI
+CHN,China,2023,hightech_exports,TX.VAL.TECH.MF.ZS,26.5682136542881,World Bank WDI
+CHN,China,2023,internet_users,IT.NET.USER.ZS,90.6,World Bank WDI
+CHN,China,2023,manufacturing_value_added,NV.IND.MANF.ZS,25.0144267929987,World Bank WDI
+CHN,China,2023,rd_expenditure,GB.XPD.RSDV.GD.ZS,2.57729,World Bank WDI
+CHN,China,2023,researchers_rd,SP.POP.SCIE.RD.P6,2107.27003,World Bank WDI
+CHN,China,2023,tertiary_enrolment,SE.TER.ENRR,74.5933014618366,World Bank WDI
+CHN,China,2024,fdi,BX.KLT.DINV.WD.GD.ZS,0.227695125306895,World Bank WDI
+CHN,China,2024,fixed_broadband,IT.NET.BBND.P2,47.1933952081567,World Bank WDI
+CHN,China,2024,hightech_exports,TX.VAL.TECH.MF.ZS,26.2777380479223,World Bank WDI
+CHN,China,2024,internet_users,IT.NET.USER.ZS,92.0,World Bank WDI
+CHN,China,2024,manufacturing_value_added,NV.IND.MANF.ZS,24.8415841892631,World Bank WDI
+CHN,China,2024,tertiary_enrolment,SE.TER.ENRR,76.8757843123403,World Bank WDI
+CHN,China,2025,fdi,BX.KLT.DINV.WD.GD.ZS,0.410194399848574,World Bank WDI
+CHN,China,2025,internet_users,IT.NET.USER.ZS,91.6,World Bank WDI
+CHN,China,2025,manufacturing_value_added,NV.IND.MANF.ZS,24.7344421687689,World Bank WDI
+IND,India,2000,fdi,BX.KLT.DINV.WD.GD.ZS,0.765211694280817,World Bank WDI
+IND,India,2000,government_education,SE.XPD.TOTL.GD.ZS,4.32480001449585,World Bank WDI
+IND,India,2000,internet_users,IT.NET.USER.ZS,0.527532449930946,World Bank WDI
+IND,India,2000,manufacturing_value_added,NV.IND.MANF.ZS,15.9270230184323,World Bank WDI
+IND,India,2000,patent_nonresident,IP.PAT.NRES,6332.0,World Bank WDI
+IND,India,2000,patent_resident,IP.PAT.RESD,2206.0,World Bank WDI
+IND,India,2000,rd_expenditure,GB.XPD.RSDV.GD.ZS,0.75699,World Bank WDI
+IND,India,2000,researchers_rd,SP.POP.SCIE.RD.P6,110.62568,World Bank WDI
+IND,India,2000,tertiary_enrolment,SE.TER.ENRR,9.93826007843018,World Bank WDI
+IND,India,2001,fdi,BX.KLT.DINV.WD.GD.ZS,1.05638020993358,World Bank WDI
+IND,India,2001,fixed_broadband,IT.NET.BBND.P2,0.00463865535771768,World Bank WDI
+IND,India,2001,internet_users,IT.NET.USER.ZS,0.660146377009928,World Bank WDI
+IND,India,2001,manufacturing_value_added,NV.IND.MANF.ZS,15.3070212831531,World Bank WDI
+IND,India,2001,patent_nonresident,IP.PAT.NRES,8213.0,World Bank WDI
+IND,India,2001,patent_resident,IP.PAT.RESD,2379.0,World Bank WDI
+IND,India,2001,rd_expenditure,GB.XPD.RSDV.GD.ZS,0.73591,World Bank WDI
+IND,India,2001,tertiary_enrolment,SE.TER.ENRR,10.0273504257202,World Bank WDI
+IND,India,2002,fdi,BX.KLT.DINV.WD.GD.ZS,1.01156946489919,World Bank WDI
+IND,India,2002,fixed_broadband,IT.NET.BBND.P2,0.00750810600120237,World Bank WDI
+IND,India,2002,internet_users,IT.NET.USER.ZS,1.53787558175083,World Bank WDI
+IND,India,2002,manufacturing_value_added,NV.IND.MANF.ZS,15.5587017262956,World Bank WDI
+IND,India,2002,patent_nonresident,IP.PAT.NRES,8772.0,World Bank WDI
+IND,India,2002,patent_resident,IP.PAT.RESD,2693.0,World Bank WDI
+IND,India,2002,rd_expenditure,GB.XPD.RSDV.GD.ZS,0.72567,World Bank WDI
+IND,India,2002,tertiary_enrolment,SE.TER.ENRR,10.5586500167847,World Bank WDI
+IND,India,2003,fdi,BX.KLT.DINV.WD.GD.ZS,0.605887857091792,World Bank WDI
+IND,India,2003,fixed_broadband,IT.NET.BBND.P2,0.0125681968302295,World Bank WDI
+IND,India,2003,government_education,SE.XPD.TOTL.GD.ZS,3.61342000961304,World Bank WDI
+IND,India,2003,internet_users,IT.NET.USER.ZS,1.68648997063625,World Bank WDI
+IND,India,2003,manufacturing_value_added,NV.IND.MANF.ZS,15.587386648646,World Bank WDI
+IND,India,2003,patent_nonresident,IP.PAT.NRES,9188.0,World Bank WDI
+IND,India,2003,patent_resident,IP.PAT.RESD,3425.0,World Bank WDI
+IND,India,2003,rd_expenditure,GB.XPD.RSDV.GD.ZS,0.71929,World Bank WDI
+IND,India,2003,tertiary_enrolment,SE.TER.ENRR,11.0576400756836,World Bank WDI
+IND,India,2004,fdi,BX.KLT.DINV.WD.GD.ZS,0.765596855110284,World Bank WDI
+IND,India,2004,fixed_broadband,IT.NET.BBND.P2,0.0206867742681806,World Bank WDI
+IND,India,2004,government_education,SE.XPD.TOTL.GD.ZS,3.35254001617432,World Bank WDI
+IND,India,2004,internet_users,IT.NET.USER.ZS,1.97613649190559,World Bank WDI
+IND,India,2004,manufacturing_value_added,NV.IND.MANF.ZS,15.8272457405027,World Bank WDI
+IND,India,2004,patent_nonresident,IP.PAT.NRES,13452.0,World Bank WDI
+IND,India,2004,patent_resident,IP.PAT.RESD,4014.0,World Bank WDI
+IND,India,2004,rd_expenditure,GB.XPD.RSDV.GD.ZS,0.7569,World Bank WDI
+IND,India,2004,tertiary_enrolment,SE.TER.ENRR,11.3926801681519,World Bank WDI
+IND,India,2005,fdi,BX.KLT.DINV.WD.GD.ZS,0.886098378458823,World Bank WDI
+IND,India,2005,fixed_broadband,IT.NET.BBND.P2,0.116742672757431,World Bank WDI
+IND,India,2005,government_education,SE.XPD.TOTL.GD.ZS,3.18876004219055,World Bank WDI
+IND,India,2005,internet_users,IT.NET.USER.ZS,2.388099909,World Bank WDI
+IND,India,2005,manufacturing_value_added,NV.IND.MANF.ZS,15.9730170446131,World Bank WDI
+IND,India,2005,patent_nonresident,IP.PAT.NRES,19661.0,World Bank WDI
+IND,India,2005,patent_resident,IP.PAT.RESD,4721.0,World Bank WDI
+IND,India,2005,rd_expenditure,GB.XPD.RSDV.GD.ZS,0.82411,World Bank WDI
+IND,India,2005,researchers_rd,SP.POP.SCIE.RD.P6,135.14649,World Bank WDI
+IND,India,2005,tertiary_enrolment,SE.TER.ENRR,11.1277303695679,World Bank WDI
+IND,India,2006,fdi,BX.KLT.DINV.WD.GD.ZS,2.13016842534495,World Bank WDI
+IND,India,2006,fixed_broadband,IT.NET.BBND.P2,0.196098678184923,World Bank WDI
+IND,India,2006,government_education,SE.XPD.TOTL.GD.ZS,3.14284992218018,World Bank WDI
+IND,India,2006,internet_users,IT.NET.USER.ZS,2.80549986534254,World Bank WDI
+IND,India,2006,manufacturing_value_added,NV.IND.MANF.ZS,17.3036533311925,World Bank WDI
+IND,India,2006,patent_nonresident,IP.PAT.NRES,23242.0,World Bank WDI
+IND,India,2006,patent_resident,IP.PAT.RESD,5686.0,World Bank WDI
+IND,India,2006,rd_expenditure,GB.XPD.RSDV.GD.ZS,0.80473,World Bank WDI
+IND,India,2006,tertiary_enrolment,SE.TER.ENRR,11.9628095626831,World Bank WDI
+IND,India,2007,fdi,BX.KLT.DINV.WD.GD.ZS,2.07339404668754,World Bank WDI
+IND,India,2007,fixed_broadband,IT.NET.BBND.P2,0.262875874276131,World Bank WDI
+IND,India,2007,internet_users,IT.NET.USER.ZS,3.95,World Bank WDI
+IND,India,2007,manufacturing_value_added,NV.IND.MANF.ZS,16.8645677754068,World Bank WDI
+IND,India,2007,patent_nonresident,IP.PAT.NRES,28922.0,World Bank WDI
+IND,India,2007,patent_resident,IP.PAT.RESD,6296.0,World Bank WDI
+IND,India,2007,rd_expenditure,GB.XPD.RSDV.GD.ZS,0.80507,World Bank WDI
+IND,India,2007,tertiary_enrolment,SE.TER.ENRR,13.6564798355103,World Bank WDI
+IND,India,2008,fdi,BX.KLT.DINV.WD.GD.ZS,3.6205232354017,World Bank WDI
+IND,India,2008,fixed_broadband,IT.NET.BBND.P2,0.437111073178848,World Bank WDI
+IND,India,2008,internet_users,IT.NET.USER.ZS,4.38,World Bank WDI
+IND,India,2008,manufacturing_value_added,NV.IND.MANF.ZS,17.0986741489578,World Bank WDI
+IND,India,2008,patent_nonresident,IP.PAT.NRES,30387.0,World Bank WDI
+IND,India,2008,patent_resident,IP.PAT.RESD,6425.0,World Bank WDI
+IND,India,2008,rd_expenditure,GB.XPD.RSDV.GD.ZS,0.85876,World Bank WDI
+IND,India,2008,tertiary_enrolment,SE.TER.ENRR,15.6485204696655,World Bank WDI
+IND,India,2009,fdi,BX.KLT.DINV.WD.GD.ZS,2.65159033235479,World Bank WDI
+IND,India,2009,fixed_broadband,IT.NET.BBND.P2,0.632032113675308,World Bank WDI
+IND,India,2009,government_education,SE.XPD.TOTL.GD.ZS,3.27824997901917,World Bank WDI
+IND,India,2009,hightech_exports,TX.VAL.TECH.MF.ZS,9.56909614274288,World Bank WDI
+IND,India,2009,internet_users,IT.NET.USER.ZS,5.12,World Bank WDI
+IND,India,2009,manufacturing_value_added,NV.IND.MANF.ZS,17.1435776672846,World Bank WDI
+IND,India,2009,patent_nonresident,IP.PAT.NRES,27025.0,World Bank WDI
+IND,India,2009,patent_resident,IP.PAT.RESD,7262.0,World Bank WDI
+IND,India,2009,rd_expenditure,GB.XPD.RSDV.GD.ZS,0.83314,World Bank WDI
+IND,India,2009,tertiary_enrolment,SE.TER.ENRR,16.6775093078613,World Bank WDI
+IND,India,2010,fdi,BX.KLT.DINV.WD.GD.ZS,1.6350340943491,World Bank WDI
+IND,India,2010,fixed_broadband,IT.NET.BBND.P2,0.883808841093522,World Bank WDI
+IND,India,2010,government_education,SE.XPD.TOTL.GD.ZS,3.377690076828,World Bank WDI
+IND,India,2010,hightech_exports,TX.VAL.TECH.MF.ZS,7.73016032755592,World Bank WDI
+IND,India,2010,internet_users,IT.NET.USER.ZS,7.5,World Bank WDI
+IND,India,2010,manufacturing_value_added,NV.IND.MANF.ZS,17.0299342498624,World Bank WDI
+IND,India,2010,patent_nonresident,IP.PAT.NRES,30909.0,World Bank WDI
+IND,India,2010,patent_resident,IP.PAT.RESD,8853.0,World Bank WDI
+IND,India,2010,rd_expenditure,GB.XPD.RSDV.GD.ZS,0.78849,World Bank WDI
+IND,India,2010,researchers_rd,SP.POP.SCIE.RD.P6,156.19059,World Bank WDI
+IND,India,2010,tertiary_enrolment,SE.TER.ENRR,18.6971831309683,World Bank WDI
+IND,India,2011,fdi,BX.KLT.DINV.WD.GD.ZS,2.0020634629993,World Bank WDI
+IND,India,2011,fixed_broadband,IT.NET.BBND.P2,1.05858887089543,World Bank WDI
+IND,India,2011,government_education,SE.XPD.TOTL.GD.ZS,3.79618000984192,World Bank WDI
+IND,India,2011,hightech_exports,TX.VAL.TECH.MF.ZS,7.87117262454535,World Bank WDI
+IND,India,2011,internet_users,IT.NET.USER.ZS,10.07,World Bank WDI
+IND,India,2011,manufacturing_value_added,NV.IND.MANF.ZS,16.1393374446289,World Bank WDI
+IND,India,2011,patent_nonresident,IP.PAT.NRES,33450.0,World Bank WDI
+IND,India,2011,patent_resident,IP.PAT.RESD,8841.0,World Bank WDI
+IND,India,2011,rd_expenditure,GB.XPD.RSDV.GD.ZS,0.75502,World Bank WDI
+IND,India,2011,tertiary_enrolment,SE.TER.ENRR,23.8253684220097,World Bank WDI
+IND,India,2012,fdi,BX.KLT.DINV.WD.GD.ZS,1.31293453035323,World Bank WDI
+IND,India,2012,fixed_broadband,IT.NET.BBND.P2,1.17169600055105,World Bank WDI
+IND,India,2012,government_education,SE.XPD.TOTL.GD.ZS,3.8675000667572,World Bank WDI
+IND,India,2012,hightech_exports,TX.VAL.TECH.MF.ZS,7.70439427946636,World Bank WDI
+IND,India,2012,internet_users,IT.NET.USER.ZS,11.10000038,World Bank WDI
+IND,India,2012,manufacturing_value_added,NV.IND.MANF.ZS,15.8169230071066,World Bank WDI
+IND,India,2012,patent_nonresident,IP.PAT.NRES,34402.0,World Bank WDI
+IND,India,2012,patent_resident,IP.PAT.RESD,9553.0,World Bank WDI
+IND,India,2012,rd_expenditure,GB.XPD.RSDV.GD.ZS,0.74399,World Bank WDI
+IND,India,2012,tertiary_enrolment,SE.TER.ENRR,24.9402082606779,World Bank WDI
+IND,India,2013,fdi,BX.KLT.DINV.WD.GD.ZS,1.5162764665975,World Bank WDI
+IND,India,2013,fixed_broadband,IT.NET.BBND.P2,1.15197793176359,World Bank WDI
+IND,India,2013,government_education,SE.XPD.TOTL.GD.ZS,3.84467005729675,World Bank WDI
+IND,India,2013,hightech_exports,TX.VAL.TECH.MF.ZS,8.87350364988968,World Bank WDI
+IND,India,2013,internet_users,IT.NET.USER.ZS,12.30000019,World Bank WDI
+IND,India,2013,manufacturing_value_added,NV.IND.MANF.ZS,15.253022692586,World Bank WDI
+IND,India,2013,patent_nonresident,IP.PAT.NRES,32362.0,World Bank WDI
+IND,India,2013,patent_resident,IP.PAT.RESD,10669.0,World Bank WDI
+IND,India,2013,rd_expenditure,GB.XPD.RSDV.GD.ZS,0.70642,World Bank WDI
+IND,India,2013,tertiary_enrolment,SE.TER.ENRR,24.390638443123,World Bank WDI
+IND,India,2014,fdi,BX.KLT.DINV.WD.GD.ZS,1.69565958990806,World Bank WDI
+IND,India,2014,fixed_broadband,IT.NET.BBND.P2,1.20020374567342,World Bank WDI
+IND,India,2014,government_education,SE.XPD.TOTL.GD.ZS,3.89878023242693,World Bank WDI
+IND,India,2014,hightech_exports,TX.VAL.TECH.MF.ZS,9.22122174793918,World Bank WDI
+IND,India,2014,internet_users,IT.NET.USER.ZS,13.5,World Bank WDI
+IND,India,2014,manufacturing_value_added,NV.IND.MANF.ZS,15.0655701107589,World Bank WDI
+IND,India,2014,patent_nonresident,IP.PAT.NRES,30814.0,World Bank WDI
+IND,India,2014,patent_resident,IP.PAT.RESD,12040.0,World Bank WDI
+IND,India,2014,rd_expenditure,GB.XPD.RSDV.GD.ZS,0.70158,World Bank WDI
+IND,India,2014,tertiary_enrolment,SE.TER.ENRR,25.991324706788,World Bank WDI
+IND,India,2015,fdi,BX.KLT.DINV.WD.GD.ZS,2.09211521443253,World Bank WDI
+IND,India,2015,fixed_broadband,IT.NET.BBND.P2,1.27578595315943,World Bank WDI
+IND,India,2015,government_education,SE.XPD.TOTL.GD.ZS,4.1145601272583,World Bank WDI
+IND,India,2015,hightech_exports,TX.VAL.TECH.MF.ZS,8.02476917234515,World Bank WDI
+IND,India,2015,internet_users,IT.NET.USER.ZS,14.89999962,World Bank WDI
+IND,India,2015,manufacturing_value_added,NV.IND.MANF.ZS,15.5838545863713,World Bank WDI
+IND,India,2015,patent_nonresident,IP.PAT.NRES,33079.0,World Bank WDI
+IND,India,2015,patent_resident,IP.PAT.RESD,12579.0,World Bank WDI
+IND,India,2015,rd_expenditure,GB.XPD.RSDV.GD.ZS,0.6931,World Bank WDI
+IND,India,2015,researchers_rd,SP.POP.SCIE.RD.P6,214.34935,World Bank WDI
+IND,India,2015,tertiary_enrolment,SE.TER.ENRR,27.2845677075978,World Bank WDI
+IND,India,2016,fdi,BX.KLT.DINV.WD.GD.ZS,1.9373641224439,World Bank WDI
+IND,India,2016,fixed_broadband,IT.NET.BBND.P2,1.38795276378032,World Bank WDI
+IND,India,2016,government_education,SE.XPD.TOTL.GD.ZS,4.25406980514526,World Bank WDI
+IND,India,2016,hightech_exports,TX.VAL.TECH.MF.ZS,7.66325704378624,World Bank WDI
+IND,India,2016,internet_users,IT.NET.USER.ZS,16.5,World Bank WDI
+IND,India,2016,manufacturing_value_added,NV.IND.MANF.ZS,15.1622371332529,World Bank WDI
+IND,India,2016,patent_nonresident,IP.PAT.NRES,31858.0,World Bank WDI
+IND,India,2016,patent_resident,IP.PAT.RESD,13199.0,World Bank WDI
+IND,India,2016,rd_expenditure,GB.XPD.RSDV.GD.ZS,0.66984,World Bank WDI
+IND,India,2016,tertiary_enrolment,SE.TER.ENRR,27.3043573857643,World Bank WDI
+IND,India,2017,fdi,BX.KLT.DINV.WD.GD.ZS,1.50731583255894,World Bank WDI
+IND,India,2017,fixed_broadband,IT.NET.BBND.P2,1.31327377028949,World Bank WDI
+IND,India,2017,government_education,SE.XPD.TOTL.GD.ZS,4.30543994903565,World Bank WDI
+IND,India,2017,hightech_exports,TX.VAL.TECH.MF.ZS,7.36208114076572,World Bank WDI
+IND,India,2017,internet_users,IT.NET.USER.ZS,18.20000076,World Bank WDI
+IND,India,2017,manufacturing_value_added,NV.IND.MANF.ZS,15.0182387501718,World Bank WDI
+IND,India,2017,patent_nonresident,IP.PAT.NRES,31621.0,World Bank WDI
+IND,India,2017,patent_resident,IP.PAT.RESD,14961.0,World Bank WDI
+IND,India,2017,rd_expenditure,GB.XPD.RSDV.GD.ZS,0.66603,World Bank WDI
+IND,India,2017,tertiary_enrolment,SE.TER.ENRR,27.9090519049334,World Bank WDI
+IND,India,2018,fdi,BX.KLT.DINV.WD.GD.ZS,1.55821483801456,World Bank WDI
+IND,India,2018,fixed_broadband,IT.NET.BBND.P2,1.3217822859385,World Bank WDI
+IND,India,2018,government_education,SE.XPD.TOTL.GD.ZS,4.36374998092651,World Bank WDI
+IND,India,2018,hightech_exports,TX.VAL.TECH.MF.ZS,9.04145168835151,World Bank WDI
+IND,India,2018,internet_users,IT.NET.USER.ZS,20.0813000379384,World Bank WDI
+IND,India,2018,manufacturing_value_added,NV.IND.MANF.ZS,14.8815306673017,World Bank WDI
+IND,India,2018,patent_nonresident,IP.PAT.NRES,33766.0,World Bank WDI
+IND,India,2018,patent_resident,IP.PAT.RESD,16289.0,World Bank WDI
+IND,India,2018,rd_expenditure,GB.XPD.RSDV.GD.ZS,0.66001,World Bank WDI
+IND,India,2018,researchers_rd,SP.POP.SCIE.RD.P6,250.00794,World Bank WDI
+IND,India,2018,tertiary_enrolment,SE.TER.ENRR,28.5316865291946,World Bank WDI
+IND,India,2019,fdi,BX.KLT.DINV.WD.GD.ZS,1.78482633957161,World Bank WDI
+IND,India,2019,fixed_broadband,IT.NET.BBND.P2,1.37913181839908,World Bank WDI
+IND,India,2019,government_education,SE.XPD.TOTL.GD.ZS,3.89732003211975,World Bank WDI
+IND,India,2019,hightech_exports,TX.VAL.TECH.MF.ZS,10.2237396907979,World Bank WDI
+IND,India,2019,internet_users,IT.NET.USER.ZS,29.52350044,World Bank WDI
+IND,India,2019,manufacturing_value_added,NV.IND.MANF.ZS,13.4558075633394,World Bank WDI
+IND,India,2019,patent_nonresident,IP.PAT.NRES,34173.0,World Bank WDI
+IND,India,2019,patent_resident,IP.PAT.RESD,19454.0,World Bank WDI
+IND,India,2019,rd_expenditure,GB.XPD.RSDV.GD.ZS,0.65942,World Bank WDI
+IND,India,2019,tertiary_enrolment,SE.TER.ENRR,29.0233593907143,World Bank WDI
+IND,India,2020,fdi,BX.KLT.DINV.WD.GD.ZS,2.40620322673636,World Bank WDI
+IND,India,2020,fixed_broadband,IT.NET.BBND.P2,1.63622632751685,World Bank WDI
+IND,India,2020,government_education,SE.XPD.TOTL.GD.ZS,4.29335021972656,World Bank WDI
+IND,India,2020,hightech_exports,TX.VAL.TECH.MF.ZS,11.0325638466576,World Bank WDI
+IND,India,2020,internet_users,IT.NET.USER.ZS,43.40544313,World Bank WDI
+IND,India,2020,manufacturing_value_added,NV.IND.MANF.ZS,14.1204853576923,World Bank WDI
+IND,India,2020,patent_nonresident,IP.PAT.NRES,33630.0,World Bank WDI
+IND,India,2020,patent_resident,IP.PAT.RESD,23141.0,World Bank WDI
+IND,India,2020,rd_expenditure,GB.XPD.RSDV.GD.ZS,0.64558,World Bank WDI
+IND,India,2020,researchers_rd,SP.POP.SCIE.RD.P6,259.26325,World Bank WDI
+IND,India,2020,tertiary_enrolment,SE.TER.ENRR,29.8196397708424,World Bank WDI
+IND,India,2021,fdi,BX.KLT.DINV.WD.GD.ZS,1.41217101040888,World Bank WDI
+IND,India,2021,fixed_broadband,IT.NET.BBND.P2,1.9487996093033,World Bank WDI
+IND,India,2021,government_education,SE.XPD.TOTL.GD.ZS,4.62949991226196,World Bank WDI
+IND,India,2021,hightech_exports,TX.VAL.TECH.MF.ZS,10.2125596625118,World Bank WDI
+IND,India,2021,internet_users,IT.NET.USER.ZS,49.2580986,World Bank WDI
+IND,India,2021,manufacturing_value_added,NV.IND.MANF.ZS,14.3770288531286,World Bank WDI
+IND,India,2021,patent_nonresident,IP.PAT.NRES,35306.0,World Bank WDI
+IND,India,2021,patent_resident,IP.PAT.RESD,26267.0,World Bank WDI
+IND,India,2021,tertiary_enrolment,SE.TER.ENRR,31.5741765984501,World Bank WDI
+IND,India,2022,fdi,BX.KLT.DINV.WD.GD.ZS,1.53665241748393,World Bank WDI
+IND,India,2022,fixed_broadband,IT.NET.BBND.P2,2.35231555917724,World Bank WDI
+IND,India,2022,government_education,SE.XPD.TOTL.GD.ZS,4.09865814174589,World Bank WDI
+IND,India,2022,hightech_exports,TX.VAL.TECH.MF.ZS,12.6822794807287,World Bank WDI
+IND,India,2022,internet_users,IT.NET.USER.ZS,55.9,World Bank WDI
+IND,India,2022,manufacturing_value_added,NV.IND.MANF.ZS,13.3327202623974,World Bank WDI
+IND,India,2022,tertiary_enrolment,SE.TER.ENRR,32.6703053423023,World Bank WDI
+IND,India,2023,fdi,BX.KLT.DINV.WD.GD.ZS,0.802254995836756,World Bank WDI
+IND,India,2023,fixed_broadband,IT.NET.BBND.P2,2.74534696441771,World Bank WDI
+IND,India,2023,hightech_exports,TX.VAL.TECH.MF.ZS,14.9343472986716,World Bank WDI
+IND,India,2023,internet_users,IT.NET.USER.ZS,60.25230026,World Bank WDI
+IND,India,2023,manufacturing_value_added,NV.IND.MANF.ZS,13.312843875072,World Bank WDI
+IND,India,2023,tertiary_enrolment,SE.TER.ENRR,34.2394344991225,World Bank WDI
+IND,India,2024,fdi,BX.KLT.DINV.WD.GD.ZS,0.721648483526777,World Bank WDI
+IND,India,2024,fixed_broadband,IT.NET.BBND.P2,3.15046250037677,World Bank WDI
+IND,India,2024,hightech_exports,TX.VAL.TECH.MF.ZS,18.5723946411049,World Bank WDI
+IND,India,2024,internet_users,IT.NET.USER.ZS,64.9434967,World Bank WDI
+IND,India,2024,manufacturing_value_added,NV.IND.MANF.ZS,13.1392199491326,World Bank WDI
+IND,India,2024,tertiary_enrolment,SE.TER.ENRR,34.4184659748952,World Bank WDI
+IND,India,2025,fdi,BX.KLT.DINV.WD.GD.ZS,0.988285383995246,World Bank WDI
+IND,India,2025,internet_users,IT.NET.USER.ZS,70.0,World Bank WDI
+IND,India,2025,manufacturing_value_added,NV.IND.MANF.ZS,13.4710550684648,World Bank WDI
+IND,India,2025,tertiary_enrolment,SE.TER.ENRR,34.4465039692543,World Bank WDI
+ISR,Israel,2000,fdi,BX.KLT.DINV.WD.GD.ZS,5.89949838299584,World Bank WDI
+ISR,Israel,2000,government_education,SE.XPD.TOTL.GD.ZS,5.93116998672485,World Bank WDI
+ISR,Israel,2000,internet_users,IT.NET.USER.ZS,20.8737899981674,World Bank WDI
+ISR,Israel,2000,manufacturing_value_added,NV.IND.MANF.ZS,16.5594666698272,World Bank WDI
+ISR,Israel,2000,patent_nonresident,IP.PAT.NRES,5203.0,World Bank WDI
+ISR,Israel,2000,patent_resident,IP.PAT.RESD,1599.0,World Bank WDI
+ISR,Israel,2000,rd_expenditure,GB.XPD.RSDV.GD.ZS,3.81316,World Bank WDI
+ISR,Israel,2001,fdi,BX.KLT.DINV.WD.GD.ZS,1.3131522258027,World Bank WDI
+ISR,Israel,2001,fixed_broadband,IT.NET.BBND.P2,0.700720864692582,World Bank WDI
+ISR,Israel,2001,government_education,SE.XPD.TOTL.GD.ZS,6.17636013031006,World Bank WDI
+ISR,Israel,2001,internet_users,IT.NET.USER.ZS,17.3786238639049,World Bank WDI
+ISR,Israel,2001,manufacturing_value_added,NV.IND.MANF.ZS,15.2660584204072,World Bank WDI
+ISR,Israel,2001,patent_nonresident,IP.PAT.NRES,5521.0,World Bank WDI
+ISR,Israel,2001,patent_resident,IP.PAT.RESD,1248.0,World Bank WDI
+ISR,Israel,2001,rd_expenditure,GB.XPD.RSDV.GD.ZS,4.05338,World Bank WDI
+ISR,Israel,2001,tertiary_enrolment,SE.TER.ENRR,51.1147117614746,World Bank WDI
+ISR,Israel,2002,fdi,BX.KLT.DINV.WD.GD.ZS,1.26381649811692,World Bank WDI
+ISR,Israel,2002,fixed_broadband,IT.NET.BBND.P2,3.62669309237099,World Bank WDI
+ISR,Israel,2002,government_education,SE.XPD.TOTL.GD.ZS,6.24923992156982,World Bank WDI
+ISR,Israel,2002,internet_users,IT.NET.USER.ZS,17.7645990630493,World Bank WDI
+ISR,Israel,2002,manufacturing_value_added,NV.IND.MANF.ZS,14.6195517258974,World Bank WDI
+ISR,Israel,2002,patent_nonresident,IP.PAT.NRES,5095.0,World Bank WDI
+ISR,Israel,2002,patent_resident,IP.PAT.RESD,1213.0,World Bank WDI
+ISR,Israel,2002,rd_expenditure,GB.XPD.RSDV.GD.ZS,3.99197,World Bank WDI
+ISR,Israel,2002,tertiary_enrolment,SE.TER.ENRR,55.8358116149902,World Bank WDI
+ISR,Israel,2003,fdi,BX.KLT.DINV.WD.GD.ZS,2.53049066402201,World Bank WDI
+ISR,Israel,2003,fixed_broadband,IT.NET.BBND.P2,9.73577617095352,World Bank WDI
+ISR,Israel,2003,government_education,SE.XPD.TOTL.GD.ZS,6.13486003875732,World Bank WDI
+ISR,Israel,2003,internet_users,IT.NET.USER.ZS,19.5933936579649,World Bank WDI
+ISR,Israel,2003,manufacturing_value_added,NV.IND.MANF.ZS,14.2145451148657,World Bank WDI
+ISR,Israel,2003,patent_nonresident,IP.PAT.NRES,4569.0,World Bank WDI
+ISR,Israel,2003,patent_resident,IP.PAT.RESD,1329.0,World Bank WDI
+ISR,Israel,2003,rd_expenditure,GB.XPD.RSDV.GD.ZS,3.76142,World Bank WDI
+ISR,Israel,2003,tertiary_enrolment,SE.TER.ENRR,55.2073287963867,World Bank WDI
+ISR,Israel,2004,fdi,BX.KLT.DINV.WD.GD.ZS,2.10605044907695,World Bank WDI
+ISR,Israel,2004,fixed_broadband,IT.NET.BBND.P2,14.8146199740079,World Bank WDI
+ISR,Israel,2004,government_education,SE.XPD.TOTL.GD.ZS,5.75040006637573,World Bank WDI
+ISR,Israel,2004,internet_users,IT.NET.USER.ZS,22.7704855254035,World Bank WDI
+ISR,Israel,2004,manufacturing_value_added,NV.IND.MANF.ZS,14.0232634217693,World Bank WDI
+ISR,Israel,2004,patent_nonresident,IP.PAT.NRES,4870.0,World Bank WDI
+ISR,Israel,2004,patent_resident,IP.PAT.RESD,1544.0,World Bank WDI
+ISR,Israel,2004,rd_expenditure,GB.XPD.RSDV.GD.ZS,3.74703,World Bank WDI
+ISR,Israel,2004,tertiary_enrolment,SE.TER.ENRR,54.5026702880859,World Bank WDI
+ISR,Israel,2005,fdi,BX.KLT.DINV.WD.GD.ZS,3.27012530253451,World Bank WDI
+ISR,Israel,2005,fixed_broadband,IT.NET.BBND.P2,18.2756889429366,World Bank WDI
+ISR,Israel,2005,government_education,SE.XPD.TOTL.GD.ZS,5.56489992141724,World Bank WDI
+ISR,Israel,2005,internet_users,IT.NET.USER.ZS,25.19400024,World Bank WDI
+ISR,Israel,2005,manufacturing_value_added,NV.IND.MANF.ZS,14.7673362817573,World Bank WDI
+ISR,Israel,2005,patent_nonresident,IP.PAT.NRES,5157.0,World Bank WDI
+ISR,Israel,2005,patent_resident,IP.PAT.RESD,1669.0,World Bank WDI
+ISR,Israel,2005,rd_expenditure,GB.XPD.RSDV.GD.ZS,3.91123,World Bank WDI
+ISR,Israel,2005,tertiary_enrolment,SE.TER.ENRR,55.645191192627,World Bank WDI
+ISR,Israel,2006,fdi,BX.KLT.DINV.WD.GD.ZS,9.0705160460163,World Bank WDI
+ISR,Israel,2006,fixed_broadband,IT.NET.BBND.P2,20.7626147861378,World Bank WDI
+ISR,Israel,2006,government_education,SE.XPD.TOTL.GD.ZS,5.58409023284912,World Bank WDI
+ISR,Israel,2006,internet_users,IT.NET.USER.ZS,27.8810997,World Bank WDI
+ISR,Israel,2006,manufacturing_value_added,NV.IND.MANF.ZS,15.0283379470689,World Bank WDI
+ISR,Israel,2006,patent_nonresident,IP.PAT.NRES,6154.0,World Bank WDI
+ISR,Israel,2006,patent_resident,IP.PAT.RESD,1342.0,World Bank WDI
+ISR,Israel,2006,rd_expenditure,GB.XPD.RSDV.GD.ZS,4.01416,World Bank WDI
+ISR,Israel,2006,tertiary_enrolment,SE.TER.ENRR,54.7331390380859,World Bank WDI
+ISR,Israel,2007,fdi,BX.KLT.DINV.WD.GD.ZS,4.76993944503941,World Bank WDI
+ISR,Israel,2007,fixed_broadband,IT.NET.BBND.P2,21.9534632539815,World Bank WDI
+ISR,Israel,2007,government_education,SE.XPD.TOTL.GD.ZS,5.33169984817505,World Bank WDI
+ISR,Israel,2007,hightech_exports,TX.VAL.TECH.MF.ZS,7.62716744231259,World Bank WDI
+ISR,Israel,2007,internet_users,IT.NET.USER.ZS,48.1280621948445,World Bank WDI
+ISR,Israel,2007,manufacturing_value_added,NV.IND.MANF.ZS,15.3681304031082,World Bank WDI
+ISR,Israel,2007,patent_nonresident,IP.PAT.NRES,6394.0,World Bank WDI
+ISR,Israel,2007,patent_resident,IP.PAT.RESD,1615.0,World Bank WDI
+ISR,Israel,2007,rd_expenditure,GB.XPD.RSDV.GD.ZS,4.28533,World Bank WDI
+ISR,Israel,2007,tertiary_enrolment,SE.TER.ENRR,57.3098487854004,World Bank WDI
+ISR,Israel,2008,fdi,BX.KLT.DINV.WD.GD.ZS,4.64995928220569,World Bank WDI
+ISR,Israel,2008,fixed_broadband,IT.NET.BBND.P2,23.7765120816873,World Bank WDI
+ISR,Israel,2008,government_education,SE.XPD.TOTL.GD.ZS,5.40716981887817,World Bank WDI
+ISR,Israel,2008,hightech_exports,TX.VAL.TECH.MF.ZS,17.0560538737395,World Bank WDI
+ISR,Israel,2008,internet_users,IT.NET.USER.ZS,59.39,World Bank WDI
+ISR,Israel,2008,manufacturing_value_added,NV.IND.MANF.ZS,14.8323485847392,World Bank WDI
+ISR,Israel,2008,patent_nonresident,IP.PAT.NRES,6214.0,World Bank WDI
+ISR,Israel,2008,patent_resident,IP.PAT.RESD,1528.0,World Bank WDI
+ISR,Israel,2008,rd_expenditure,GB.XPD.RSDV.GD.ZS,4.24165,World Bank WDI
+ISR,Israel,2008,tertiary_enrolment,SE.TER.ENRR,56.7789001464844,World Bank WDI
+ISR,Israel,2009,fdi,BX.KLT.DINV.WD.GD.ZS,2.16172057771712,World Bank WDI
+ISR,Israel,2009,fixed_broadband,IT.NET.BBND.P2,23.9103114918258,World Bank WDI
+ISR,Israel,2009,government_education,SE.XPD.TOTL.GD.ZS,5.34174013137817,World Bank WDI
+ISR,Israel,2009,hightech_exports,TX.VAL.TECH.MF.ZS,23.3965145235289,World Bank WDI
+ISR,Israel,2009,internet_users,IT.NET.USER.ZS,63.12,World Bank WDI
+ISR,Israel,2009,manufacturing_value_added,NV.IND.MANF.ZS,13.9998606147828,World Bank WDI
+ISR,Israel,2009,patent_nonresident,IP.PAT.NRES,5387.0,World Bank WDI
+ISR,Israel,2009,patent_resident,IP.PAT.RESD,1387.0,World Bank WDI
+ISR,Israel,2009,rd_expenditure,GB.XPD.RSDV.GD.ZS,4.01799,World Bank WDI
+ISR,Israel,2009,tertiary_enrolment,SE.TER.ENRR,59.5300903320312,World Bank WDI
+ISR,Israel,2010,fdi,BX.KLT.DINV.WD.GD.ZS,2.91791645550029,World Bank WDI
+ISR,Israel,2010,fixed_broadband,IT.NET.BBND.P2,24.0161325167121,World Bank WDI
+ISR,Israel,2010,government_education,SE.XPD.TOTL.GD.ZS,5.40408992767334,World Bank WDI
+ISR,Israel,2010,hightech_exports,TX.VAL.TECH.MF.ZS,19.3753611640664,World Bank WDI
+ISR,Israel,2010,internet_users,IT.NET.USER.ZS,67.5,World Bank WDI
+ISR,Israel,2010,manufacturing_value_added,NV.IND.MANF.ZS,14.043791039316,World Bank WDI
+ISR,Israel,2010,patent_nonresident,IP.PAT.NRES,5856.0,World Bank WDI
+ISR,Israel,2010,patent_resident,IP.PAT.RESD,1450.0,World Bank WDI
+ISR,Israel,2010,rd_expenditure,GB.XPD.RSDV.GD.ZS,3.8421,World Bank WDI
+ISR,Israel,2010,tertiary_enrolment,SE.TER.ENRR,62.1285705566406,World Bank WDI
+ISR,Israel,2011,fdi,BX.KLT.DINV.WD.GD.ZS,3.23187455100204,World Bank WDI
+ISR,Israel,2011,fixed_broadband,IT.NET.BBND.P2,25.1508929901568,World Bank WDI
+ISR,Israel,2011,government_education,SE.XPD.TOTL.GD.ZS,5.42928981781006,World Bank WDI
+ISR,Israel,2011,hightech_exports,TX.VAL.TECH.MF.ZS,18.3985722541565,World Bank WDI
+ISR,Israel,2011,internet_users,IT.NET.USER.ZS,68.8738779907441,World Bank WDI
+ISR,Israel,2011,manufacturing_value_added,NV.IND.MANF.ZS,13.5908818669391,World Bank WDI
+ISR,Israel,2011,patent_nonresident,IP.PAT.NRES,5526.0,World Bank WDI
+ISR,Israel,2011,patent_resident,IP.PAT.RESD,1360.0,World Bank WDI
+ISR,Israel,2011,rd_expenditure,GB.XPD.RSDV.GD.ZS,3.91608,World Bank WDI
+ISR,Israel,2011,tertiary_enrolment,SE.TER.ENRR,62.7604484558105,World Bank WDI
+ISR,Israel,2012,fdi,BX.KLT.DINV.WD.GD.ZS,3.42638899025665,World Bank WDI
+ISR,Israel,2012,fixed_broadband,IT.NET.BBND.P2,25.460778308521,World Bank WDI
+ISR,Israel,2012,government_education,SE.XPD.TOTL.GD.ZS,5.56122016906738,World Bank WDI
+ISR,Israel,2012,hightech_exports,TX.VAL.TECH.MF.ZS,19.8939600431067,World Bank WDI
+ISR,Israel,2012,internet_users,IT.NET.USER.ZS,70.8,World Bank WDI
+ISR,Israel,2012,manufacturing_value_added,NV.IND.MANF.ZS,13.7690007635811,World Bank WDI
+ISR,Israel,2012,patent_nonresident,IP.PAT.NRES,5473.0,World Bank WDI
+ISR,Israel,2012,patent_resident,IP.PAT.RESD,1319.0,World Bank WDI
+ISR,Israel,2012,rd_expenditure,GB.XPD.RSDV.GD.ZS,4.06028,World Bank WDI
+ISR,Israel,2012,tertiary_enrolment,SE.TER.ENRR,64.2354736328125,World Bank WDI
+ISR,Israel,2013,fdi,BX.KLT.DINV.WD.GD.ZS,3.9732882944923,World Bank WDI
+ISR,Israel,2013,fixed_broadband,IT.NET.BBND.P2,25.8472324040417,World Bank WDI
+ISR,Israel,2013,government_education,SE.XPD.TOTL.GD.ZS,5.76972007751465,World Bank WDI
+ISR,Israel,2013,hightech_exports,TX.VAL.TECH.MF.ZS,19.0362582405147,World Bank WDI
+ISR,Israel,2013,internet_users,IT.NET.USER.ZS,70.250311945,World Bank WDI
+ISR,Israel,2013,manufacturing_value_added,NV.IND.MANF.ZS,12.9828311268844,World Bank WDI
+ISR,Israel,2013,patent_nonresident,IP.PAT.NRES,4984.0,World Bank WDI
+ISR,Israel,2013,patent_resident,IP.PAT.RESD,1201.0,World Bank WDI
+ISR,Israel,2013,rd_expenditure,GB.XPD.RSDV.GD.ZS,4.10651,World Bank WDI
+ISR,Israel,2013,tertiary_enrolment,SE.TER.ENRR,62.6519393920898,World Bank WDI
+ISR,Israel,2014,fdi,BX.KLT.DINV.WD.GD.ZS,1.92409260277085,World Bank WDI
+ISR,Israel,2014,fixed_broadband,IT.NET.BBND.P2,26.9843193373229,World Bank WDI
+ISR,Israel,2014,government_education,SE.XPD.TOTL.GD.ZS,5.69225978851318,World Bank WDI
+ISR,Israel,2014,hightech_exports,TX.VAL.TECH.MF.ZS,19.4130528417277,World Bank WDI
+ISR,Israel,2014,internet_users,IT.NET.USER.ZS,75.0177531628076,World Bank WDI
+ISR,Israel,2014,manufacturing_value_added,NV.IND.MANF.ZS,12.5092649781181,World Bank WDI
+ISR,Israel,2014,patent_nonresident,IP.PAT.NRES,5148.0,World Bank WDI
+ISR,Israel,2014,patent_resident,IP.PAT.RESD,1125.0,World Bank WDI
+ISR,Israel,2014,rd_expenditure,GB.XPD.RSDV.GD.ZS,4.19613,World Bank WDI
+ISR,Israel,2014,tertiary_enrolment,SE.TER.ENRR,62.6224403381348,World Bank WDI
+ISR,Israel,2015,fdi,BX.KLT.DINV.WD.GD.ZS,3.7432820780929,World Bank WDI
+ISR,Israel,2015,fixed_broadband,IT.NET.BBND.P2,26.9840410445519,World Bank WDI
+ISR,Israel,2015,government_education,SE.XPD.TOTL.GD.ZS,5.79657983779907,World Bank WDI
+ISR,Israel,2015,hightech_exports,TX.VAL.TECH.MF.ZS,23.6539775366063,World Bank WDI
+ISR,Israel,2015,internet_users,IT.NET.USER.ZS,77.3520896572253,World Bank WDI
+ISR,Israel,2015,manufacturing_value_added,NV.IND.MANF.ZS,12.9237212257425,World Bank WDI
+ISR,Israel,2015,patent_nonresident,IP.PAT.NRES,5623.0,World Bank WDI
+ISR,Israel,2015,patent_resident,IP.PAT.RESD,1285.0,World Bank WDI
+ISR,Israel,2015,rd_expenditure,GB.XPD.RSDV.GD.ZS,4.29761,World Bank WDI
+ISR,Israel,2015,tertiary_enrolment,SE.TER.ENRR,61.6271781921387,World Bank WDI
+ISR,Israel,2016,fdi,BX.KLT.DINV.WD.GD.ZS,3.73360294740648,World Bank WDI
+ISR,Israel,2016,fixed_broadband,IT.NET.BBND.P2,27.5030283172787,World Bank WDI
+ISR,Israel,2016,government_education,SE.XPD.TOTL.GD.ZS,5.80271005630493,World Bank WDI
+ISR,Israel,2016,hightech_exports,TX.VAL.TECH.MF.ZS,21.8196172712291,World Bank WDI
+ISR,Israel,2016,internet_users,IT.NET.USER.ZS,79.6531241815281,World Bank WDI
+ISR,Israel,2016,manufacturing_value_added,NV.IND.MANF.ZS,12.0961436457446,World Bank WDI
+ISR,Israel,2016,patent_nonresident,IP.PAT.NRES,5119.0,World Bank WDI
+ISR,Israel,2016,patent_resident,IP.PAT.RESD,1300.0,World Bank WDI
+ISR,Israel,2016,rd_expenditure,GB.XPD.RSDV.GD.ZS,4.59051,World Bank WDI
+ISR,Israel,2016,tertiary_enrolment,SE.TER.ENRR,61.4426498413086,World Bank WDI
+ISR,Israel,2017,fdi,BX.KLT.DINV.WD.GD.ZS,4.72701516315835,World Bank WDI
+ISR,Israel,2017,fixed_broadband,IT.NET.BBND.P2,28.00833361537,World Bank WDI
+ISR,Israel,2017,government_education,SE.XPD.TOTL.GD.ZS,6.00425004959106,World Bank WDI
+ISR,Israel,2017,hightech_exports,TX.VAL.TECH.MF.ZS,21.0679788533896,World Bank WDI
+ISR,Israel,2017,internet_users,IT.NET.USER.ZS,81.5811835871611,World Bank WDI
+ISR,Israel,2017,manufacturing_value_added,NV.IND.MANF.ZS,11.5023862456544,World Bank WDI
+ISR,Israel,2017,patent_nonresident,IP.PAT.NRES,5377.0,World Bank WDI
+ISR,Israel,2017,patent_resident,IP.PAT.RESD,1436.0,World Bank WDI
+ISR,Israel,2017,rd_expenditure,GB.XPD.RSDV.GD.ZS,4.74032,World Bank WDI
+ISR,Israel,2017,tertiary_enrolment,SE.TER.ENRR,60.3434600830078,World Bank WDI
+ISR,Israel,2018,fdi,BX.KLT.DINV.WD.GD.ZS,5.73001193313582,World Bank WDI
+ISR,Israel,2018,fixed_broadband,IT.NET.BBND.P2,28.6131707306182,World Bank WDI
+ISR,Israel,2018,government_education,SE.XPD.TOTL.GD.ZS,6.06919002532959,World Bank WDI
+ISR,Israel,2018,hightech_exports,TX.VAL.TECH.MF.ZS,22.5362840096475,World Bank WDI
+ISR,Israel,2018,internet_users,IT.NET.USER.ZS,83.7331569615326,World Bank WDI
+ISR,Israel,2018,manufacturing_value_added,NV.IND.MANF.ZS,11.678065693861,World Bank WDI
+ISR,Israel,2018,patent_nonresident,IP.PAT.NRES,5857.0,World Bank WDI
+ISR,Israel,2018,patent_resident,IP.PAT.RESD,1506.0,World Bank WDI
+ISR,Israel,2018,rd_expenditure,GB.XPD.RSDV.GD.ZS,4.91965,World Bank WDI
+ISR,Israel,2018,tertiary_enrolment,SE.TER.ENRR,58.6109886169434,World Bank WDI
+ISR,Israel,2019,fdi,BX.KLT.DINV.WD.GD.ZS,4.34923898223678,World Bank WDI
+ISR,Israel,2019,fixed_broadband,IT.NET.BBND.P2,28.6567652412239,World Bank WDI
+ISR,Israel,2019,government_education,SE.XPD.TOTL.GD.ZS,6.06899976730347,World Bank WDI
+ISR,Israel,2019,hightech_exports,TX.VAL.TECH.MF.ZS,23.0916656017552,World Bank WDI
+ISR,Israel,2019,internet_users,IT.NET.USER.ZS,86.7878776180583,World Bank WDI
+ISR,Israel,2019,manufacturing_value_added,NV.IND.MANF.ZS,11.6354672967477,World Bank WDI
+ISR,Israel,2019,patent_nonresident,IP.PAT.NRES,6370.0,World Bank WDI
+ISR,Israel,2019,patent_resident,IP.PAT.RESD,1368.0,World Bank WDI
+ISR,Israel,2019,rd_expenditure,GB.XPD.RSDV.GD.ZS,5.35528,World Bank WDI
+ISR,Israel,2019,tertiary_enrolment,SE.TER.ENRR,57.4564514160156,World Bank WDI
+ISR,Israel,2020,fdi,BX.KLT.DINV.WD.GD.ZS,5.10300458684,World Bank WDI
+ISR,Israel,2020,fixed_broadband,IT.NET.BBND.P2,29.5678161933081,World Bank WDI
+ISR,Israel,2020,government_education,SE.XPD.TOTL.GD.ZS,6.51824998855591,World Bank WDI
+ISR,Israel,2020,hightech_exports,TX.VAL.TECH.MF.ZS,28.197643074759,World Bank WDI
+ISR,Israel,2020,internet_users,IT.NET.USER.ZS,90.12734091,World Bank WDI
+ISR,Israel,2020,manufacturing_value_added,NV.IND.MANF.ZS,12.3190734802149,World Bank WDI
+ISR,Israel,2020,patent_nonresident,IP.PAT.NRES,6481.0,World Bank WDI
+ISR,Israel,2020,patent_resident,IP.PAT.RESD,1642.0,World Bank WDI
+ISR,Israel,2020,rd_expenditure,GB.XPD.RSDV.GD.ZS,5.83209,World Bank WDI
+ISR,Israel,2020,tertiary_enrolment,SE.TER.ENRR,57.633861541748,World Bank WDI
+ISR,Israel,2021,fdi,BX.KLT.DINV.WD.GD.ZS,3.86941902029446,World Bank WDI
+ISR,Israel,2021,fixed_broadband,IT.NET.BBND.P2,29.7078785417387,World Bank WDI
+ISR,Israel,2021,government_education,SE.XPD.TOTL.GD.ZS,6.16727018356323,World Bank WDI
+ISR,Israel,2021,hightech_exports,TX.VAL.TECH.MF.ZS,29.5956758722761,World Bank WDI
+ISR,Israel,2021,internet_users,IT.NET.USER.ZS,90.29689758,World Bank WDI
+ISR,Israel,2021,manufacturing_value_added,NV.IND.MANF.ZS,11.9008173223304,World Bank WDI
+ISR,Israel,2021,patent_nonresident,IP.PAT.NRES,8017.0,World Bank WDI
+ISR,Israel,2021,patent_resident,IP.PAT.RESD,1592.0,World Bank WDI
+ISR,Israel,2021,rd_expenditure,GB.XPD.RSDV.GD.ZS,5.75725,World Bank WDI
+ISR,Israel,2021,tertiary_enrolment,SE.TER.ENRR,60.2585487365723,World Bank WDI
+ISR,Israel,2022,fdi,BX.KLT.DINV.WD.GD.ZS,4.35745092445992,World Bank WDI
+ISR,Israel,2022,fixed_broadband,IT.NET.BBND.P2,29.1676695245416,World Bank WDI
+ISR,Israel,2022,government_education,SE.XPD.TOTL.GD.ZS,5.93291997909546,World Bank WDI
+ISR,Israel,2022,hightech_exports,TX.VAL.TECH.MF.ZS,29.1090540410523,World Bank WDI
+ISR,Israel,2022,internet_users,IT.NET.USER.ZS,91.85079615,World Bank WDI
+ISR,Israel,2022,manufacturing_value_added,NV.IND.MANF.ZS,12.0735689690971,World Bank WDI
+ISR,Israel,2022,rd_expenditure,GB.XPD.RSDV.GD.ZS,6.17831,World Bank WDI
+ISR,Israel,2022,tertiary_enrolment,SE.TER.ENRR,58.9500617980957,World Bank WDI
+ISR,Israel,2023,fdi,BX.KLT.DINV.WD.GD.ZS,3.14968991459396,World Bank WDI
+ISR,Israel,2023,fixed_broadband,IT.NET.BBND.P2,29.4357235504327,World Bank WDI
+ISR,Israel,2023,hightech_exports,TX.VAL.TECH.MF.ZS,34.9377735824443,World Bank WDI
+ISR,Israel,2023,internet_users,IT.NET.USER.ZS,87.03842615,World Bank WDI
+ISR,Israel,2023,manufacturing_value_added,NV.IND.MANF.ZS,11.4833400691841,World Bank WDI
+ISR,Israel,2023,rd_expenditure,GB.XPD.RSDV.GD.ZS,6.34589,World Bank WDI
+ISR,Israel,2023,tertiary_enrolment,SE.TER.ENRR,57.143440246582,World Bank WDI
+ISR,Israel,2024,fdi,BX.KLT.DINV.WD.GD.ZS,2.7251194069041,World Bank WDI
+ISR,Israel,2024,fixed_broadband,IT.NET.BBND.P2,29.1837101461688,World Bank WDI
+ISR,Israel,2024,hightech_exports,TX.VAL.TECH.MF.ZS,37.2335173751738,World Bank WDI
+ISR,Israel,2024,internet_users,IT.NET.USER.ZS,88.18242225,World Bank WDI
+ISR,Israel,2024,manufacturing_value_added,NV.IND.MANF.ZS,11.2422190872096,World Bank WDI
+ISR,Israel,2024,tertiary_enrolment,SE.TER.ENRR,56.2561111450195,World Bank WDI
+ISR,Israel,2025,fdi,BX.KLT.DINV.WD.GD.ZS,4.29339412127743,World Bank WDI
+KOR,South Korea,2000,fdi,BX.KLT.DINV.WD.GD.ZS,1.92630076608706,World Bank WDI
+KOR,South Korea,2000,fixed_broadband,IT.NET.BBND.P2,8.27512573540369,World Bank WDI
+KOR,South Korea,2000,internet_users,IT.NET.USER.ZS,44.7,World Bank WDI
+KOR,South Korea,2000,manufacturing_value_added,NV.IND.MANF.ZS,26.591050957139,World Bank WDI
+KOR,South Korea,2000,patent_nonresident,IP.PAT.NRES,29179.0,World Bank WDI
+KOR,South Korea,2000,patent_resident,IP.PAT.RESD,72831.0,World Bank WDI
+KOR,South Korea,2000,rd_expenditure,GB.XPD.RSDV.GD.ZS,2.0494,World Bank WDI
+KOR,South Korea,2000,researchers_rd,SP.POP.SCIE.RD.P6,2324.08478,World Bank WDI
+KOR,South Korea,2000,tertiary_enrolment,SE.TER.ENRR,74.6898574829102,World Bank WDI
+KOR,South Korea,2001,fdi,BX.KLT.DINV.WD.GD.ZS,1.14917273381718,World Bank WDI
+KOR,South Korea,2001,fixed_broadband,IT.NET.BBND.P2,16.6187152698861,World Bank WDI
+KOR,South Korea,2001,internet_users,IT.NET.USER.ZS,56.6,World Bank WDI
+KOR,South Korea,2001,manufacturing_value_added,NV.IND.MANF.ZS,25.1376270244517,World Bank WDI
+KOR,South Korea,2001,patent_nonresident,IP.PAT.NRES,30898.0,World Bank WDI
+KOR,South Korea,2001,patent_resident,IP.PAT.RESD,73714.0,World Bank WDI
+KOR,South Korea,2001,rd_expenditure,GB.XPD.RSDV.GD.ZS,2.19872,World Bank WDI
+KOR,South Korea,2001,researchers_rd,SP.POP.SCIE.RD.P6,2906.71111,World Bank WDI
+KOR,South Korea,2001,tertiary_enrolment,SE.TER.ENRR,77.3433532714844,World Bank WDI
+KOR,South Korea,2002,fdi,BX.KLT.DINV.WD.GD.ZS,0.842304427693724,World Bank WDI
+KOR,South Korea,2002,fixed_broadband,IT.NET.BBND.P2,21.9993226089619,World Bank WDI
+KOR,South Korea,2002,internet_users,IT.NET.USER.ZS,59.4,World Bank WDI
+KOR,South Korea,2002,manufacturing_value_added,NV.IND.MANF.ZS,24.7767716060025,World Bank WDI
+KOR,South Korea,2002,patent_nonresident,IP.PAT.NRES,29566.0,World Bank WDI
+KOR,South Korea,2002,patent_resident,IP.PAT.RESD,76570.0,World Bank WDI
+KOR,South Korea,2002,rd_expenditure,GB.XPD.RSDV.GD.ZS,2.13042,World Bank WDI
+KOR,South Korea,2002,researchers_rd,SP.POP.SCIE.RD.P6,3007.81714,World Bank WDI
+KOR,South Korea,2002,tertiary_enrolment,SE.TER.ENRR,80.7160491943359,World Bank WDI
+KOR,South Korea,2003,fdi,BX.KLT.DINV.WD.GD.ZS,0.962229414316563,World Bank WDI
+KOR,South Korea,2003,fixed_broadband,IT.NET.BBND.P2,23.5266686815046,World Bank WDI
+KOR,South Korea,2003,internet_users,IT.NET.USER.ZS,65.5,World Bank WDI
+KOR,South Korea,2003,manufacturing_value_added,NV.IND.MANF.ZS,24.4315182881075,World Bank WDI
+KOR,South Korea,2003,patent_nonresident,IP.PAT.NRES,28338.0,World Bank WDI
+KOR,South Korea,2003,patent_resident,IP.PAT.RESD,90313.0,World Bank WDI
+KOR,South Korea,2003,rd_expenditure,GB.XPD.RSDV.GD.ZS,2.19657,World Bank WDI
+KOR,South Korea,2003,researchers_rd,SP.POP.SCIE.RD.P6,3189.96825,World Bank WDI
+KOR,South Korea,2003,tertiary_enrolment,SE.TER.ENRR,84.4563903808594,World Bank WDI
+KOR,South Korea,2004,fdi,BX.KLT.DINV.WD.GD.ZS,1.61486572889407,World Bank WDI
+KOR,South Korea,2004,fixed_broadband,IT.NET.BBND.P2,24.994067246262,World Bank WDI
+KOR,South Korea,2004,internet_users,IT.NET.USER.ZS,72.7,World Bank WDI
+KOR,South Korea,2004,manufacturing_value_added,NV.IND.MANF.ZS,26.4144323811178,World Bank WDI
+KOR,South Korea,2004,patent_nonresident,IP.PAT.NRES,34865.0,World Bank WDI
+KOR,South Korea,2004,patent_resident,IP.PAT.RESD,105250.0,World Bank WDI
+KOR,South Korea,2004,rd_expenditure,GB.XPD.RSDV.GD.ZS,2.35292,World Bank WDI
+KOR,South Korea,2004,researchers_rd,SP.POP.SCIE.RD.P6,3281.04385,World Bank WDI
+KOR,South Korea,2004,tertiary_enrolment,SE.TER.ENRR,89.8009033203125,World Bank WDI
+KOR,South Korea,2005,fdi,BX.KLT.DINV.WD.GD.ZS,1.403996477148,World Bank WDI
+KOR,South Korea,2005,fixed_broadband,IT.NET.BBND.P2,25.4760546993955,World Bank WDI
+KOR,South Korea,2005,internet_users,IT.NET.USER.ZS,73.5,World Bank WDI
+KOR,South Korea,2005,manufacturing_value_added,NV.IND.MANF.ZS,26.0918099370413,World Bank WDI
+KOR,South Korea,2005,patent_nonresident,IP.PAT.NRES,38733.0,World Bank WDI
+KOR,South Korea,2005,patent_resident,IP.PAT.RESD,122188.0,World Bank WDI
+KOR,South Korea,2005,rd_expenditure,GB.XPD.RSDV.GD.ZS,2.42725,World Bank WDI
+KOR,South Korea,2005,researchers_rd,SP.POP.SCIE.RD.P6,3763.23464,World Bank WDI
+KOR,South Korea,2005,tertiary_enrolment,SE.TER.ENRR,95.3700103759766,World Bank WDI
+KOR,South Korea,2006,fdi,BX.KLT.DINV.WD.GD.ZS,0.836569086676283,World Bank WDI
+KOR,South Korea,2006,fixed_broadband,IT.NET.BBND.P2,29.2516487032032,World Bank WDI
+KOR,South Korea,2006,internet_users,IT.NET.USER.ZS,78.1,World Bank WDI
+KOR,South Korea,2006,manufacturing_value_added,NV.IND.MANF.ZS,25.7222784544775,World Bank WDI
+KOR,South Korea,2006,patent_nonresident,IP.PAT.NRES,40713.0,World Bank WDI
+KOR,South Korea,2006,patent_resident,IP.PAT.RESD,125476.0,World Bank WDI
+KOR,South Korea,2006,rd_expenditure,GB.XPD.RSDV.GD.ZS,2.61516,World Bank WDI
+KOR,South Korea,2006,researchers_rd,SP.POP.SCIE.RD.P6,4173.2456,World Bank WDI
+KOR,South Korea,2006,tertiary_enrolment,SE.TER.ENRR,99.9493103027344,World Bank WDI
+KOR,South Korea,2007,fdi,BX.KLT.DINV.WD.GD.ZS,0.722975995794071,World Bank WDI
+KOR,South Korea,2007,fixed_broadband,IT.NET.BBND.P2,30.5325293113359,World Bank WDI
+KOR,South Korea,2007,hightech_exports,TX.VAL.TECH.MF.ZS,32.4282584168837,World Bank WDI
+KOR,South Korea,2007,internet_users,IT.NET.USER.ZS,78.8,World Bank WDI
+KOR,South Korea,2007,manufacturing_value_added,NV.IND.MANF.ZS,25.9241510203287,World Bank WDI
+KOR,South Korea,2007,patent_nonresident,IP.PAT.NRES,43768.0,World Bank WDI
+KOR,South Korea,2007,patent_resident,IP.PAT.RESD,128701.0,World Bank WDI
+KOR,South Korea,2007,rd_expenditure,GB.XPD.RSDV.GD.ZS,2.75895,World Bank WDI
+KOR,South Korea,2007,researchers_rd,SP.POP.SCIE.RD.P6,4614.74679,World Bank WDI
+KOR,South Korea,2007,tertiary_enrolment,SE.TER.ENRR,102.949272155762,World Bank WDI
+KOR,South Korea,2008,fdi,BX.KLT.DINV.WD.GD.ZS,1.02488987542862,World Bank WDI
+KOR,South Korea,2008,fixed_broadband,IT.NET.BBND.P2,32.0017644786606,World Bank WDI
+KOR,South Korea,2008,hightech_exports,TX.VAL.TECH.MF.ZS,30.4501393108657,World Bank WDI
+KOR,South Korea,2008,internet_users,IT.NET.USER.ZS,81.0,World Bank WDI
+KOR,South Korea,2008,manufacturing_value_added,NV.IND.MANF.ZS,26.0793572324032,World Bank WDI
+KOR,South Korea,2008,patent_nonresident,IP.PAT.NRES,43518.0,World Bank WDI
+KOR,South Korea,2008,patent_resident,IP.PAT.RESD,127114.0,World Bank WDI
+KOR,South Korea,2008,rd_expenditure,GB.XPD.RSDV.GD.ZS,2.86774,World Bank WDI
+KOR,South Korea,2008,researchers_rd,SP.POP.SCIE.RD.P6,4892.49313,World Bank WDI
+KOR,South Korea,2008,tertiary_enrolment,SE.TER.ENRR,103.136177062988,World Bank WDI
+KOR,South Korea,2009,fdi,BX.KLT.DINV.WD.GD.ZS,0.917731561520283,World Bank WDI
+KOR,South Korea,2009,fixed_broadband,IT.NET.BBND.P2,33.675976694352,World Bank WDI
+KOR,South Korea,2009,hightech_exports,TX.VAL.TECH.MF.ZS,32.1484365401841,World Bank WDI
+KOR,South Korea,2009,internet_users,IT.NET.USER.ZS,81.6,World Bank WDI
+KOR,South Korea,2009,manufacturing_value_added,NV.IND.MANF.ZS,26.3042343079035,World Bank WDI
+KOR,South Korea,2009,patent_nonresident,IP.PAT.NRES,36207.0,World Bank WDI
+KOR,South Korea,2009,patent_resident,IP.PAT.RESD,127316.0,World Bank WDI
+KOR,South Korea,2009,rd_expenditure,GB.XPD.RSDV.GD.ZS,3.02145,World Bank WDI
+KOR,South Korea,2009,researchers_rd,SP.POP.SCIE.RD.P6,5037.92837,World Bank WDI
+KOR,South Korea,2009,tertiary_enrolment,SE.TER.ENRR,102.658447265625,World Bank WDI
+KOR,South Korea,2010,fdi,BX.KLT.DINV.WD.GD.ZS,0.796207328344812,World Bank WDI
+KOR,South Korea,2010,fixed_broadband,IT.NET.BBND.P2,35.2563205089625,World Bank WDI
+KOR,South Korea,2010,hightech_exports,TX.VAL.TECH.MF.ZS,32.1343974843399,World Bank WDI
+KOR,South Korea,2010,internet_users,IT.NET.USER.ZS,83.7,World Bank WDI
+KOR,South Korea,2010,manufacturing_value_added,NV.IND.MANF.ZS,28.0990056835275,World Bank WDI
+KOR,South Korea,2010,patent_nonresident,IP.PAT.NRES,38296.0,World Bank WDI
+KOR,South Korea,2010,patent_resident,IP.PAT.RESD,131805.0,World Bank WDI
+KOR,South Korea,2010,rd_expenditure,GB.XPD.RSDV.GD.ZS,3.17913,World Bank WDI
+KOR,South Korea,2010,researchers_rd,SP.POP.SCIE.RD.P6,5429.43919,World Bank WDI
+KOR,South Korea,2010,tertiary_enrolment,SE.TER.ENRR,101.673286437988,World Bank WDI
+KOR,South Korea,2011,fdi,BX.KLT.DINV.WD.GD.ZS,0.747683727442323,World Bank WDI
+KOR,South Korea,2011,fixed_broadband,IT.NET.BBND.P2,36.353305205381,World Bank WDI
+KOR,South Korea,2011,hightech_exports,TX.VAL.TECH.MF.ZS,28.2133210437189,World Bank WDI
+KOR,South Korea,2011,internet_users,IT.NET.USER.ZS,83.7591201534472,World Bank WDI
+KOR,South Korea,2011,manufacturing_value_added,NV.IND.MANF.ZS,29.0005575131874,World Bank WDI
+KOR,South Korea,2011,patent_nonresident,IP.PAT.NRES,40890.0,World Bank WDI
+KOR,South Korea,2011,patent_resident,IP.PAT.RESD,138034.0,World Bank WDI
+KOR,South Korea,2011,rd_expenditure,GB.XPD.RSDV.GD.ZS,3.44409,World Bank WDI
+KOR,South Korea,2011,researchers_rd,SP.POP.SCIE.RD.P6,5908.82443,World Bank WDI
+KOR,South Korea,2011,tertiary_enrolment,SE.TER.ENRR,100.819679260254,World Bank WDI
+KOR,South Korea,2012,fdi,BX.KLT.DINV.WD.GD.ZS,0.711120351080011,World Bank WDI
+KOR,South Korea,2012,fixed_broadband,IT.NET.BBND.P2,36.8000321131758,World Bank WDI
+KOR,South Korea,2012,hightech_exports,TX.VAL.TECH.MF.ZS,28.2220757644767,World Bank WDI
+KOR,South Korea,2012,internet_users,IT.NET.USER.ZS,84.07,World Bank WDI
+KOR,South Korea,2012,manufacturing_value_added,NV.IND.MANF.ZS,28.7408682052811,World Bank WDI
+KOR,South Korea,2012,patent_nonresident,IP.PAT.NRES,40779.0,World Bank WDI
+KOR,South Korea,2012,patent_resident,IP.PAT.RESD,148136.0,World Bank WDI
+KOR,South Korea,2012,rd_expenditure,GB.XPD.RSDV.GD.ZS,3.6852,World Bank WDI
+KOR,South Korea,2012,researchers_rd,SP.POP.SCIE.RD.P6,6393.34374,World Bank WDI
+KOR,South Korea,2012,tertiary_enrolment,SE.TER.ENRR,98.286979675293,World Bank WDI
+KOR,South Korea,2013,fdi,BX.KLT.DINV.WD.GD.ZS,0.889863368558993,World Bank WDI
+KOR,South Korea,2013,fixed_broadband,IT.NET.BBND.P2,37.4217663483917,World Bank WDI
+KOR,South Korea,2013,hightech_exports,TX.VAL.TECH.MF.ZS,29.8181999078998,World Bank WDI
+KOR,South Korea,2013,internet_users,IT.NET.USER.ZS,84.77,World Bank WDI
+KOR,South Korea,2013,manufacturing_value_added,NV.IND.MANF.ZS,28.8654766941182,World Bank WDI
+KOR,South Korea,2013,patent_nonresident,IP.PAT.NRES,44611.0,World Bank WDI
+KOR,South Korea,2013,patent_resident,IP.PAT.RESD,159978.0,World Bank WDI
+KOR,South Korea,2013,rd_expenditure,GB.XPD.RSDV.GD.ZS,3.77487,World Bank WDI
+KOR,South Korea,2013,researchers_rd,SP.POP.SCIE.RD.P6,6457.88851,World Bank WDI
+KOR,South Korea,2013,tertiary_enrolment,SE.TER.ENRR,96.3375015258789,World Bank WDI
+KOR,South Korea,2014,fdi,BX.KLT.DINV.WD.GD.ZS,0.595893048504325,World Bank WDI
+KOR,South Korea,2014,fixed_broadband,IT.NET.BBND.P2,37.9883114555998,World Bank WDI
+KOR,South Korea,2014,hightech_exports,TX.VAL.TECH.MF.ZS,30.0608682657817,World Bank WDI
+KOR,South Korea,2014,internet_users,IT.NET.USER.ZS,87.5568264944747,World Bank WDI
+KOR,South Korea,2014,manufacturing_value_added,NV.IND.MANF.ZS,28.2760755546832,World Bank WDI
+KOR,South Korea,2014,patent_nonresident,IP.PAT.NRES,46219.0,World Bank WDI
+KOR,South Korea,2014,patent_resident,IP.PAT.RESD,164073.0,World Bank WDI
+KOR,South Korea,2014,rd_expenditure,GB.XPD.RSDV.GD.ZS,3.88983,World Bank WDI
+KOR,South Korea,2014,researchers_rd,SP.POP.SCIE.RD.P6,6867.33385,World Bank WDI
+KOR,South Korea,2014,tertiary_enrolment,SE.TER.ENRR,94.4421691894531,World Bank WDI
+KOR,South Korea,2015,fdi,BX.KLT.DINV.WD.GD.ZS,0.266636382581676,World Bank WDI
+KOR,South Korea,2015,fixed_broadband,IT.NET.BBND.P2,39.2759563055891,World Bank WDI
+KOR,South Korea,2015,government_education,SE.XPD.TOTL.GD.ZS,4.24247980117798,World Bank WDI
+KOR,South Korea,2015,hightech_exports,TX.VAL.TECH.MF.ZS,31.2119270912605,World Bank WDI
+KOR,South Korea,2015,internet_users,IT.NET.USER.ZS,89.8962557995106,World Bank WDI
+KOR,South Korea,2015,manufacturing_value_added,NV.IND.MANF.ZS,27.8215922094514,World Bank WDI
+KOR,South Korea,2015,patent_nonresident,IP.PAT.NRES,46419.0,World Bank WDI
+KOR,South Korea,2015,patent_resident,IP.PAT.RESD,167275.0,World Bank WDI
+KOR,South Korea,2015,rd_expenditure,GB.XPD.RSDV.GD.ZS,3.78907,World Bank WDI
+KOR,South Korea,2015,researchers_rd,SP.POP.SCIE.RD.P6,7020.43916,World Bank WDI
+KOR,South Korea,2015,tertiary_enrolment,SE.TER.ENRR,93.9676513671875,World Bank WDI
+KOR,South Korea,2016,fdi,BX.KLT.DINV.WD.GD.ZS,0.766507046338007,World Bank WDI
+KOR,South Korea,2016,fixed_broadband,IT.NET.BBND.P2,40.0712454963259,World Bank WDI
+KOR,South Korea,2016,government_education,SE.XPD.TOTL.GD.ZS,4.11502981185913,World Bank WDI
+KOR,South Korea,2016,hightech_exports,TX.VAL.TECH.MF.ZS,30.5250266717443,World Bank WDI
+KOR,South Korea,2016,internet_users,IT.NET.USER.ZS,92.8430256796075,World Bank WDI
+KOR,South Korea,2016,manufacturing_value_added,NV.IND.MANF.ZS,27.5129940831191,World Bank WDI
+KOR,South Korea,2016,patent_nonresident,IP.PAT.NRES,45406.0,World Bank WDI
+KOR,South Korea,2016,patent_resident,IP.PAT.RESD,163424.0,World Bank WDI
+KOR,South Korea,2016,rd_expenditure,GB.XPD.RSDV.GD.ZS,3.78638,World Bank WDI
+KOR,South Korea,2016,researchers_rd,SP.POP.SCIE.RD.P6,7057.16003,World Bank WDI
+KOR,South Korea,2016,tertiary_enrolment,SE.TER.ENRR,93.6577224731445,World Bank WDI
+KOR,South Korea,2017,fdi,BX.KLT.DINV.WD.GD.ZS,1.04741749331971,World Bank WDI
+KOR,South Korea,2017,fixed_broadband,IT.NET.BBND.P2,41.1680978249153,World Bank WDI
+KOR,South Korea,2017,government_education,SE.XPD.TOTL.GD.ZS,4.10775995254517,World Bank WDI
+KOR,South Korea,2017,hightech_exports,TX.VAL.TECH.MF.ZS,32.546316460744,World Bank WDI
+KOR,South Korea,2017,internet_users,IT.NET.USER.ZS,95.0694218761004,World Bank WDI
+KOR,South Korea,2017,manufacturing_value_added,NV.IND.MANF.ZS,28.0322405682167,World Bank WDI
+KOR,South Korea,2017,patent_nonresident,IP.PAT.NRES,45691.0,World Bank WDI
+KOR,South Korea,2017,patent_resident,IP.PAT.RESD,159084.0,World Bank WDI
+KOR,South Korea,2017,rd_expenditure,GB.XPD.RSDV.GD.ZS,4.07341,World Bank WDI
+KOR,South Korea,2017,researchers_rd,SP.POP.SCIE.RD.P6,7453.21918,World Bank WDI
+KOR,South Korea,2017,tertiary_enrolment,SE.TER.ENRR,93.7230224609375,World Bank WDI
+KOR,South Korea,2018,fdi,BX.KLT.DINV.WD.GD.ZS,0.66781363782051,World Bank WDI
+KOR,South Korea,2018,fixed_broadband,IT.NET.BBND.P2,41.2189959375994,World Bank WDI
+KOR,South Korea,2018,government_education,SE.XPD.TOTL.GD.ZS,4.21645021438599,World Bank WDI
+KOR,South Korea,2018,hightech_exports,TX.VAL.TECH.MF.ZS,36.3912233579129,World Bank WDI
+KOR,South Korea,2018,internet_users,IT.NET.USER.ZS,96.0228595797887,World Bank WDI
+KOR,South Korea,2018,manufacturing_value_added,NV.IND.MANF.ZS,27.7672237489814,World Bank WDI
+KOR,South Korea,2018,patent_nonresident,IP.PAT.NRES,47431.0,World Bank WDI
+KOR,South Korea,2018,patent_resident,IP.PAT.RESD,162561.0,World Bank WDI
+KOR,South Korea,2018,rd_expenditure,GB.XPD.RSDV.GD.ZS,4.27155,World Bank WDI
+KOR,South Korea,2018,researchers_rd,SP.POP.SCIE.RD.P6,7918.46916,World Bank WDI
+KOR,South Korea,2018,tertiary_enrolment,SE.TER.ENRR,93.3281784057617,World Bank WDI
+KOR,South Korea,2019,fdi,BX.KLT.DINV.WD.GD.ZS,0.550202642546341,World Bank WDI
+KOR,South Korea,2019,fixed_broadband,IT.NET.BBND.P2,42.0373507524342,World Bank WDI
+KOR,South Korea,2019,government_education,SE.XPD.TOTL.GD.ZS,4.41813993453979,World Bank WDI
+KOR,South Korea,2019,hightech_exports,TX.VAL.TECH.MF.ZS,32.4050621736765,World Bank WDI
+KOR,South Korea,2019,internet_users,IT.NET.USER.ZS,96.157579184239,World Bank WDI
+KOR,South Korea,2019,manufacturing_value_added,NV.IND.MANF.ZS,26.370175590513,World Bank WDI
+KOR,South Korea,2019,patent_nonresident,IP.PAT.NRES,47372.0,World Bank WDI
+KOR,South Korea,2019,patent_resident,IP.PAT.RESD,171603.0,World Bank WDI
+KOR,South Korea,2019,rd_expenditure,GB.XPD.RSDV.GD.ZS,4.36379,World Bank WDI
+KOR,South Korea,2019,researchers_rd,SP.POP.SCIE.RD.P6,8328.96727,World Bank WDI
+KOR,South Korea,2019,tertiary_enrolment,SE.TER.ENRR,93.9989166259766,World Bank WDI
+KOR,South Korea,2020,fdi,BX.KLT.DINV.WD.GD.ZS,0.502554290313687,World Bank WDI
+KOR,South Korea,2020,fixed_broadband,IT.NET.BBND.P2,43.0540600860627,World Bank WDI
+KOR,South Korea,2020,government_education,SE.XPD.TOTL.GD.ZS,4.52706003189087,World Bank WDI
+KOR,South Korea,2020,hightech_exports,TX.VAL.TECH.MF.ZS,35.6022265413283,World Bank WDI
+KOR,South Korea,2020,internet_users,IT.NET.USER.ZS,96.50506052,World Bank WDI
+KOR,South Korea,2020,manufacturing_value_added,NV.IND.MANF.ZS,25.7002433607737,World Bank WDI
+KOR,South Korea,2020,patent_nonresident,IP.PAT.NRES,46282.0,World Bank WDI
+KOR,South Korea,2020,patent_resident,IP.PAT.RESD,180477.0,World Bank WDI
+KOR,South Korea,2020,rd_expenditure,GB.XPD.RSDV.GD.ZS,4.5214,World Bank WDI
+KOR,South Korea,2020,researchers_rd,SP.POP.SCIE.RD.P6,8620.009,World Bank WDI
+KOR,South Korea,2020,tertiary_enrolment,SE.TER.ENRR,96.8767700195312,World Bank WDI
+KOR,South Korea,2021,fdi,BX.KLT.DINV.WD.GD.ZS,1.13577953855347,World Bank WDI
+KOR,South Korea,2021,fixed_broadband,IT.NET.BBND.P2,44.2526082339633,World Bank WDI
+KOR,South Korea,2021,government_education,SE.XPD.TOTL.GD.ZS,4.55590009689331,World Bank WDI
+KOR,South Korea,2021,hightech_exports,TX.VAL.TECH.MF.ZS,36.014503674486,World Bank WDI
+KOR,South Korea,2021,internet_users,IT.NET.USER.ZS,97.57132698,World Bank WDI
+KOR,South Korea,2021,manufacturing_value_added,NV.IND.MANF.ZS,26.2480856022754,World Bank WDI
+KOR,South Korea,2021,patent_nonresident,IP.PAT.NRES,51753.0,World Bank WDI
+KOR,South Korea,2021,patent_resident,IP.PAT.RESD,186245.0,World Bank WDI
+KOR,South Korea,2021,rd_expenditure,GB.XPD.RSDV.GD.ZS,4.59673,World Bank WDI
+KOR,South Korea,2021,researchers_rd,SP.POP.SCIE.RD.P6,9071.4503,World Bank WDI
+KOR,South Korea,2021,tertiary_enrolment,SE.TER.ENRR,100.359878540039,World Bank WDI
+KOR,South Korea,2022,fdi,BX.KLT.DINV.WD.GD.ZS,1.39186469730544,World Bank WDI
+KOR,South Korea,2022,fixed_broadband,IT.NET.BBND.P2,45.4542124182774,World Bank WDI
+KOR,South Korea,2022,government_education,SE.XPD.TOTL.GD.ZS,5.40910005569458,World Bank WDI
+KOR,South Korea,2022,hightech_exports,TX.VAL.TECH.MF.ZS,36.118278931217,World Bank WDI
+KOR,South Korea,2022,internet_users,IT.NET.USER.ZS,97.16855335,World Bank WDI
+KOR,South Korea,2022,manufacturing_value_added,NV.IND.MANF.ZS,26.4977408590265,World Bank WDI
+KOR,South Korea,2022,rd_expenditure,GB.XPD.RSDV.GD.ZS,4.84753,World Bank WDI
+KOR,South Korea,2022,researchers_rd,SP.POP.SCIE.RD.P6,9434.7613,World Bank WDI
+KOR,South Korea,2022,tertiary_enrolment,SE.TER.ENRR,102.813056945801,World Bank WDI
+KOR,South Korea,2023,fdi,BX.KLT.DINV.WD.GD.ZS,1.03221435142435,World Bank WDI
+KOR,South Korea,2023,fixed_broadband,IT.NET.BBND.P2,46.5676352036327,World Bank WDI
+KOR,South Korea,2023,hightech_exports,TX.VAL.TECH.MF.ZS,30.2762799912651,World Bank WDI
+KOR,South Korea,2023,internet_users,IT.NET.USER.ZS,97.41597478,World Bank WDI
+KOR,South Korea,2023,manufacturing_value_added,NV.IND.MANF.ZS,25.4551420827792,World Bank WDI
+KOR,South Korea,2023,rd_expenditure,GB.XPD.RSDV.GD.ZS,4.94352,World Bank WDI
+KOR,South Korea,2023,researchers_rd,SP.POP.SCIE.RD.P6,9471.82543,World Bank WDI
+KOR,South Korea,2023,tertiary_enrolment,SE.TER.ENRR,106.709167480469,World Bank WDI
+KOR,South Korea,2024,fdi,BX.KLT.DINV.WD.GD.ZS,0.685857996519477,World Bank WDI
+KOR,South Korea,2024,fixed_broadband,IT.NET.BBND.P2,47.8014965507867,World Bank WDI
+KOR,South Korea,2024,hightech_exports,TX.VAL.TECH.MF.ZS,36.2582559366674,World Bank WDI
+KOR,South Korea,2024,internet_users,IT.NET.USER.ZS,97.89563777,World Bank WDI
+KOR,South Korea,2024,manufacturing_value_added,NV.IND.MANF.ZS,26.6179725157922,World Bank WDI
+KOR,South Korea,2024,tertiary_enrolment,SE.TER.ENRR,111.853302001953,World Bank WDI
+KOR,South Korea,2025,fdi,BX.KLT.DINV.WD.GD.ZS,0.844067044503223,World Bank WDI
+KOR,South Korea,2025,manufacturing_value_added,NV.IND.MANF.ZS,27.4263326092558,World Bank WDI

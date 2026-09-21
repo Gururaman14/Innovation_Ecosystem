@@ -1,0 +1,533 @@
+country_code,country,year,variable,recommended_source
+IND,India,2000,hightech_exports,UN Comtrade / WITS
+IND,India,2000,fixed_broadband,ITU
+IND,India,2001,hightech_exports,UN Comtrade / WITS
+IND,India,2001,researchers_rd,OECD MSTI
+IND,India,2001,government_education,UNESCO UIS
+IND,India,2002,hightech_exports,UN Comtrade / WITS
+IND,India,2002,researchers_rd,OECD MSTI
+IND,India,2002,government_education,UNESCO UIS
+IND,India,2003,hightech_exports,UN Comtrade / WITS
+IND,India,2003,researchers_rd,OECD MSTI
+IND,India,2004,hightech_exports,UN Comtrade / WITS
+IND,India,2004,researchers_rd,OECD MSTI
+IND,India,2005,hightech_exports,UN Comtrade / WITS
+IND,India,2006,hightech_exports,UN Comtrade / WITS
+IND,India,2006,researchers_rd,OECD MSTI
+IND,India,2007,hightech_exports,UN Comtrade / WITS
+IND,India,2007,researchers_rd,OECD MSTI
+IND,India,2007,government_education,UNESCO UIS
+IND,India,2008,hightech_exports,UN Comtrade / WITS
+IND,India,2008,researchers_rd,OECD MSTI
+IND,India,2008,government_education,UNESCO UIS
+IND,India,2009,researchers_rd,OECD MSTI
+IND,India,2011,researchers_rd,OECD MSTI
+IND,India,2012,researchers_rd,OECD MSTI
+IND,India,2013,researchers_rd,OECD MSTI
+IND,India,2014,researchers_rd,OECD MSTI
+IND,India,2016,researchers_rd,OECD MSTI
+IND,India,2017,researchers_rd,OECD MSTI
+IND,India,2019,researchers_rd,OECD MSTI
+IND,India,2021,rd_expenditure,OECD MSTI
+IND,India,2021,researchers_rd,OECD MSTI
+IND,India,2022,rd_expenditure,OECD MSTI
+IND,India,2022,researchers_rd,OECD MSTI
+IND,India,2022,patent_resident,WIPO
+IND,India,2022,patent_nonresident,WIPO
+IND,India,2023,rd_expenditure,OECD MSTI
+IND,India,2023,researchers_rd,OECD MSTI
+IND,India,2023,patent_resident,WIPO
+IND,India,2023,patent_nonresident,WIPO
+IND,India,2023,government_education,UNESCO UIS
+IND,India,2024,rd_expenditure,OECD MSTI
+IND,India,2024,researchers_rd,OECD MSTI
+IND,India,2024,patent_resident,WIPO
+IND,India,2024,patent_nonresident,WIPO
+IND,India,2024,government_education,UNESCO UIS
+IND,India,2025,hightech_exports,UN Comtrade / WITS
+IND,India,2025,rd_expenditure,OECD MSTI
+IND,India,2025,researchers_rd,OECD MSTI
+IND,India,2025,patent_resident,WIPO
+IND,India,2025,patent_nonresident,WIPO
+IND,India,2025,fixed_broadband,ITU
+IND,India,2025,government_education,UNESCO UIS
+CHN,China,2000,hightech_exports,UN Comtrade / WITS
+CHN,China,2000,government_education,UNESCO UIS
+CHN,China,2000,manufacturing_value_added,WDI / UNIDO
+CHN,China,2001,hightech_exports,UN Comtrade / WITS
+CHN,China,2001,government_education,UNESCO UIS
+CHN,China,2001,manufacturing_value_added,WDI / UNIDO
+CHN,China,2002,hightech_exports,UN Comtrade / WITS
+CHN,China,2002,government_education,UNESCO UIS
+CHN,China,2002,manufacturing_value_added,WDI / UNIDO
+CHN,China,2003,hightech_exports,UN Comtrade / WITS
+CHN,China,2003,government_education,UNESCO UIS
+CHN,China,2003,manufacturing_value_added,WDI / UNIDO
+CHN,China,2004,hightech_exports,UN Comtrade / WITS
+CHN,China,2004,government_education,UNESCO UIS
+CHN,China,2005,hightech_exports,UN Comtrade / WITS
+CHN,China,2005,government_education,UNESCO UIS
+CHN,China,2006,hightech_exports,UN Comtrade / WITS
+CHN,China,2006,government_education,UNESCO UIS
+CHN,China,2007,government_education,UNESCO UIS
+CHN,China,2008,government_education,UNESCO UIS
+CHN,China,2009,government_education,UNESCO UIS
+CHN,China,2010,government_education,UNESCO UIS
+CHN,China,2011,government_education,UNESCO UIS
+CHN,China,2012,government_education,UNESCO UIS
+CHN,China,2013,government_education,UNESCO UIS
+CHN,China,2014,government_education,UNESCO UIS
+CHN,China,2015,government_education,UNESCO UIS
+CHN,China,2016,government_education,UNESCO UIS
+CHN,China,2017,government_education,UNESCO UIS
+CHN,China,2018,government_education,UNESCO UIS
+CHN,China,2019,government_education,UNESCO UIS
+CHN,China,2020,government_education,UNESCO UIS
+CHN,China,2021,government_education,UNESCO UIS
+CHN,China,2022,patent_resident,WIPO
+CHN,China,2022,patent_nonresident,WIPO
+CHN,China,2022,government_education,UNESCO UIS
+CHN,China,2023,patent_resident,WIPO
+CHN,China,2023,patent_nonresident,WIPO
+CHN,China,2024,rd_expenditure,OECD MSTI
+CHN,China,2024,researchers_rd,OECD MSTI
+CHN,China,2024,patent_resident,WIPO
+CHN,China,2024,patent_nonresident,WIPO
+CHN,China,2024,government_education,UNESCO UIS
+CHN,China,2025,hightech_exports,UN Comtrade / WITS
+CHN,China,2025,rd_expenditure,OECD MSTI
+CHN,China,2025,researchers_rd,OECD MSTI
+CHN,China,2025,patent_resident,WIPO
+CHN,China,2025,patent_nonresident,WIPO
+CHN,China,2025,fixed_broadband,ITU
+CHN,China,2025,tertiary_enrolment,UNESCO UIS
+CHN,China,2025,government_education,UNESCO UIS
+KOR,South Korea,2000,hightech_exports,UN Comtrade / WITS
+KOR,South Korea,2000,government_education,UNESCO UIS
+KOR,South Korea,2001,hightech_exports,UN Comtrade / WITS
+KOR,South Korea,2001,government_education,UNESCO UIS
+KOR,South Korea,2002,hightech_exports,UN Comtrade / WITS
+KOR,South Korea,2002,government_education,UNESCO UIS
+KOR,South Korea,2003,hightech_exports,UN Comtrade / WITS
+KOR,South Korea,2003,government_education,UNESCO UIS
+KOR,South Korea,2004,hightech_exports,UN Comtrade / WITS
+KOR,South Korea,2004,government_education,UNESCO UIS
+KOR,South Korea,2005,hightech_exports,UN Comtrade / WITS
+KOR,South Korea,2005,government_education,UNESCO UIS
+KOR,South Korea,2006,hightech_exports,UN Comtrade / WITS
+KOR,South Korea,2006,government_education,UNESCO UIS
+KOR,South Korea,2007,government_education,UNESCO UIS
+KOR,South Korea,2008,government_education,UNESCO UIS
+KOR,South Korea,2009,government_education,UNESCO UIS
+KOR,South Korea,2010,government_education,UNESCO UIS
+KOR,South Korea,2011,government_education,UNESCO UIS
+KOR,South Korea,2012,government_education,UNESCO UIS
+KOR,South Korea,2013,government_education,UNESCO UIS
+KOR,South Korea,2014,government_education,UNESCO UIS
+KOR,South Korea,2022,patent_resident,WIPO
+KOR,South Korea,2022,patent_nonresident,WIPO
+KOR,South Korea,2023,patent_resident,WIPO
+KOR,South Korea,2023,patent_nonresident,WIPO
+KOR,South Korea,2023,government_education,UNESCO UIS
+KOR,South Korea,2024,rd_expenditure,OECD MSTI
+KOR,South Korea,2024,researchers_rd,OECD MSTI
+KOR,South Korea,2024,patent_resident,WIPO
+KOR,South Korea,2024,patent_nonresident,WIPO
+KOR,South Korea,2024,government_education,UNESCO UIS
+KOR,South Korea,2025,hightech_exports,UN Comtrade / WITS
+KOR,South Korea,2025,rd_expenditure,OECD MSTI
+KOR,South Korea,2025,researchers_rd,OECD MSTI
+KOR,South Korea,2025,patent_resident,WIPO
+KOR,South Korea,2025,patent_nonresident,WIPO
+KOR,South Korea,2025,internet_users,ITU
+KOR,South Korea,2025,fixed_broadband,ITU
+KOR,South Korea,2025,tertiary_enrolment,UNESCO UIS
+KOR,South Korea,2025,government_education,UNESCO UIS
+TWN,Taiwan,2000,hightech_exports,UN Comtrade / WITS
+TWN,Taiwan,2000,rd_expenditure,OECD MSTI
+TWN,Taiwan,2000,researchers_rd,OECD MSTI
+TWN,Taiwan,2000,patent_resident,WIPO
+TWN,Taiwan,2000,patent_nonresident,WIPO
+TWN,Taiwan,2000,internet_users,ITU
+TWN,Taiwan,2000,fixed_broadband,ITU
+TWN,Taiwan,2000,tertiary_enrolment,UNESCO UIS
+TWN,Taiwan,2000,government_education,UNESCO UIS
+TWN,Taiwan,2000,fdi,WDI / UNCTAD
+TWN,Taiwan,2000,manufacturing_value_added,WDI / UNIDO
+TWN,Taiwan,2001,hightech_exports,UN Comtrade / WITS
+TWN,Taiwan,2001,rd_expenditure,OECD MSTI
+TWN,Taiwan,2001,researchers_rd,OECD MSTI
+TWN,Taiwan,2001,patent_resident,WIPO
+TWN,Taiwan,2001,patent_nonresident,WIPO
+TWN,Taiwan,2001,internet_users,ITU
+TWN,Taiwan,2001,fixed_broadband,ITU
+TWN,Taiwan,2001,tertiary_enrolment,UNESCO UIS
+TWN,Taiwan,2001,government_education,UNESCO UIS
+TWN,Taiwan,2001,fdi,WDI / UNCTAD
+TWN,Taiwan,2001,manufacturing_value_added,WDI / UNIDO
+TWN,Taiwan,2002,hightech_exports,UN Comtrade / WITS
+TWN,Taiwan,2002,rd_expenditure,OECD MSTI
+TWN,Taiwan,2002,researchers_rd,OECD MSTI
+TWN,Taiwan,2002,patent_resident,WIPO
+TWN,Taiwan,2002,patent_nonresident,WIPO
+TWN,Taiwan,2002,internet_users,ITU
+TWN,Taiwan,2002,fixed_broadband,ITU
+TWN,Taiwan,2002,tertiary_enrolment,UNESCO UIS
+TWN,Taiwan,2002,government_education,UNESCO UIS
+TWN,Taiwan,2002,fdi,WDI / UNCTAD
+TWN,Taiwan,2002,manufacturing_value_added,WDI / UNIDO
+TWN,Taiwan,2003,hightech_exports,UN Comtrade / WITS
+TWN,Taiwan,2003,rd_expenditure,OECD MSTI
+TWN,Taiwan,2003,researchers_rd,OECD MSTI
+TWN,Taiwan,2003,patent_resident,WIPO
+TWN,Taiwan,2003,patent_nonresident,WIPO
+TWN,Taiwan,2003,internet_users,ITU
+TWN,Taiwan,2003,fixed_broadband,ITU
+TWN,Taiwan,2003,tertiary_enrolment,UNESCO UIS
+TWN,Taiwan,2003,government_education,UNESCO UIS
+TWN,Taiwan,2003,fdi,WDI / UNCTAD
+TWN,Taiwan,2003,manufacturing_value_added,WDI / UNIDO
+TWN,Taiwan,2004,hightech_exports,UN Comtrade / WITS
+TWN,Taiwan,2004,rd_expenditure,OECD MSTI
+TWN,Taiwan,2004,researchers_rd,OECD MSTI
+TWN,Taiwan,2004,patent_resident,WIPO
+TWN,Taiwan,2004,patent_nonresident,WIPO
+TWN,Taiwan,2004,internet_users,ITU
+TWN,Taiwan,2004,fixed_broadband,ITU
+TWN,Taiwan,2004,tertiary_enrolment,UNESCO UIS
+TWN,Taiwan,2004,government_education,UNESCO UIS
+TWN,Taiwan,2004,fdi,WDI / UNCTAD
+TWN,Taiwan,2004,manufacturing_value_added,WDI / UNIDO
+TWN,Taiwan,2005,hightech_exports,UN Comtrade / WITS
+TWN,Taiwan,2005,rd_expenditure,OECD MSTI
+TWN,Taiwan,2005,researchers_rd,OECD MSTI
+TWN,Taiwan,2005,patent_resident,WIPO
+TWN,Taiwan,2005,patent_nonresident,WIPO
+TWN,Taiwan,2005,internet_users,ITU
+TWN,Taiwan,2005,fixed_broadband,ITU
+TWN,Taiwan,2005,tertiary_enrolment,UNESCO UIS
+TWN,Taiwan,2005,government_education,UNESCO UIS
+TWN,Taiwan,2005,fdi,WDI / UNCTAD
+TWN,Taiwan,2005,manufacturing_value_added,WDI / UNIDO
+TWN,Taiwan,2006,hightech_exports,UN Comtrade / WITS
+TWN,Taiwan,2006,rd_expenditure,OECD MSTI
+TWN,Taiwan,2006,researchers_rd,OECD MSTI
+TWN,Taiwan,2006,patent_resident,WIPO
+TWN,Taiwan,2006,patent_nonresident,WIPO
+TWN,Taiwan,2006,internet_users,ITU
+TWN,Taiwan,2006,fixed_broadband,ITU
+TWN,Taiwan,2006,tertiary_enrolment,UNESCO UIS
+TWN,Taiwan,2006,government_education,UNESCO UIS
+TWN,Taiwan,2006,fdi,WDI / UNCTAD
+TWN,Taiwan,2006,manufacturing_value_added,WDI / UNIDO
+TWN,Taiwan,2007,hightech_exports,UN Comtrade / WITS
+TWN,Taiwan,2007,rd_expenditure,OECD MSTI
+TWN,Taiwan,2007,researchers_rd,OECD MSTI
+TWN,Taiwan,2007,patent_resident,WIPO
+TWN,Taiwan,2007,patent_nonresident,WIPO
+TWN,Taiwan,2007,internet_users,ITU
+TWN,Taiwan,2007,fixed_broadband,ITU
+TWN,Taiwan,2007,tertiary_enrolment,UNESCO UIS
+TWN,Taiwan,2007,government_education,UNESCO UIS
+TWN,Taiwan,2007,fdi,WDI / UNCTAD
+TWN,Taiwan,2007,manufacturing_value_added,WDI / UNIDO
+TWN,Taiwan,2008,hightech_exports,UN Comtrade / WITS
+TWN,Taiwan,2008,rd_expenditure,OECD MSTI
+TWN,Taiwan,2008,researchers_rd,OECD MSTI
+TWN,Taiwan,2008,patent_resident,WIPO
+TWN,Taiwan,2008,patent_nonresident,WIPO
+TWN,Taiwan,2008,internet_users,ITU
+TWN,Taiwan,2008,fixed_broadband,ITU
+TWN,Taiwan,2008,tertiary_enrolment,UNESCO UIS
+TWN,Taiwan,2008,government_education,UNESCO UIS
+TWN,Taiwan,2008,fdi,WDI / UNCTAD
+TWN,Taiwan,2008,manufacturing_value_added,WDI / UNIDO
+TWN,Taiwan,2009,hightech_exports,UN Comtrade / WITS
+TWN,Taiwan,2009,rd_expenditure,OECD MSTI
+TWN,Taiwan,2009,researchers_rd,OECD MSTI
+TWN,Taiwan,2009,patent_resident,WIPO
+TWN,Taiwan,2009,patent_nonresident,WIPO
+TWN,Taiwan,2009,internet_users,ITU
+TWN,Taiwan,2009,fixed_broadband,ITU
+TWN,Taiwan,2009,tertiary_enrolment,UNESCO UIS
+TWN,Taiwan,2009,government_education,UNESCO UIS
+TWN,Taiwan,2009,fdi,WDI / UNCTAD
+TWN,Taiwan,2009,manufacturing_value_added,WDI / UNIDO
+TWN,Taiwan,2010,hightech_exports,UN Comtrade / WITS
+TWN,Taiwan,2010,rd_expenditure,OECD MSTI
+TWN,Taiwan,2010,researchers_rd,OECD MSTI
+TWN,Taiwan,2010,patent_resident,WIPO
+TWN,Taiwan,2010,patent_nonresident,WIPO
+TWN,Taiwan,2010,internet_users,ITU
+TWN,Taiwan,2010,fixed_broadband,ITU
+TWN,Taiwan,2010,tertiary_enrolment,UNESCO UIS
+TWN,Taiwan,2010,government_education,UNESCO UIS
+TWN,Taiwan,2010,fdi,WDI / UNCTAD
+TWN,Taiwan,2010,manufacturing_value_added,WDI / UNIDO
+TWN,Taiwan,2011,hightech_exports,UN Comtrade / WITS
+TWN,Taiwan,2011,rd_expenditure,OECD MSTI
+TWN,Taiwan,2011,researchers_rd,OECD MSTI
+TWN,Taiwan,2011,patent_resident,WIPO
+TWN,Taiwan,2011,patent_nonresident,WIPO
+TWN,Taiwan,2011,internet_users,ITU
+TWN,Taiwan,2011,fixed_broadband,ITU
+TWN,Taiwan,2011,tertiary_enrolment,UNESCO UIS
+TWN,Taiwan,2011,government_education,UNESCO UIS
+TWN,Taiwan,2011,fdi,WDI / UNCTAD
+TWN,Taiwan,2011,manufacturing_value_added,WDI / UNIDO
+TWN,Taiwan,2012,hightech_exports,UN Comtrade / WITS
+TWN,Taiwan,2012,rd_expenditure,OECD MSTI
+TWN,Taiwan,2012,researchers_rd,OECD MSTI
+TWN,Taiwan,2012,patent_resident,WIPO
+TWN,Taiwan,2012,patent_nonresident,WIPO
+TWN,Taiwan,2012,internet_users,ITU
+TWN,Taiwan,2012,fixed_broadband,ITU
+TWN,Taiwan,2012,tertiary_enrolment,UNESCO UIS
+TWN,Taiwan,2012,government_education,UNESCO UIS
+TWN,Taiwan,2012,fdi,WDI / UNCTAD
+TWN,Taiwan,2012,manufacturing_value_added,WDI / UNIDO
+TWN,Taiwan,2013,hightech_exports,UN Comtrade / WITS
+TWN,Taiwan,2013,rd_expenditure,OECD MSTI
+TWN,Taiwan,2013,researchers_rd,OECD MSTI
+TWN,Taiwan,2013,patent_resident,WIPO
+TWN,Taiwan,2013,patent_nonresident,WIPO
+TWN,Taiwan,2013,internet_users,ITU
+TWN,Taiwan,2013,fixed_broadband,ITU
+TWN,Taiwan,2013,tertiary_enrolment,UNESCO UIS
+TWN,Taiwan,2013,government_education,UNESCO UIS
+TWN,Taiwan,2013,fdi,WDI / UNCTAD
+TWN,Taiwan,2013,manufacturing_value_added,WDI / UNIDO
+TWN,Taiwan,2014,hightech_exports,UN Comtrade / WITS
+TWN,Taiwan,2014,rd_expenditure,OECD MSTI
+TWN,Taiwan,2014,researchers_rd,OECD MSTI
+TWN,Taiwan,2014,patent_resident,WIPO
+TWN,Taiwan,2014,patent_nonresident,WIPO
+TWN,Taiwan,2014,internet_users,ITU
+TWN,Taiwan,2014,fixed_broadband,ITU
+TWN,Taiwan,2014,tertiary_enrolment,UNESCO UIS
+TWN,Taiwan,2014,government_education,UNESCO UIS
+TWN,Taiwan,2014,fdi,WDI / UNCTAD
+TWN,Taiwan,2014,manufacturing_value_added,WDI / UNIDO
+TWN,Taiwan,2015,hightech_exports,UN Comtrade / WITS
+TWN,Taiwan,2015,rd_expenditure,OECD MSTI
+TWN,Taiwan,2015,researchers_rd,OECD MSTI
+TWN,Taiwan,2015,patent_resident,WIPO
+TWN,Taiwan,2015,patent_nonresident,WIPO
+TWN,Taiwan,2015,internet_users,ITU
+TWN,Taiwan,2015,fixed_broadband,ITU
+TWN,Taiwan,2015,tertiary_enrolment,UNESCO UIS
+TWN,Taiwan,2015,government_education,UNESCO UIS
+TWN,Taiwan,2015,fdi,WDI / UNCTAD
+TWN,Taiwan,2015,manufacturing_value_added,WDI / UNIDO
+TWN,Taiwan,2016,hightech_exports,UN Comtrade / WITS
+TWN,Taiwan,2016,rd_expenditure,OECD MSTI
+TWN,Taiwan,2016,researchers_rd,OECD MSTI
+TWN,Taiwan,2016,patent_resident,WIPO
+TWN,Taiwan,2016,patent_nonresident,WIPO
+TWN,Taiwan,2016,internet_users,ITU
+TWN,Taiwan,2016,fixed_broadband,ITU
+TWN,Taiwan,2016,tertiary_enrolment,UNESCO UIS
+TWN,Taiwan,2016,government_education,UNESCO UIS
+TWN,Taiwan,2016,fdi,WDI / UNCTAD
+TWN,Taiwan,2016,manufacturing_value_added,WDI / UNIDO
+TWN,Taiwan,2017,hightech_exports,UN Comtrade / WITS
+TWN,Taiwan,2017,rd_expenditure,OECD MSTI
+TWN,Taiwan,2017,researchers_rd,OECD MSTI
+TWN,Taiwan,2017,patent_resident,WIPO
+TWN,Taiwan,2017,patent_nonresident,WIPO
+TWN,Taiwan,2017,internet_users,ITU
+TWN,Taiwan,2017,fixed_broadband,ITU
+TWN,Taiwan,2017,tertiary_enrolment,UNESCO UIS
+TWN,Taiwan,2017,government_education,UNESCO UIS
+TWN,Taiwan,2017,fdi,WDI / UNCTAD
+TWN,Taiwan,2017,manufacturing_value_added,WDI / UNIDO
+TWN,Taiwan,2018,hightech_exports,UN Comtrade / WITS
+TWN,Taiwan,2018,rd_expenditure,OECD MSTI
+TWN,Taiwan,2018,researchers_rd,OECD MSTI
+TWN,Taiwan,2018,patent_resident,WIPO
+TWN,Taiwan,2018,patent_nonresident,WIPO
+TWN,Taiwan,2018,internet_users,ITU
+TWN,Taiwan,2018,fixed_broadband,ITU
+TWN,Taiwan,2018,tertiary_enrolment,UNESCO UIS
+TWN,Taiwan,2018,government_education,UNESCO UIS
+TWN,Taiwan,2018,fdi,WDI / UNCTAD
+TWN,Taiwan,2018,manufacturing_value_added,WDI / UNIDO
+TWN,Taiwan,2019,hightech_exports,UN Comtrade / WITS
+TWN,Taiwan,2019,rd_expenditure,OECD MSTI
+TWN,Taiwan,2019,researchers_rd,OECD MSTI
+TWN,Taiwan,2019,patent_resident,WIPO
+TWN,Taiwan,2019,patent_nonresident,WIPO
+TWN,Taiwan,2019,internet_users,ITU
+TWN,Taiwan,2019,fixed_broadband,ITU
+TWN,Taiwan,2019,tertiary_enrolment,UNESCO UIS
+TWN,Taiwan,2019,government_education,UNESCO UIS
+TWN,Taiwan,2019,fdi,WDI / UNCTAD
+TWN,Taiwan,2019,manufacturing_value_added,WDI / UNIDO
+TWN,Taiwan,2020,hightech_exports,UN Comtrade / WITS
+TWN,Taiwan,2020,rd_expenditure,OECD MSTI
+TWN,Taiwan,2020,researchers_rd,OECD MSTI
+TWN,Taiwan,2020,patent_resident,WIPO
+TWN,Taiwan,2020,patent_nonresident,WIPO
+TWN,Taiwan,2020,internet_users,ITU
+TWN,Taiwan,2020,fixed_broadband,ITU
+TWN,Taiwan,2020,tertiary_enrolment,UNESCO UIS
+TWN,Taiwan,2020,government_education,UNESCO UIS
+TWN,Taiwan,2020,fdi,WDI / UNCTAD
+TWN,Taiwan,2020,manufacturing_value_added,WDI / UNIDO
+TWN,Taiwan,2021,hightech_exports,UN Comtrade / WITS
+TWN,Taiwan,2021,rd_expenditure,OECD MSTI
+TWN,Taiwan,2021,researchers_rd,OECD MSTI
+TWN,Taiwan,2021,patent_resident,WIPO
+TWN,Taiwan,2021,patent_nonresident,WIPO
+TWN,Taiwan,2021,internet_users,ITU
+TWN,Taiwan,2021,fixed_broadband,ITU
+TWN,Taiwan,2021,tertiary_enrolment,UNESCO UIS
+TWN,Taiwan,2021,government_education,UNESCO UIS
+TWN,Taiwan,2021,fdi,WDI / UNCTAD
+TWN,Taiwan,2021,manufacturing_value_added,WDI / UNIDO
+TWN,Taiwan,2022,hightech_exports,UN Comtrade / WITS
+TWN,Taiwan,2022,rd_expenditure,OECD MSTI
+TWN,Taiwan,2022,researchers_rd,OECD MSTI
+TWN,Taiwan,2022,patent_resident,WIPO
+TWN,Taiwan,2022,patent_nonresident,WIPO
+TWN,Taiwan,2022,internet_users,ITU
+TWN,Taiwan,2022,fixed_broadband,ITU
+TWN,Taiwan,2022,tertiary_enrolment,UNESCO UIS
+TWN,Taiwan,2022,government_education,UNESCO UIS
+TWN,Taiwan,2022,fdi,WDI / UNCTAD
+TWN,Taiwan,2022,manufacturing_value_added,WDI / UNIDO
+TWN,Taiwan,2023,hightech_exports,UN Comtrade / WITS
+TWN,Taiwan,2023,rd_expenditure,OECD MSTI
+TWN,Taiwan,2023,researchers_rd,OECD MSTI
+TWN,Taiwan,2023,patent_resident,WIPO
+TWN,Taiwan,2023,patent_nonresident,WIPO
+TWN,Taiwan,2023,internet_users,ITU
+TWN,Taiwan,2023,fixed_broadband,ITU
+TWN,Taiwan,2023,tertiary_enrolment,UNESCO UIS
+TWN,Taiwan,2023,government_education,UNESCO UIS
+TWN,Taiwan,2023,fdi,WDI / UNCTAD
+TWN,Taiwan,2023,manufacturing_value_added,WDI / UNIDO
+TWN,Taiwan,2024,hightech_exports,UN Comtrade / WITS
+TWN,Taiwan,2024,rd_expenditure,OECD MSTI
+TWN,Taiwan,2024,researchers_rd,OECD MSTI
+TWN,Taiwan,2024,patent_resident,WIPO
+TWN,Taiwan,2024,patent_nonresident,WIPO
+TWN,Taiwan,2024,internet_users,ITU
+TWN,Taiwan,2024,fixed_broadband,ITU
+TWN,Taiwan,2024,tertiary_enrolment,UNESCO UIS
+TWN,Taiwan,2024,government_education,UNESCO UIS
+TWN,Taiwan,2024,fdi,WDI / UNCTAD
+TWN,Taiwan,2024,manufacturing_value_added,WDI / UNIDO
+TWN,Taiwan,2025,hightech_exports,UN Comtrade / WITS
+TWN,Taiwan,2025,rd_expenditure,OECD MSTI
+TWN,Taiwan,2025,researchers_rd,OECD MSTI
+TWN,Taiwan,2025,patent_resident,WIPO
+TWN,Taiwan,2025,patent_nonresident,WIPO
+TWN,Taiwan,2025,internet_users,ITU
+TWN,Taiwan,2025,fixed_broadband,ITU
+TWN,Taiwan,2025,tertiary_enrolment,UNESCO UIS
+TWN,Taiwan,2025,government_education,UNESCO UIS
+TWN,Taiwan,2025,fdi,WDI / UNCTAD
+TWN,Taiwan,2025,manufacturing_value_added,WDI / UNIDO
+ISR,Israel,2000,hightech_exports,UN Comtrade / WITS
+ISR,Israel,2000,researchers_rd,OECD MSTI
+ISR,Israel,2000,fixed_broadband,ITU
+ISR,Israel,2000,tertiary_enrolment,UNESCO UIS
+ISR,Israel,2001,hightech_exports,UN Comtrade / WITS
+ISR,Israel,2001,researchers_rd,OECD MSTI
+ISR,Israel,2002,hightech_exports,UN Comtrade / WITS
+ISR,Israel,2002,researchers_rd,OECD MSTI
+ISR,Israel,2003,hightech_exports,UN Comtrade / WITS
+ISR,Israel,2003,researchers_rd,OECD MSTI
+ISR,Israel,2004,hightech_exports,UN Comtrade / WITS
+ISR,Israel,2004,researchers_rd,OECD MSTI
+ISR,Israel,2005,hightech_exports,UN Comtrade / WITS
+ISR,Israel,2005,researchers_rd,OECD MSTI
+ISR,Israel,2006,hightech_exports,UN Comtrade / WITS
+ISR,Israel,2006,researchers_rd,OECD MSTI
+ISR,Israel,2007,researchers_rd,OECD MSTI
+ISR,Israel,2008,researchers_rd,OECD MSTI
+ISR,Israel,2009,researchers_rd,OECD MSTI
+ISR,Israel,2010,researchers_rd,OECD MSTI
+ISR,Israel,2011,researchers_rd,OECD MSTI
+ISR,Israel,2012,researchers_rd,OECD MSTI
+ISR,Israel,2013,researchers_rd,OECD MSTI
+ISR,Israel,2014,researchers_rd,OECD MSTI
+ISR,Israel,2015,researchers_rd,OECD MSTI
+ISR,Israel,2016,researchers_rd,OECD MSTI
+ISR,Israel,2017,researchers_rd,OECD MSTI
+ISR,Israel,2018,researchers_rd,OECD MSTI
+ISR,Israel,2019,researchers_rd,OECD MSTI
+ISR,Israel,2020,researchers_rd,OECD MSTI
+ISR,Israel,2021,researchers_rd,OECD MSTI
+ISR,Israel,2022,researchers_rd,OECD MSTI
+ISR,Israel,2022,patent_resident,WIPO
+ISR,Israel,2022,patent_nonresident,WIPO
+ISR,Israel,2023,researchers_rd,OECD MSTI
+ISR,Israel,2023,patent_resident,WIPO
+ISR,Israel,2023,patent_nonresident,WIPO
+ISR,Israel,2023,government_education,UNESCO UIS
+ISR,Israel,2024,rd_expenditure,OECD MSTI
+ISR,Israel,2024,researchers_rd,OECD MSTI
+ISR,Israel,2024,patent_resident,WIPO
+ISR,Israel,2024,patent_nonresident,WIPO
+ISR,Israel,2024,government_education,UNESCO UIS
+ISR,Israel,2025,hightech_exports,UN Comtrade / WITS
+ISR,Israel,2025,rd_expenditure,OECD MSTI
+ISR,Israel,2025,researchers_rd,OECD MSTI
+ISR,Israel,2025,patent_resident,WIPO
+ISR,Israel,2025,patent_nonresident,WIPO
+ISR,Israel,2025,internet_users,ITU
+ISR,Israel,2025,fixed_broadband,ITU
+ISR,Israel,2025,tertiary_enrolment,UNESCO UIS
+ISR,Israel,2025,government_education,UNESCO UIS
+ISR,Israel,2025,manufacturing_value_added,WDI / UNIDO
+BRA,Brazil,2000,hightech_exports,UN Comtrade / WITS
+BRA,Brazil,2000,tertiary_enrolment,UNESCO UIS
+BRA,Brazil,2001,hightech_exports,UN Comtrade / WITS
+BRA,Brazil,2001,tertiary_enrolment,UNESCO UIS
+BRA,Brazil,2002,hightech_exports,UN Comtrade / WITS
+BRA,Brazil,2002,tertiary_enrolment,UNESCO UIS
+BRA,Brazil,2003,hightech_exports,UN Comtrade / WITS
+BRA,Brazil,2003,tertiary_enrolment,UNESCO UIS
+BRA,Brazil,2003,government_education,UNESCO UIS
+BRA,Brazil,2004,hightech_exports,UN Comtrade / WITS
+BRA,Brazil,2004,tertiary_enrolment,UNESCO UIS
+BRA,Brazil,2005,hightech_exports,UN Comtrade / WITS
+BRA,Brazil,2005,tertiary_enrolment,UNESCO UIS
+BRA,Brazil,2006,hightech_exports,UN Comtrade / WITS
+BRA,Brazil,2006,tertiary_enrolment,UNESCO UIS
+BRA,Brazil,2007,tertiary_enrolment,UNESCO UIS
+BRA,Brazil,2008,tertiary_enrolment,UNESCO UIS
+BRA,Brazil,2009,tertiary_enrolment,UNESCO UIS
+BRA,Brazil,2010,tertiary_enrolment,UNESCO UIS
+BRA,Brazil,2011,tertiary_enrolment,UNESCO UIS
+BRA,Brazil,2015,researchers_rd,OECD MSTI
+BRA,Brazil,2016,researchers_rd,OECD MSTI
+BRA,Brazil,2017,researchers_rd,OECD MSTI
+BRA,Brazil,2018,researchers_rd,OECD MSTI
+BRA,Brazil,2019,researchers_rd,OECD MSTI
+BRA,Brazil,2020,researchers_rd,OECD MSTI
+BRA,Brazil,2021,researchers_rd,OECD MSTI
+BRA,Brazil,2022,researchers_rd,OECD MSTI
+BRA,Brazil,2022,patent_resident,WIPO
+BRA,Brazil,2022,patent_nonresident,WIPO
+BRA,Brazil,2023,researchers_rd,OECD MSTI
+BRA,Brazil,2023,patent_resident,WIPO
+BRA,Brazil,2023,patent_nonresident,WIPO
+BRA,Brazil,2023,tertiary_enrolment,UNESCO UIS
+BRA,Brazil,2023,government_education,UNESCO UIS
+BRA,Brazil,2024,rd_expenditure,OECD MSTI
+BRA,Brazil,2024,researchers_rd,OECD MSTI
+BRA,Brazil,2024,patent_resident,WIPO
+BRA,Brazil,2024,patent_nonresident,WIPO
+BRA,Brazil,2024,government_education,UNESCO UIS
+BRA,Brazil,2025,hightech_exports,UN Comtrade / WITS
+BRA,Brazil,2025,rd_expenditure,OECD MSTI
+BRA,Brazil,2025,researchers_rd,OECD MSTI
+BRA,Brazil,2025,patent_resident,WIPO
+BRA,Brazil,2025,patent_nonresident,WIPO
+BRA,Brazil,2025,internet_users,ITU
+BRA,Brazil,2025,fixed_broadband,ITU
+BRA,Brazil,2025,tertiary_enrolment,UNESCO UIS
+BRA,Brazil,2025,government_education,UNESCO UIS

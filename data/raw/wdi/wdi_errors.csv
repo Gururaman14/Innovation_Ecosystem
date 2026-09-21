@@ -1,0 +1,12 @@
+country_code,country,variable,indicator,error
+TWN,Taiwan,hightech_exports,TX.VAL.TECH.MF.ZS,'NoneType' object is not iterable
+TWN,Taiwan,rd_expenditure,GB.XPD.RSDV.GD.ZS,'NoneType' object is not iterable
+TWN,Taiwan,researchers_rd,SP.POP.SCIE.RD.P6,'NoneType' object is not iterable
+TWN,Taiwan,patent_resident,IP.PAT.RESD,'NoneType' object is not iterable
+TWN,Taiwan,patent_nonresident,IP.PAT.NRES,'NoneType' object is not iterable
+TWN,Taiwan,internet_users,IT.NET.USER.ZS,'NoneType' object is not iterable
+TWN,Taiwan,fixed_broadband,IT.NET.BBND.P2,'NoneType' object is not iterable
+TWN,Taiwan,tertiary_enrolment,SE.TER.ENRR,'NoneType' object is not iterable
+TWN,Taiwan,government_education,SE.XPD.TOTL.GD.ZS,'NoneType' object is not iterable
+TWN,Taiwan,fdi,BX.KLT.DINV.WD.GD.ZS,'NoneType' object is not iterable
+TWN,Taiwan,manufacturing_value_added,NV.IND.MANF.ZS,'NoneType' object is not iterable

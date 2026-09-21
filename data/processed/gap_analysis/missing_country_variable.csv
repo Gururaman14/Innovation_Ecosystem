@@ -1,0 +1,56 @@
+country_code,country,variable,recommended_source,missing_years
+BRA,Brazil,fixed_broadband,ITU,1
+BRA,Brazil,government_education,UNESCO UIS,4
+BRA,Brazil,hightech_exports,UN Comtrade / WITS,8
+BRA,Brazil,internet_users,ITU,1
+BRA,Brazil,patent_nonresident,WIPO,4
+BRA,Brazil,patent_resident,WIPO,4
+BRA,Brazil,rd_expenditure,OECD MSTI,2
+BRA,Brazil,researchers_rd,OECD MSTI,11
+BRA,Brazil,tertiary_enrolment,UNESCO UIS,14
+CHN,China,fixed_broadband,ITU,1
+CHN,China,government_education,UNESCO UIS,25
+CHN,China,hightech_exports,UN Comtrade / WITS,8
+CHN,China,manufacturing_value_added,WDI / UNIDO,4
+CHN,China,patent_nonresident,WIPO,4
+CHN,China,patent_resident,WIPO,4
+CHN,China,rd_expenditure,OECD MSTI,2
+CHN,China,researchers_rd,OECD MSTI,2
+CHN,China,tertiary_enrolment,UNESCO UIS,1
+IND,India,fixed_broadband,ITU,2
+IND,India,government_education,UNESCO UIS,7
+IND,India,hightech_exports,UN Comtrade / WITS,10
+IND,India,patent_nonresident,WIPO,4
+IND,India,patent_resident,WIPO,4
+IND,India,rd_expenditure,OECD MSTI,5
+IND,India,researchers_rd,OECD MSTI,20
+ISR,Israel,fixed_broadband,ITU,2
+ISR,Israel,government_education,UNESCO UIS,3
+ISR,Israel,hightech_exports,UN Comtrade / WITS,8
+ISR,Israel,internet_users,ITU,1
+ISR,Israel,manufacturing_value_added,WDI / UNIDO,1
+ISR,Israel,patent_nonresident,WIPO,4
+ISR,Israel,patent_resident,WIPO,4
+ISR,Israel,rd_expenditure,OECD MSTI,2
+ISR,Israel,researchers_rd,OECD MSTI,26
+ISR,Israel,tertiary_enrolment,UNESCO UIS,2
+KOR,South Korea,fixed_broadband,ITU,1
+KOR,South Korea,government_education,UNESCO UIS,18
+KOR,South Korea,hightech_exports,UN Comtrade / WITS,8
+KOR,South Korea,internet_users,ITU,1
+KOR,South Korea,patent_nonresident,WIPO,4
+KOR,South Korea,patent_resident,WIPO,4
+KOR,South Korea,rd_expenditure,OECD MSTI,2
+KOR,South Korea,researchers_rd,OECD MSTI,2
+KOR,South Korea,tertiary_enrolment,UNESCO UIS,1
+TWN,Taiwan,fdi,WDI / UNCTAD,26
+TWN,Taiwan,fixed_broadband,ITU,26
+TWN,Taiwan,government_education,UNESCO UIS,26
+TWN,Taiwan,hightech_exports,UN Comtrade / WITS,26
+TWN,Taiwan,internet_users,ITU,26
+TWN,Taiwan,manufacturing_value_added,WDI / UNIDO,26
+TWN,Taiwan,patent_nonresident,WIPO,26
+TWN,Taiwan,patent_resident,WIPO,26
+TWN,Taiwan,rd_expenditure,OECD MSTI,26
+TWN,Taiwan,researchers_rd,OECD MSTI,26
+TWN,Taiwan,tertiary_enrolment,UNESCO UIS,26

@@ -1,0 +1,55 @@
+Variable,Source,Country,Country_Code,Status,Earliest_Year,Latest_Year,Number_of_Years,Missing_Percentage,Notes
+High-tech exports,UN Comtrade,India,IND,NO DATA,,,0.0,,No trade records returned by the current Comtrade query.
+High-tech exports,UN Comtrade,China,CHN,AVAILABLE,2000.0,2024.0,25.0,,UN Comtrade trade data retrieved. This confirms trade-data availability only. The final high-tech-export percentage must follow the World Bank/SITC Rev.4 methodology.
+High-tech exports,UN Comtrade,South Korea,KOR,AVAILABLE,2000.0,2025.0,26.0,,UN Comtrade trade data retrieved. This confirms trade-data availability only. The final high-tech-export percentage must follow the World Bank/SITC Rev.4 methodology.
+High-tech exports,UN Comtrade,Taiwan,TWN,NO DATA,,,0.0,,No trade records returned by the current Comtrade query.
+High-tech exports,UN Comtrade,Israel,ISR,AVAILABLE,2000.0,2025.0,26.0,,UN Comtrade trade data retrieved. This confirms trade-data availability only. The final high-tech-export percentage must follow the World Bank/SITC Rev.4 methodology.
+High-tech exports,UN Comtrade,Brazil,BRA,AVAILABLE,2000.0,2025.0,26.0,,UN Comtrade trade data retrieved. This confirms trade-data availability only. The final high-tech-export percentage must follow the World Bank/SITC Rev.4 methodology.
+Tertiary enrolment,UNESCO UIS,India,IND,REQUIRES_INDICATOR_QUERY,,,,,UIS API available. Exact indicator code must be mapped before coverage calculation.
+Tertiary enrolment,UNESCO UIS,China,CHN,REQUIRES_INDICATOR_QUERY,,,,,UIS API available. Exact indicator code must be mapped before coverage calculation.
+Tertiary enrolment,UNESCO UIS,South Korea,KOR,REQUIRES_INDICATOR_QUERY,,,,,UIS API available. Exact indicator code must be mapped before coverage calculation.
+Tertiary enrolment,UNESCO UIS,Taiwan,TWN,REQUIRES_INDICATOR_QUERY,,,,,UIS API available. Exact indicator code must be mapped before coverage calculation.
+Tertiary enrolment,UNESCO UIS,Israel,ISR,REQUIRES_INDICATOR_QUERY,,,,,UIS API available. Exact indicator code must be mapped before coverage calculation.
+Tertiary enrolment,UNESCO UIS,Brazil,BRA,REQUIRES_INDICATOR_QUERY,,,,,UIS API available. Exact indicator code must be mapped before coverage calculation.
+Government education expenditure,UNESCO UIS,India,IND,REQUIRES_INDICATOR_QUERY,,,,,UIS API available. Exact indicator code must be mapped before coverage calculation.
+Government education expenditure,UNESCO UIS,China,CHN,REQUIRES_INDICATOR_QUERY,,,,,UIS API available. Exact indicator code must be mapped before coverage calculation.
+Government education expenditure,UNESCO UIS,South Korea,KOR,REQUIRES_INDICATOR_QUERY,,,,,UIS API available. Exact indicator code must be mapped before coverage calculation.
+Government education expenditure,UNESCO UIS,Taiwan,TWN,REQUIRES_INDICATOR_QUERY,,,,,UIS API available. Exact indicator code must be mapped before coverage calculation.
+Government education expenditure,UNESCO UIS,Israel,ISR,REQUIRES_INDICATOR_QUERY,,,,,UIS API available. Exact indicator code must be mapped before coverage calculation.
+Government education expenditure,UNESCO UIS,Brazil,BRA,REQUIRES_INDICATOR_QUERY,,,,,UIS API available. Exact indicator code must be mapped before coverage calculation.
+Patent applications - residents,WIPO Statistics Database,India,IND,REQUIRES_DOWNLOAD,,,,,WIPO historical patent statistics available. Download/API extraction must be mapped to resident/non-resident application indicators.
+Patent applications - residents,WIPO Statistics Database,China,CHN,REQUIRES_DOWNLOAD,,,,,WIPO historical patent statistics available. Download/API extraction must be mapped to resident/non-resident application indicators.
+Patent applications - residents,WIPO Statistics Database,South Korea,KOR,REQUIRES_DOWNLOAD,,,,,WIPO historical patent statistics available. Download/API extraction must be mapped to resident/non-resident application indicators.
+Patent applications - residents,WIPO Statistics Database,Taiwan,TWN,REQUIRES_DOWNLOAD,,,,,WIPO historical patent statistics available. Download/API extraction must be mapped to resident/non-resident application indicators.
+Patent applications - residents,WIPO Statistics Database,Israel,ISR,REQUIRES_DOWNLOAD,,,,,WIPO historical patent statistics available. Download/API extraction must be mapped to resident/non-resident application indicators.
+Patent applications - residents,WIPO Statistics Database,Brazil,BRA,REQUIRES_DOWNLOAD,,,,,WIPO historical patent statistics available. Download/API extraction must be mapped to resident/non-resident application indicators.
+Patent applications - non-residents,WIPO Statistics Database,India,IND,REQUIRES_DOWNLOAD,,,,,WIPO historical patent statistics available. Download/API extraction must be mapped to resident/non-resident application indicators.
+Patent applications - non-residents,WIPO Statistics Database,China,CHN,REQUIRES_DOWNLOAD,,,,,WIPO historical patent statistics available. Download/API extraction must be mapped to resident/non-resident application indicators.
+Patent applications - non-residents,WIPO Statistics Database,South Korea,KOR,REQUIRES_DOWNLOAD,,,,,WIPO historical patent statistics available. Download/API extraction must be mapped to resident/non-resident application indicators.
+Patent applications - non-residents,WIPO Statistics Database,Taiwan,TWN,REQUIRES_DOWNLOAD,,,,,WIPO historical patent statistics available. Download/API extraction must be mapped to resident/non-resident application indicators.
+Patent applications - non-residents,WIPO Statistics Database,Israel,ISR,REQUIRES_DOWNLOAD,,,,,WIPO historical patent statistics available. Download/API extraction must be mapped to resident/non-resident application indicators.
+Patent applications - non-residents,WIPO Statistics Database,Brazil,BRA,REQUIRES_DOWNLOAD,,,,,WIPO historical patent statistics available. Download/API extraction must be mapped to resident/non-resident application indicators.
+Internet users,ITU DataHub,India,IND,REQUIRES_DATA_EXTRACTION,,,,,ITU DataHub is the identified international source. Exact indicator extraction required.
+Internet users,ITU DataHub,China,CHN,REQUIRES_DATA_EXTRACTION,,,,,ITU DataHub is the identified international source. Exact indicator extraction required.
+Internet users,ITU DataHub,South Korea,KOR,REQUIRES_DATA_EXTRACTION,,,,,ITU DataHub is the identified international source. Exact indicator extraction required.
+Internet users,ITU DataHub,Taiwan,TWN,REQUIRES_DATA_EXTRACTION,,,,,ITU DataHub is the identified international source. Exact indicator extraction required.
+Internet users,ITU DataHub,Israel,ISR,REQUIRES_DATA_EXTRACTION,,,,,ITU DataHub is the identified international source. Exact indicator extraction required.
+Internet users,ITU DataHub,Brazil,BRA,REQUIRES_DATA_EXTRACTION,,,,,ITU DataHub is the identified international source. Exact indicator extraction required.
+Fixed broadband,ITU DataHub,India,IND,REQUIRES_DATA_EXTRACTION,,,,,ITU DataHub is the identified international source. Exact indicator extraction required.
+Fixed broadband,ITU DataHub,China,CHN,REQUIRES_DATA_EXTRACTION,,,,,ITU DataHub is the identified international source. Exact indicator extraction required.
+Fixed broadband,ITU DataHub,South Korea,KOR,REQUIRES_DATA_EXTRACTION,,,,,ITU DataHub is the identified international source. Exact indicator extraction required.
+Fixed broadband,ITU DataHub,Taiwan,TWN,REQUIRES_DATA_EXTRACTION,,,,,ITU DataHub is the identified international source. Exact indicator extraction required.
+Fixed broadband,ITU DataHub,Israel,ISR,REQUIRES_DATA_EXTRACTION,,,,,ITU DataHub is the identified international source. Exact indicator extraction required.
+Fixed broadband,ITU DataHub,Brazil,BRA,REQUIRES_DATA_EXTRACTION,,,,,ITU DataHub is the identified international source. Exact indicator extraction required.
+Manufacturing value added,UNIDO,India,IND,REQUIRES_API_QUERY,,,,,UNIDO Statistics Portal API identified. Dataset and variable must be mapped.
+Manufacturing value added,UNIDO,China,CHN,REQUIRES_API_QUERY,,,,,UNIDO Statistics Portal API identified. Dataset and variable must be mapped.
+Manufacturing value added,UNIDO,South Korea,KOR,REQUIRES_API_QUERY,,,,,UNIDO Statistics Portal API identified. Dataset and variable must be mapped.
+Manufacturing value added,UNIDO,Taiwan,TWN,REQUIRES_API_QUERY,,,,,UNIDO Statistics Portal API identified. Dataset and variable must be mapped.
+Manufacturing value added,UNIDO,Israel,ISR,REQUIRES_API_QUERY,,,,,UNIDO Statistics Portal API identified. Dataset and variable must be mapped.
+Manufacturing value added,UNIDO,Brazil,BRA,REQUIRES_API_QUERY,,,,,UNIDO Statistics Portal API identified. Dataset and variable must be mapped.
+Venture capital proxy,OECD / alternative source,India,IND,NOT_SELECTED,,,,,No proxy selected yet. Do not use a proxy until definition and cross-country comparability are established.
+Venture capital proxy,OECD / alternative source,China,CHN,NOT_SELECTED,,,,,No proxy selected yet. Do not use a proxy until definition and cross-country comparability are established.
+Venture capital proxy,OECD / alternative source,South Korea,KOR,NOT_SELECTED,,,,,No proxy selected yet. Do not use a proxy until definition and cross-country comparability are established.
+Venture capital proxy,OECD / alternative source,Taiwan,TWN,NOT_SELECTED,,,,,No proxy selected yet. Do not use a proxy until definition and cross-country comparability are established.
+Venture capital proxy,OECD / alternative source,Israel,ISR,NOT_SELECTED,,,,,No proxy selected yet. Do not use a proxy until definition and cross-country comparability are established.
+Venture capital proxy,OECD / alternative source,Brazil,BRA,NOT_SELECTED,,,,,No proxy selected yet. Do not use a proxy until definition and cross-country comparability are established.

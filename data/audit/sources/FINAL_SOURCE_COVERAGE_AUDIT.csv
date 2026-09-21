@@ -1,0 +1,133 @@
+Variable,Source,Country,Code,Status,Earliest,Latest,Years,Notes
+High-tech exports,World Bank,India,IND,AVAILABLE,2009.0,2024.0,16.0,
+High-tech exports,World Bank,China,CHN,AVAILABLE,2007.0,2024.0,18.0,
+High-tech exports,World Bank,South Korea,KOR,AVAILABLE,2007.0,2024.0,18.0,
+High-tech exports,World Bank,Taiwan,TWN,ERROR,,,,'NoneType' object is not iterable
+High-tech exports,World Bank,Israel,ISR,AVAILABLE,2007.0,2024.0,18.0,
+High-tech exports,World Bank,Brazil,BRA,AVAILABLE,2007.0,2024.0,18.0,
+R&D expenditure,World Bank,India,IND,AVAILABLE,2000.0,2020.0,21.0,
+R&D expenditure,World Bank,China,CHN,AVAILABLE,2000.0,2023.0,24.0,
+R&D expenditure,World Bank,South Korea,KOR,AVAILABLE,2000.0,2023.0,24.0,
+R&D expenditure,World Bank,Taiwan,TWN,ERROR,,,,'NoneType' object is not iterable
+R&D expenditure,World Bank,Israel,ISR,AVAILABLE,2000.0,2023.0,24.0,
+R&D expenditure,World Bank,Brazil,BRA,AVAILABLE,2000.0,2023.0,24.0,
+Researchers in R&D,World Bank,India,IND,AVAILABLE,2000.0,2020.0,6.0,
+Researchers in R&D,World Bank,China,CHN,AVAILABLE,2000.0,2023.0,24.0,
+Researchers in R&D,World Bank,South Korea,KOR,AVAILABLE,2000.0,2023.0,24.0,
+Researchers in R&D,World Bank,Taiwan,TWN,ERROR,,,,'NoneType' object is not iterable
+Researchers in R&D,World Bank,Israel,ISR,NO DATA,,,,
+Researchers in R&D,World Bank,Brazil,BRA,AVAILABLE,2000.0,2014.0,15.0,
+Patent applications - residents,World Bank,India,IND,AVAILABLE,2000.0,2021.0,22.0,
+Patent applications - residents,World Bank,China,CHN,AVAILABLE,2000.0,2021.0,22.0,
+Patent applications - residents,World Bank,South Korea,KOR,AVAILABLE,2000.0,2021.0,22.0,
+Patent applications - residents,World Bank,Taiwan,TWN,ERROR,,,,'NoneType' object is not iterable
+Patent applications - residents,World Bank,Israel,ISR,AVAILABLE,2000.0,2021.0,22.0,
+Patent applications - residents,World Bank,Brazil,BRA,AVAILABLE,2000.0,2021.0,22.0,
+Patent applications - non-residents,World Bank,India,IND,AVAILABLE,2000.0,2021.0,22.0,
+Patent applications - non-residents,World Bank,China,CHN,AVAILABLE,2000.0,2021.0,22.0,
+Patent applications - non-residents,World Bank,South Korea,KOR,AVAILABLE,2000.0,2021.0,22.0,
+Patent applications - non-residents,World Bank,Taiwan,TWN,ERROR,,,,'NoneType' object is not iterable
+Patent applications - non-residents,World Bank,Israel,ISR,AVAILABLE,2000.0,2021.0,22.0,
+Patent applications - non-residents,World Bank,Brazil,BRA,AVAILABLE,2000.0,2021.0,22.0,
+Internet users,World Bank,India,IND,AVAILABLE,2000.0,2025.0,26.0,
+Internet users,World Bank,China,CHN,AVAILABLE,2000.0,2025.0,26.0,
+Internet users,World Bank,South Korea,KOR,AVAILABLE,2000.0,2024.0,25.0,
+Internet users,World Bank,Taiwan,TWN,ERROR,,,,'NoneType' object is not iterable
+Internet users,World Bank,Israel,ISR,AVAILABLE,2000.0,2024.0,25.0,
+Internet users,World Bank,Brazil,BRA,AVAILABLE,2000.0,2024.0,25.0,
+Fixed broadband,World Bank,India,IND,AVAILABLE,2001.0,2024.0,24.0,
+Fixed broadband,World Bank,China,CHN,AVAILABLE,2000.0,2024.0,25.0,
+Fixed broadband,World Bank,South Korea,KOR,AVAILABLE,2000.0,2024.0,25.0,
+Fixed broadband,World Bank,Taiwan,TWN,ERROR,,,,'NoneType' object is not iterable
+Fixed broadband,World Bank,Israel,ISR,AVAILABLE,2001.0,2024.0,24.0,
+Fixed broadband,World Bank,Brazil,BRA,AVAILABLE,2000.0,2024.0,25.0,
+Tertiary enrolment,World Bank,India,IND,AVAILABLE,2000.0,2025.0,26.0,
+Tertiary enrolment,World Bank,China,CHN,AVAILABLE,2000.0,2024.0,25.0,
+Tertiary enrolment,World Bank,South Korea,KOR,AVAILABLE,2000.0,2024.0,25.0,
+Tertiary enrolment,World Bank,Taiwan,TWN,ERROR,,,,'NoneType' object is not iterable
+Tertiary enrolment,World Bank,Israel,ISR,AVAILABLE,2001.0,2024.0,24.0,
+Tertiary enrolment,World Bank,Brazil,BRA,AVAILABLE,2012.0,2024.0,12.0,
+Government education expenditure,World Bank,India,IND,AVAILABLE,2000.0,2022.0,19.0,
+Government education expenditure,World Bank,China,CHN,AVAILABLE,2023.0,2023.0,1.0,
+Government education expenditure,World Bank,South Korea,KOR,AVAILABLE,2015.0,2022.0,8.0,
+Government education expenditure,World Bank,Taiwan,TWN,ERROR,,,,'NoneType' object is not iterable
+Government education expenditure,World Bank,Israel,ISR,AVAILABLE,2000.0,2022.0,23.0,
+Government education expenditure,World Bank,Brazil,BRA,AVAILABLE,2000.0,2022.0,22.0,
+FDI,World Bank,India,IND,AVAILABLE,2000.0,2025.0,26.0,
+FDI,World Bank,China,CHN,AVAILABLE,2000.0,2025.0,26.0,
+FDI,World Bank,South Korea,KOR,AVAILABLE,2000.0,2025.0,26.0,
+FDI,World Bank,Taiwan,TWN,ERROR,,,,'NoneType' object is not iterable
+FDI,World Bank,Israel,ISR,AVAILABLE,2000.0,2025.0,26.0,
+FDI,World Bank,Brazil,BRA,AVAILABLE,2000.0,2025.0,26.0,
+Manufacturing value added,World Bank,India,IND,AVAILABLE,2000.0,2025.0,26.0,
+Manufacturing value added,World Bank,China,CHN,AVAILABLE,2004.0,2025.0,22.0,
+Manufacturing value added,World Bank,South Korea,KOR,AVAILABLE,2000.0,2025.0,26.0,
+Manufacturing value added,World Bank,Taiwan,TWN,ERROR,,,,'NoneType' object is not iterable
+Manufacturing value added,World Bank,Israel,ISR,AVAILABLE,2000.0,2024.0,25.0,
+Manufacturing value added,World Bank,Brazil,BRA,AVAILABLE,2000.0,2025.0,26.0,
+R&D / Researchers,OECD MSTI,India,IND,COUNTRY NOT MATCHED,,,,Country code not matched directly; inspect OECD reference-area labels.
+R&D / Researchers,OECD MSTI,China,CHN,AVAILABLE,2000.0,2024.0,25.0,Indicator-level mapping still required.
+R&D / Researchers,OECD MSTI,South Korea,KOR,AVAILABLE,2000.0,2024.0,25.0,Indicator-level mapping still required.
+R&D / Researchers,OECD MSTI,Taiwan,TWN,AVAILABLE,2000.0,2024.0,25.0,Indicator-level mapping still required.
+R&D / Researchers,OECD MSTI,Israel,ISR,AVAILABLE,2000.0,2024.0,25.0,Indicator-level mapping still required.
+R&D / Researchers,OECD MSTI,Brazil,BRA,COUNTRY NOT MATCHED,,,,Country code not matched directly; inspect OECD reference-area labels.
+Tertiary enrolment,UNESCO UIS,India,IND,REQUIRES_INDICATOR_MAPPING,,,,UIS Data API/bulk service identified. Exact UIS indicator code must be selected before coverage can be calculated.
+Tertiary enrolment,UNESCO UIS,China,CHN,REQUIRES_INDICATOR_MAPPING,,,,UIS Data API/bulk service identified. Exact UIS indicator code must be selected before coverage can be calculated.
+Tertiary enrolment,UNESCO UIS,South Korea,KOR,REQUIRES_INDICATOR_MAPPING,,,,UIS Data API/bulk service identified. Exact UIS indicator code must be selected before coverage can be calculated.
+Tertiary enrolment,UNESCO UIS,Taiwan,TWN,REQUIRES_INDICATOR_MAPPING,,,,UIS Data API/bulk service identified. Exact UIS indicator code must be selected before coverage can be calculated.
+Tertiary enrolment,UNESCO UIS,Israel,ISR,REQUIRES_INDICATOR_MAPPING,,,,UIS Data API/bulk service identified. Exact UIS indicator code must be selected before coverage can be calculated.
+Tertiary enrolment,UNESCO UIS,Brazil,BRA,REQUIRES_INDICATOR_MAPPING,,,,UIS Data API/bulk service identified. Exact UIS indicator code must be selected before coverage can be calculated.
+Government education expenditure,UNESCO UIS,India,IND,REQUIRES_INDICATOR_MAPPING,,,,UIS Data API/bulk service identified. Exact UIS indicator code must be selected before coverage can be calculated.
+Government education expenditure,UNESCO UIS,China,CHN,REQUIRES_INDICATOR_MAPPING,,,,UIS Data API/bulk service identified. Exact UIS indicator code must be selected before coverage can be calculated.
+Government education expenditure,UNESCO UIS,South Korea,KOR,REQUIRES_INDICATOR_MAPPING,,,,UIS Data API/bulk service identified. Exact UIS indicator code must be selected before coverage can be calculated.
+Government education expenditure,UNESCO UIS,Taiwan,TWN,REQUIRES_INDICATOR_MAPPING,,,,UIS Data API/bulk service identified. Exact UIS indicator code must be selected before coverage can be calculated.
+Government education expenditure,UNESCO UIS,Israel,ISR,REQUIRES_INDICATOR_MAPPING,,,,UIS Data API/bulk service identified. Exact UIS indicator code must be selected before coverage can be calculated.
+Government education expenditure,UNESCO UIS,Brazil,BRA,REQUIRES_INDICATOR_MAPPING,,,,UIS Data API/bulk service identified. Exact UIS indicator code must be selected before coverage can be calculated.
+Patent applications - residents,WIPO Statistics Database,India,IND,REQUIRES_EXTRACTION,,,,WIPO historical IP statistics available. Resident/non-resident indicator extraction must be performed.
+Patent applications - residents,WIPO Statistics Database,China,CHN,REQUIRES_EXTRACTION,,,,WIPO historical IP statistics available. Resident/non-resident indicator extraction must be performed.
+Patent applications - residents,WIPO Statistics Database,South Korea,KOR,REQUIRES_EXTRACTION,,,,WIPO historical IP statistics available. Resident/non-resident indicator extraction must be performed.
+Patent applications - residents,WIPO Statistics Database,Taiwan,TWN,REQUIRES_EXTRACTION,,,,WIPO historical IP statistics available. Resident/non-resident indicator extraction must be performed.
+Patent applications - residents,WIPO Statistics Database,Israel,ISR,REQUIRES_EXTRACTION,,,,WIPO historical IP statistics available. Resident/non-resident indicator extraction must be performed.
+Patent applications - residents,WIPO Statistics Database,Brazil,BRA,REQUIRES_EXTRACTION,,,,WIPO historical IP statistics available. Resident/non-resident indicator extraction must be performed.
+Patent applications - non-residents,WIPO Statistics Database,India,IND,REQUIRES_EXTRACTION,,,,WIPO historical IP statistics available. Resident/non-resident indicator extraction must be performed.
+Patent applications - non-residents,WIPO Statistics Database,China,CHN,REQUIRES_EXTRACTION,,,,WIPO historical IP statistics available. Resident/non-resident indicator extraction must be performed.
+Patent applications - non-residents,WIPO Statistics Database,South Korea,KOR,REQUIRES_EXTRACTION,,,,WIPO historical IP statistics available. Resident/non-resident indicator extraction must be performed.
+Patent applications - non-residents,WIPO Statistics Database,Taiwan,TWN,REQUIRES_EXTRACTION,,,,WIPO historical IP statistics available. Resident/non-resident indicator extraction must be performed.
+Patent applications - non-residents,WIPO Statistics Database,Israel,ISR,REQUIRES_EXTRACTION,,,,WIPO historical IP statistics available. Resident/non-resident indicator extraction must be performed.
+Patent applications - non-residents,WIPO Statistics Database,Brazil,BRA,REQUIRES_EXTRACTION,,,,WIPO historical IP statistics available. Resident/non-resident indicator extraction must be performed.
+Internet users,ITU DataHub,India,IND,REQUIRES_EXTRACTION,,,,ITU is the authoritative ICT source. Exact DataHub indicator extraction required.
+Internet users,ITU DataHub,China,CHN,REQUIRES_EXTRACTION,,,,ITU is the authoritative ICT source. Exact DataHub indicator extraction required.
+Internet users,ITU DataHub,South Korea,KOR,REQUIRES_EXTRACTION,,,,ITU is the authoritative ICT source. Exact DataHub indicator extraction required.
+Internet users,ITU DataHub,Taiwan,TWN,REQUIRES_EXTRACTION,,,,ITU is the authoritative ICT source. Exact DataHub indicator extraction required.
+Internet users,ITU DataHub,Israel,ISR,REQUIRES_EXTRACTION,,,,ITU is the authoritative ICT source. Exact DataHub indicator extraction required.
+Internet users,ITU DataHub,Brazil,BRA,REQUIRES_EXTRACTION,,,,ITU is the authoritative ICT source. Exact DataHub indicator extraction required.
+Fixed broadband,ITU DataHub,India,IND,REQUIRES_EXTRACTION,,,,ITU is the authoritative ICT source. Exact DataHub indicator extraction required.
+Fixed broadband,ITU DataHub,China,CHN,REQUIRES_EXTRACTION,,,,ITU is the authoritative ICT source. Exact DataHub indicator extraction required.
+Fixed broadband,ITU DataHub,South Korea,KOR,REQUIRES_EXTRACTION,,,,ITU is the authoritative ICT source. Exact DataHub indicator extraction required.
+Fixed broadband,ITU DataHub,Taiwan,TWN,REQUIRES_EXTRACTION,,,,ITU is the authoritative ICT source. Exact DataHub indicator extraction required.
+Fixed broadband,ITU DataHub,Israel,ISR,REQUIRES_EXTRACTION,,,,ITU is the authoritative ICT source. Exact DataHub indicator extraction required.
+Fixed broadband,ITU DataHub,Brazil,BRA,REQUIRES_EXTRACTION,,,,ITU is the authoritative ICT source. Exact DataHub indicator extraction required.
+Manufacturing value added,UNIDO,India,IND,REQUIRES_API_QUERY,,,,UNIDO REST API supports dataset discovery and country/variable/period extraction.
+Manufacturing value added,UNIDO,China,CHN,REQUIRES_API_QUERY,,,,UNIDO REST API supports dataset discovery and country/variable/period extraction.
+Manufacturing value added,UNIDO,South Korea,KOR,REQUIRES_API_QUERY,,,,UNIDO REST API supports dataset discovery and country/variable/period extraction.
+Manufacturing value added,UNIDO,Taiwan,TWN,REQUIRES_API_QUERY,,,,UNIDO REST API supports dataset discovery and country/variable/period extraction.
+Manufacturing value added,UNIDO,Israel,ISR,REQUIRES_API_QUERY,,,,UNIDO REST API supports dataset discovery and country/variable/period extraction.
+Manufacturing value added,UNIDO,Brazil,BRA,REQUIRES_API_QUERY,,,,UNIDO REST API supports dataset discovery and country/variable/period extraction.
+FDI,UNCTADstat,India,IND,REQUIRES_EXTRACTION,,,,UNCTADstat contains annual FDI and merchandise-trade datasets.
+FDI,UNCTADstat,China,CHN,REQUIRES_EXTRACTION,,,,UNCTADstat contains annual FDI and merchandise-trade datasets.
+FDI,UNCTADstat,South Korea,KOR,REQUIRES_EXTRACTION,,,,UNCTADstat contains annual FDI and merchandise-trade datasets.
+FDI,UNCTADstat,Taiwan,TWN,REQUIRES_EXTRACTION,,,,UNCTADstat contains annual FDI and merchandise-trade datasets.
+FDI,UNCTADstat,Israel,ISR,REQUIRES_EXTRACTION,,,,UNCTADstat contains annual FDI and merchandise-trade datasets.
+FDI,UNCTADstat,Brazil,BRA,REQUIRES_EXTRACTION,,,,UNCTADstat contains annual FDI and merchandise-trade datasets.
+Merchandise exports,UNCTADstat,India,IND,REQUIRES_EXTRACTION,,,,UNCTADstat contains annual FDI and merchandise-trade datasets.
+Merchandise exports,UNCTADstat,China,CHN,REQUIRES_EXTRACTION,,,,UNCTADstat contains annual FDI and merchandise-trade datasets.
+Merchandise exports,UNCTADstat,South Korea,KOR,REQUIRES_EXTRACTION,,,,UNCTADstat contains annual FDI and merchandise-trade datasets.
+Merchandise exports,UNCTADstat,Taiwan,TWN,REQUIRES_EXTRACTION,,,,UNCTADstat contains annual FDI and merchandise-trade datasets.
+Merchandise exports,UNCTADstat,Israel,ISR,REQUIRES_EXTRACTION,,,,UNCTADstat contains annual FDI and merchandise-trade datasets.
+Merchandise exports,UNCTADstat,Brazil,BRA,REQUIRES_EXTRACTION,,,,UNCTADstat contains annual FDI and merchandise-trade datasets.
+FDI / macroeconomic backup,IMF,India,IND,REQUIRES_DATASET_SELECTION,,,,IMF provides SDMX APIs. Use only if a required variable needs a backup source.
+FDI / macroeconomic backup,IMF,China,CHN,REQUIRES_DATASET_SELECTION,,,,IMF provides SDMX APIs. Use only if a required variable needs a backup source.
+FDI / macroeconomic backup,IMF,South Korea,KOR,REQUIRES_DATASET_SELECTION,,,,IMF provides SDMX APIs. Use only if a required variable needs a backup source.
+FDI / macroeconomic backup,IMF,Taiwan,TWN,REQUIRES_DATASET_SELECTION,,,,IMF provides SDMX APIs. Use only if a required variable needs a backup source.
+FDI / macroeconomic backup,IMF,Israel,ISR,REQUIRES_DATASET_SELECTION,,,,IMF provides SDMX APIs. Use only if a required variable needs a backup source.
+FDI / macroeconomic backup,IMF,Brazil,BRA,REQUIRES_DATASET_SELECTION,,,,IMF provides SDMX APIs. Use only if a required variable needs a backup source.

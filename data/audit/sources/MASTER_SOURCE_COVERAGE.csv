@@ -1,0 +1,151 @@
+Source,Variable,Country,Status,FirstYear,LastYear,YearsAvailable,CoveragePercent,MissingYears,HTTP
+World Bank,High-tech exports,India,AVAILABLE,2009.0,2024.0,16.0,61.5,"2000,2001,2002,2003,2004,2005,2006,2007,2008,2025",200.0
+World Bank,High-tech exports,China,AVAILABLE,2007.0,2024.0,18.0,69.2,"2000,2001,2002,2003,2004,2005,2006,2025",200.0
+World Bank,High-tech exports,South Korea,AVAILABLE,2007.0,2024.0,18.0,69.2,"2000,2001,2002,2003,2004,2005,2006,2025",200.0
+World Bank,High-tech exports,Taiwan,NO_DATA,,,0.0,0.0,"2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",200.0
+World Bank,High-tech exports,Israel,AVAILABLE,2007.0,2024.0,18.0,69.2,"2000,2001,2002,2003,2004,2005,2006,2025",200.0
+World Bank,High-tech exports,Brazil,AVAILABLE,2007.0,2024.0,18.0,69.2,"2000,2001,2002,2003,2004,2005,2006,2025",200.0
+World Bank,R&D expenditure,India,AVAILABLE,2000.0,2020.0,21.0,80.8,"2021,2022,2023,2024,2025",200.0
+World Bank,R&D expenditure,China,AVAILABLE,2000.0,2023.0,24.0,92.3,"2024,2025",200.0
+World Bank,R&D expenditure,South Korea,AVAILABLE,2000.0,2023.0,24.0,92.3,"2024,2025",200.0
+World Bank,R&D expenditure,Taiwan,NO_DATA,,,0.0,0.0,"2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",200.0
+World Bank,R&D expenditure,Israel,AVAILABLE,2000.0,2023.0,24.0,92.3,"2024,2025",200.0
+World Bank,R&D expenditure,Brazil,AVAILABLE,2000.0,2023.0,24.0,92.3,"2024,2025",200.0
+World Bank,Researchers in R&D,India,AVAILABLE,2000.0,2020.0,6.0,23.1,"2001,2002,2003,2004,2006,2007,2008,2009,2011,2012,2013,2014,2016,2017,2019,2021,2022,2023,2024,2025",200.0
+World Bank,Researchers in R&D,China,AVAILABLE,2000.0,2023.0,24.0,92.3,"2024,2025",200.0
+World Bank,Researchers in R&D,South Korea,AVAILABLE,2000.0,2023.0,24.0,92.3,"2024,2025",200.0
+World Bank,Researchers in R&D,Taiwan,NO_DATA,,,0.0,0.0,"2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",200.0
+World Bank,Researchers in R&D,Israel,NO_DATA,,,0.0,0.0,"2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",200.0
+World Bank,Researchers in R&D,Brazil,AVAILABLE,2000.0,2014.0,15.0,57.7,"2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",200.0
+World Bank,Patent applications - residents,India,AVAILABLE,2000.0,2021.0,22.0,84.6,"2022,2023,2024,2025",200.0
+World Bank,Patent applications - residents,China,AVAILABLE,2000.0,2021.0,22.0,84.6,"2022,2023,2024,2025",200.0
+World Bank,Patent applications - residents,South Korea,AVAILABLE,2000.0,2021.0,22.0,84.6,"2022,2023,2024,2025",200.0
+World Bank,Patent applications - residents,Taiwan,NO_DATA,,,0.0,0.0,"2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",200.0
+World Bank,Patent applications - residents,Israel,AVAILABLE,2000.0,2021.0,22.0,84.6,"2022,2023,2024,2025",200.0
+World Bank,Patent applications - residents,Brazil,AVAILABLE,2000.0,2021.0,22.0,84.6,"2022,2023,2024,2025",200.0
+World Bank,Patent applications - non-residents,India,AVAILABLE,2000.0,2021.0,22.0,84.6,"2022,2023,2024,2025",200.0
+World Bank,Patent applications - non-residents,China,AVAILABLE,2000.0,2021.0,22.0,84.6,"2022,2023,2024,2025",200.0
+World Bank,Patent applications - non-residents,South Korea,AVAILABLE,2000.0,2021.0,22.0,84.6,"2022,2023,2024,2025",200.0
+World Bank,Patent applications - non-residents,Taiwan,NO_DATA,,,0.0,0.0,"2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",200.0
+World Bank,Patent applications - non-residents,Israel,AVAILABLE,2000.0,2021.0,22.0,84.6,"2022,2023,2024,2025",200.0
+World Bank,Patent applications - non-residents,Brazil,AVAILABLE,2000.0,2021.0,22.0,84.6,"2022,2023,2024,2025",200.0
+World Bank,Internet users,India,AVAILABLE,2000.0,2025.0,26.0,100.0,,200.0
+World Bank,Internet users,China,AVAILABLE,2000.0,2025.0,26.0,100.0,,200.0
+World Bank,Internet users,South Korea,AVAILABLE,2000.0,2024.0,25.0,96.2,2025,200.0
+World Bank,Internet users,Taiwan,NO_DATA,,,0.0,0.0,"2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",200.0
+World Bank,Internet users,Israel,AVAILABLE,2000.0,2024.0,25.0,96.2,2025,200.0
+World Bank,Internet users,Brazil,AVAILABLE,2000.0,2024.0,25.0,96.2,2025,200.0
+World Bank,Fixed broadband,India,AVAILABLE,2001.0,2024.0,24.0,92.3,"2000,2025",200.0
+World Bank,Fixed broadband,China,AVAILABLE,2000.0,2024.0,25.0,96.2,2025,200.0
+World Bank,Fixed broadband,South Korea,AVAILABLE,2000.0,2024.0,25.0,96.2,2025,200.0
+World Bank,Fixed broadband,Taiwan,NO_DATA,,,0.0,0.0,"2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",200.0
+World Bank,Fixed broadband,Israel,AVAILABLE,2001.0,2024.0,24.0,92.3,"2000,2025",200.0
+World Bank,Fixed broadband,Brazil,AVAILABLE,2000.0,2024.0,25.0,96.2,2025,200.0
+World Bank,Tertiary enrolment,India,AVAILABLE,2000.0,2025.0,26.0,100.0,,200.0
+World Bank,Tertiary enrolment,China,AVAILABLE,2000.0,2024.0,25.0,96.2,2025,200.0
+World Bank,Tertiary enrolment,South Korea,AVAILABLE,2000.0,2024.0,25.0,96.2,2025,200.0
+World Bank,Tertiary enrolment,Taiwan,NO_DATA,,,0.0,0.0,"2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",200.0
+World Bank,Tertiary enrolment,Israel,AVAILABLE,2001.0,2024.0,24.0,92.3,"2000,2025",200.0
+World Bank,Tertiary enrolment,Brazil,AVAILABLE,2012.0,2024.0,12.0,46.2,"2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2023,2025",200.0
+World Bank,Government education expenditure,India,AVAILABLE,2000.0,2022.0,19.0,73.1,"2001,2002,2007,2008,2023,2024,2025",200.0
+World Bank,Government education expenditure,China,AVAILABLE,2023.0,2023.0,1.0,3.8,"2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2024,2025",200.0
+World Bank,Government education expenditure,South Korea,AVAILABLE,2015.0,2022.0,8.0,30.8,"2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2023,2024,2025",200.0
+World Bank,Government education expenditure,Taiwan,NO_DATA,,,0.0,0.0,"2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",200.0
+World Bank,Government education expenditure,Israel,AVAILABLE,2000.0,2022.0,23.0,88.5,"2023,2024,2025",200.0
+World Bank,Government education expenditure,Brazil,AVAILABLE,2000.0,2022.0,22.0,84.6,"2003,2023,2024,2025",200.0
+World Bank,FDI,India,AVAILABLE,2000.0,2025.0,26.0,100.0,,200.0
+World Bank,FDI,China,AVAILABLE,2000.0,2025.0,26.0,100.0,,200.0
+World Bank,FDI,South Korea,AVAILABLE,2000.0,2025.0,26.0,100.0,,200.0
+World Bank,FDI,Taiwan,NO_DATA,,,0.0,0.0,"2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",200.0
+World Bank,FDI,Israel,AVAILABLE,2000.0,2025.0,26.0,100.0,,200.0
+World Bank,FDI,Brazil,AVAILABLE,2000.0,2025.0,26.0,100.0,,200.0
+World Bank,Manufacturing value added,India,AVAILABLE,2000.0,2025.0,26.0,100.0,,200.0
+World Bank,Manufacturing value added,China,AVAILABLE,2004.0,2025.0,22.0,84.6,"2000,2001,2002,2003",200.0
+World Bank,Manufacturing value added,South Korea,AVAILABLE,2000.0,2025.0,26.0,100.0,,200.0
+World Bank,Manufacturing value added,Taiwan,NO_DATA,,,0.0,0.0,"2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",200.0
+World Bank,Manufacturing value added,Israel,AVAILABLE,2000.0,2024.0,25.0,96.2,2025,200.0
+World Bank,Manufacturing value added,Brazil,AVAILABLE,2000.0,2025.0,26.0,100.0,,200.0
+OECD MSTI,R&D expenditure,India,NO_DATA,,,0.0,0.0,"2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+OECD MSTI,R&D expenditure,China,AVAILABLE,2000.0,2024.0,25.0,96.2,2025,
+OECD MSTI,R&D expenditure,South Korea,AVAILABLE,2000.0,2024.0,25.0,96.2,2025,
+OECD MSTI,R&D expenditure,Taiwan,AVAILABLE,2000.0,2024.0,25.0,96.2,2025,
+OECD MSTI,R&D expenditure,Israel,AVAILABLE,2000.0,2024.0,25.0,96.2,2025,
+OECD MSTI,R&D expenditure,Brazil,NO_DATA,,,0.0,0.0,"2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+OECD MSTI,Researchers in R&D,India,NO_DATA,,,0.0,0.0,"2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+OECD MSTI,Researchers in R&D,China,AVAILABLE,2000.0,2024.0,25.0,96.2,2025,
+OECD MSTI,Researchers in R&D,South Korea,AVAILABLE,2000.0,2024.0,25.0,96.2,2025,
+OECD MSTI,Researchers in R&D,Taiwan,AVAILABLE,2000.0,2024.0,25.0,96.2,2025,
+OECD MSTI,Researchers in R&D,Israel,NO_DATA,,,0.0,0.0,"2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+OECD MSTI,Researchers in R&D,Brazil,NO_DATA,,,0.0,0.0,"2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+UNESCO UIS,Tertiary enrolment,India,NOT_YET_EXTRACTED,,,,,,
+UNESCO UIS,Tertiary enrolment,China,NOT_YET_EXTRACTED,,,,,,
+UNESCO UIS,Tertiary enrolment,South Korea,NOT_YET_EXTRACTED,,,,,,
+UNESCO UIS,Tertiary enrolment,Taiwan,NOT_YET_EXTRACTED,,,,,,
+UNESCO UIS,Tertiary enrolment,Israel,NOT_YET_EXTRACTED,,,,,,
+UNESCO UIS,Tertiary enrolment,Brazil,NOT_YET_EXTRACTED,,,,,,
+UNESCO UIS,Government education expenditure,India,NOT_YET_EXTRACTED,,,,,,
+UNESCO UIS,Government education expenditure,China,NOT_YET_EXTRACTED,,,,,,
+UNESCO UIS,Government education expenditure,South Korea,NOT_YET_EXTRACTED,,,,,,
+UNESCO UIS,Government education expenditure,Taiwan,NOT_YET_EXTRACTED,,,,,,
+UNESCO UIS,Government education expenditure,Israel,NOT_YET_EXTRACTED,,,,,,
+UNESCO UIS,Government education expenditure,Brazil,NOT_YET_EXTRACTED,,,,,,
+UNESCO UIS,R&D expenditure,India,NOT_YET_EXTRACTED,,,,,,
+UNESCO UIS,R&D expenditure,China,NOT_YET_EXTRACTED,,,,,,
+UNESCO UIS,R&D expenditure,South Korea,NOT_YET_EXTRACTED,,,,,,
+UNESCO UIS,R&D expenditure,Taiwan,NOT_YET_EXTRACTED,,,,,,
+UNESCO UIS,R&D expenditure,Israel,NOT_YET_EXTRACTED,,,,,,
+UNESCO UIS,R&D expenditure,Brazil,NOT_YET_EXTRACTED,,,,,,
+UNESCO UIS,Researchers in R&D,India,NOT_YET_EXTRACTED,,,,,,
+UNESCO UIS,Researchers in R&D,China,NOT_YET_EXTRACTED,,,,,,
+UNESCO UIS,Researchers in R&D,South Korea,NOT_YET_EXTRACTED,,,,,,
+UNESCO UIS,Researchers in R&D,Taiwan,NOT_YET_EXTRACTED,,,,,,
+UNESCO UIS,Researchers in R&D,Israel,NOT_YET_EXTRACTED,,,,,,
+UNESCO UIS,Researchers in R&D,Brazil,NOT_YET_EXTRACTED,,,,,,
+WIPO,Patent applications - residents,India,NOT_YET_EXTRACTED,,,,,,
+WIPO,Patent applications - residents,China,NOT_YET_EXTRACTED,,,,,,
+WIPO,Patent applications - residents,South Korea,NOT_YET_EXTRACTED,,,,,,
+WIPO,Patent applications - residents,Taiwan,NOT_YET_EXTRACTED,,,,,,
+WIPO,Patent applications - residents,Israel,NOT_YET_EXTRACTED,,,,,,
+WIPO,Patent applications - residents,Brazil,NOT_YET_EXTRACTED,,,,,,
+WIPO,Patent applications - non-residents,India,NOT_YET_EXTRACTED,,,,,,
+WIPO,Patent applications - non-residents,China,NOT_YET_EXTRACTED,,,,,,
+WIPO,Patent applications - non-residents,South Korea,NOT_YET_EXTRACTED,,,,,,
+WIPO,Patent applications - non-residents,Taiwan,NOT_YET_EXTRACTED,,,,,,
+WIPO,Patent applications - non-residents,Israel,NOT_YET_EXTRACTED,,,,,,
+WIPO,Patent applications - non-residents,Brazil,NOT_YET_EXTRACTED,,,,,,
+ITU,Internet users,India,NOT_YET_EXTRACTED,,,,,,
+ITU,Internet users,China,NOT_YET_EXTRACTED,,,,,,
+ITU,Internet users,South Korea,NOT_YET_EXTRACTED,,,,,,
+ITU,Internet users,Taiwan,NOT_YET_EXTRACTED,,,,,,
+ITU,Internet users,Israel,NOT_YET_EXTRACTED,,,,,,
+ITU,Internet users,Brazil,NOT_YET_EXTRACTED,,,,,,
+ITU,Fixed broadband,India,NOT_YET_EXTRACTED,,,,,,
+ITU,Fixed broadband,China,NOT_YET_EXTRACTED,,,,,,
+ITU,Fixed broadband,South Korea,NOT_YET_EXTRACTED,,,,,,
+ITU,Fixed broadband,Taiwan,NOT_YET_EXTRACTED,,,,,,
+ITU,Fixed broadband,Israel,NOT_YET_EXTRACTED,,,,,,
+ITU,Fixed broadband,Brazil,NOT_YET_EXTRACTED,,,,,,
+UNIDO,Manufacturing value added,India,NOT_YET_EXTRACTED,,,,,,
+UNIDO,Manufacturing value added,China,NOT_YET_EXTRACTED,,,,,,
+UNIDO,Manufacturing value added,South Korea,NOT_YET_EXTRACTED,,,,,,
+UNIDO,Manufacturing value added,Taiwan,NOT_YET_EXTRACTED,,,,,,
+UNIDO,Manufacturing value added,Israel,NOT_YET_EXTRACTED,,,,,,
+UNIDO,Manufacturing value added,Brazil,NOT_YET_EXTRACTED,,,,,,
+UNCTAD,FDI,India,NOT_YET_EXTRACTED,,,,,,
+UNCTAD,FDI,China,NOT_YET_EXTRACTED,,,,,,
+UNCTAD,FDI,South Korea,NOT_YET_EXTRACTED,,,,,,
+UNCTAD,FDI,Taiwan,NOT_YET_EXTRACTED,,,,,,
+UNCTAD,FDI,Israel,NOT_YET_EXTRACTED,,,,,,
+UNCTAD,FDI,Brazil,NOT_YET_EXTRACTED,,,,,,
+UNCTAD,High-tech exports,India,NOT_YET_EXTRACTED,,,,,,
+UNCTAD,High-tech exports,China,NOT_YET_EXTRACTED,,,,,,
+UNCTAD,High-tech exports,South Korea,NOT_YET_EXTRACTED,,,,,,
+UNCTAD,High-tech exports,Taiwan,NOT_YET_EXTRACTED,,,,,,
+UNCTAD,High-tech exports,Israel,NOT_YET_EXTRACTED,,,,,,
+UNCTAD,High-tech exports,Brazil,NOT_YET_EXTRACTED,,,,,,
+UN Comtrade,High-tech exports,India,NOT_YET_EXTRACTED,,,,,,
+UN Comtrade,High-tech exports,China,NOT_YET_EXTRACTED,,,,,,
+UN Comtrade,High-tech exports,South Korea,NOT_YET_EXTRACTED,,,,,,
+UN Comtrade,High-tech exports,Taiwan,NOT_YET_EXTRACTED,,,,,,
+UN Comtrade,High-tech exports,Israel,NOT_YET_EXTRACTED,,,,,,
+UN Comtrade,High-tech exports,Brazil,NOT_YET_EXTRACTED,,,,,,

@@ -1,0 +1,7 @@
+country_code,country,indicators,complete_indicators,partial_indicators,no_data_indicators,api_error_indicators,average_coverage_percent
+IND,India,11,4,7,0,0,81.8
+CHN,China,11,1,10,0,0,77.3
+KOR,South Korea,11,2,8,0,1,79.4
+TWN,Taiwan,11,0,0,0,11,0.0
+ISR,Israel,11,1,9,1,0,81.5
+BRA,Brazil,11,2,9,0,0,82.9

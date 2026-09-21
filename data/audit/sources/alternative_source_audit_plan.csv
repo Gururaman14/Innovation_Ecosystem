@@ -1,0 +1,12 @@
+Variable,Type,Proposed Alternative Source,Study Start,Study End
+High-tech exports,DEPENDENT VARIABLE,UN Comtrade / alternative trade source,2000,2025
+R&D expenditure,PREDICTOR,OECD / UNESCO UIS,2000,2025
+Researchers in R&D,PREDICTOR,OECD / UNESCO UIS,2000,2025
+Patent applications - residents,PREDICTOR,WIPO,2000,2025
+Patent applications - non-residents,PREDICTOR,WIPO,2000,2025
+Internet users,PREDICTOR,ITU / alternative international source,2000,2025
+Fixed broadband,PREDICTOR,ITU / alternative international source,2000,2025
+Tertiary enrolment,PREDICTOR,UNESCO UIS,2000,2025
+Government education expenditure,PREDICTOR,UNESCO UIS,2000,2025
+Venture capital proxy,PREDICTOR,OECD / World Bank / alternative source,2000,2025
+Manufacturing value added,PREDICTOR,UNIDO / World Bank,2000,2025

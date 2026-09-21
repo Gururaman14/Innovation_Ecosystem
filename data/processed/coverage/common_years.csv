@@ -1,0 +1,7 @@
+country_code,country,common_year_count,common_coverage_percent,common_years,first_common_year,last_common_year
+IND,India,4,15.4,"2010,2015,2018,2020",2010.0,2020.0
+CHN,China,0,0.0,,,
+KOR,South Korea,0,0.0,,,
+TWN,Taiwan,0,0.0,,,
+ISR,Israel,0,0.0,,,
+BRA,Brazil,3,11.5,"2012,2013,2014",2012.0,2014.0

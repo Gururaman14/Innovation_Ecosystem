@@ -1,0 +1,12 @@
+variable,recommended_source,missing_cells
+researchers_rd,OECD MSTI,87
+government_education,UNESCO UIS,83
+hightech_exports,UN Comtrade / WITS,68
+patent_resident,WIPO,46
+patent_nonresident,WIPO,46
+tertiary_enrolment,UNESCO UIS,44
+rd_expenditure,OECD MSTI,39
+fixed_broadband,ITU,33
+manufacturing_value_added,WDI / UNIDO,31
+internet_users,ITU,29
+fdi,WDI / UNCTAD,26

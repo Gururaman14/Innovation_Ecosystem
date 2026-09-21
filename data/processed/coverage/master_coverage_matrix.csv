@@ -1,0 +1,7 @@
+country_code,country,hightech_exports,rd_expenditure,researchers_rd,patent_resident,patent_nonresident,internet_users,fixed_broadband,tertiary_enrolment,government_education,fdi,manufacturing_value_added
+IND,India,61.5,80.8,23.1,84.6,84.6,100.0,92.3,100.0,73.1,100.0,100.0
+CHN,China,69.2,92.3,92.3,84.6,84.6,46.2,96.2,96.2,3.8,100.0,84.6
+KOR,South Korea,0.0,92.3,92.3,84.6,84.6,96.2,96.2,96.2,30.8,100.0,100.0
+TWN,Taiwan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ISR,Israel,69.2,92.3,0.0,84.6,84.6,96.2,92.3,92.3,88.5,100.0,96.2
+BRA,Brazil,69.2,92.3,57.7,84.6,84.6,96.2,96.2,46.2,84.6,100.0,100.0

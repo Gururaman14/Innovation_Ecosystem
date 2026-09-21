@@ -1,0 +1,39 @@
+Variable,Source,Status,CountryCount
+FDI,UNCTAD,NOT_YET_EXTRACTED,6
+FDI,World Bank,AVAILABLE,5
+FDI,World Bank,NO_DATA,1
+Fixed broadband,ITU,NOT_YET_EXTRACTED,6
+Fixed broadband,World Bank,AVAILABLE,5
+Fixed broadband,World Bank,NO_DATA,1
+Government education expenditure,UNESCO UIS,NOT_YET_EXTRACTED,6
+Government education expenditure,World Bank,AVAILABLE,5
+Government education expenditure,World Bank,NO_DATA,1
+High-tech exports,UN Comtrade,NOT_YET_EXTRACTED,6
+High-tech exports,UNCTAD,NOT_YET_EXTRACTED,6
+High-tech exports,World Bank,AVAILABLE,5
+High-tech exports,World Bank,NO_DATA,1
+Internet users,ITU,NOT_YET_EXTRACTED,6
+Internet users,World Bank,AVAILABLE,5
+Internet users,World Bank,NO_DATA,1
+Manufacturing value added,UNIDO,NOT_YET_EXTRACTED,6
+Manufacturing value added,World Bank,AVAILABLE,5
+Manufacturing value added,World Bank,NO_DATA,1
+Patent applications - non-residents,WIPO,NOT_YET_EXTRACTED,6
+Patent applications - non-residents,World Bank,AVAILABLE,5
+Patent applications - non-residents,World Bank,NO_DATA,1
+Patent applications - residents,WIPO,NOT_YET_EXTRACTED,6
+Patent applications - residents,World Bank,AVAILABLE,5
+Patent applications - residents,World Bank,NO_DATA,1
+R&D expenditure,OECD MSTI,AVAILABLE,4
+R&D expenditure,OECD MSTI,NO_DATA,2
+R&D expenditure,UNESCO UIS,NOT_YET_EXTRACTED,6
+R&D expenditure,World Bank,AVAILABLE,5
+R&D expenditure,World Bank,NO_DATA,1
+Researchers in R&D,OECD MSTI,AVAILABLE,3
+Researchers in R&D,OECD MSTI,NO_DATA,3
+Researchers in R&D,UNESCO UIS,NOT_YET_EXTRACTED,6
+Researchers in R&D,World Bank,AVAILABLE,4
+Researchers in R&D,World Bank,NO_DATA,2
+Tertiary enrolment,UNESCO UIS,NOT_YET_EXTRACTED,6
+Tertiary enrolment,World Bank,AVAILABLE,5
+Tertiary enrolment,World Bank,NO_DATA,1

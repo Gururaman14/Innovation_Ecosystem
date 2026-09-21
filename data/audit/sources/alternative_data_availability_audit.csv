@@ -1,0 +1,61 @@
+Variable,Source,Country,Country_Code,Available,Earliest_Year,Latest_Year,Number_of_Years,Missing_Percentage,Definition,Notes
+High-tech exports,UN Comtrade,India,IND,True,2000.0,2023.0,24.0,,Trade data; exact WDI high-tech indicator requires SITC Rev.4 classification,Trade availability confirmed; high-tech calculation must follow WDI/SITC Rev.4 methodology.
+High-tech exports,UN Comtrade,China,CHN,True,2000.0,2024.0,13.0,,Trade data; exact WDI high-tech indicator requires SITC Rev.4 classification,Trade availability confirmed; high-tech calculation must follow WDI/SITC Rev.4 methodology.
+High-tech exports,UN Comtrade,South Korea,KOR,True,2000.0,2024.0,18.0,,Trade data; exact WDI high-tech indicator requires SITC Rev.4 classification,Trade availability confirmed; high-tech calculation must follow WDI/SITC Rev.4 methodology.
+High-tech exports,UN Comtrade,Taiwan,TWN,True,2001.0,2024.0,12.0,,Trade data; exact WDI high-tech indicator requires SITC Rev.4 classification,Trade availability confirmed; high-tech calculation must follow WDI/SITC Rev.4 methodology.
+High-tech exports,UN Comtrade,Israel,ISR,True,2001.0,2025.0,10.0,,Trade data; exact WDI high-tech indicator requires SITC Rev.4 classification,Trade availability confirmed; high-tech calculation must follow WDI/SITC Rev.4 methodology.
+High-tech exports,UN Comtrade,Brazil,BRA,True,2000.0,2024.0,20.0,,Trade data; exact WDI high-tech indicator requires SITC Rev.4 classification,Trade availability confirmed; high-tech calculation must follow WDI/SITC Rev.4 methodology.
+Tertiary enrolment,UNESCO UIS,India,IND,,,,,,,API source identified. Indicator-specific UIS API query must be mapped before counting observations.
+Tertiary enrolment,UNESCO UIS,China,CHN,,,,,,,API source identified. Indicator-specific UIS API query must be mapped before counting observations.
+Tertiary enrolment,UNESCO UIS,South Korea,KOR,,,,,,,API source identified. Indicator-specific UIS API query must be mapped before counting observations.
+Tertiary enrolment,UNESCO UIS,Taiwan,TWN,,,,,,,API source identified. Indicator-specific UIS API query must be mapped before counting observations.
+Tertiary enrolment,UNESCO UIS,Israel,ISR,,,,,,,API source identified. Indicator-specific UIS API query must be mapped before counting observations.
+Tertiary enrolment,UNESCO UIS,Brazil,BRA,,,,,,,API source identified. Indicator-specific UIS API query must be mapped before counting observations.
+Government education expenditure,UNESCO UIS,India,IND,,,,,,,API source identified. Indicator-specific UIS API query must be mapped before counting observations.
+Government education expenditure,UNESCO UIS,China,CHN,,,,,,,API source identified. Indicator-specific UIS API query must be mapped before counting observations.
+Government education expenditure,UNESCO UIS,South Korea,KOR,,,,,,,API source identified. Indicator-specific UIS API query must be mapped before counting observations.
+Government education expenditure,UNESCO UIS,Taiwan,TWN,,,,,,,API source identified. Indicator-specific UIS API query must be mapped before counting observations.
+Government education expenditure,UNESCO UIS,Israel,ISR,,,,,,,API source identified. Indicator-specific UIS API query must be mapped before counting observations.
+Government education expenditure,UNESCO UIS,Brazil,BRA,,,,,,,API source identified. Indicator-specific UIS API query must be mapped before counting observations.
+Researchers in R&D,UNESCO UIS,India,IND,,,,,,,API source identified. Indicator-specific UIS API query must be mapped before counting observations.
+Researchers in R&D,UNESCO UIS,China,CHN,,,,,,,API source identified. Indicator-specific UIS API query must be mapped before counting observations.
+Researchers in R&D,UNESCO UIS,South Korea,KOR,,,,,,,API source identified. Indicator-specific UIS API query must be mapped before counting observations.
+Researchers in R&D,UNESCO UIS,Taiwan,TWN,,,,,,,API source identified. Indicator-specific UIS API query must be mapped before counting observations.
+Researchers in R&D,UNESCO UIS,Israel,ISR,,,,,,,API source identified. Indicator-specific UIS API query must be mapped before counting observations.
+Researchers in R&D,UNESCO UIS,Brazil,BRA,,,,,,,API source identified. Indicator-specific UIS API query must be mapped before counting observations.
+Patent applications - residents,WIPO,India,IND,,,,,,,Historical data available through WIPO Statistics Data Center; exact download/API query still needs indicator mapping.
+Patent applications - residents,WIPO,China,CHN,,,,,,,Historical data available through WIPO Statistics Data Center; exact download/API query still needs indicator mapping.
+Patent applications - residents,WIPO,South Korea,KOR,,,,,,,Historical data available through WIPO Statistics Data Center; exact download/API query still needs indicator mapping.
+Patent applications - residents,WIPO,Taiwan,TWN,,,,,,,Historical data available through WIPO Statistics Data Center; exact download/API query still needs indicator mapping.
+Patent applications - residents,WIPO,Israel,ISR,,,,,,,Historical data available through WIPO Statistics Data Center; exact download/API query still needs indicator mapping.
+Patent applications - residents,WIPO,Brazil,BRA,,,,,,,Historical data available through WIPO Statistics Data Center; exact download/API query still needs indicator mapping.
+Patent applications - non-residents,WIPO,India,IND,,,,,,,Historical data available through WIPO Statistics Data Center; exact download/API query still needs indicator mapping.
+Patent applications - non-residents,WIPO,China,CHN,,,,,,,Historical data available through WIPO Statistics Data Center; exact download/API query still needs indicator mapping.
+Patent applications - non-residents,WIPO,South Korea,KOR,,,,,,,Historical data available through WIPO Statistics Data Center; exact download/API query still needs indicator mapping.
+Patent applications - non-residents,WIPO,Taiwan,TWN,,,,,,,Historical data available through WIPO Statistics Data Center; exact download/API query still needs indicator mapping.
+Patent applications - non-residents,WIPO,Israel,ISR,,,,,,,Historical data available through WIPO Statistics Data Center; exact download/API query still needs indicator mapping.
+Patent applications - non-residents,WIPO,Brazil,BRA,,,,,,,Historical data available through WIPO Statistics Data Center; exact download/API query still needs indicator mapping.
+Internet users,ITU DataHub,India,IND,,,,,,,ITU DataHub provides internationally harmonized ICT indicators. Exact downloadable/API query required.
+Internet users,ITU DataHub,China,CHN,,,,,,,ITU DataHub provides internationally harmonized ICT indicators. Exact downloadable/API query required.
+Internet users,ITU DataHub,South Korea,KOR,,,,,,,ITU DataHub provides internationally harmonized ICT indicators. Exact downloadable/API query required.
+Internet users,ITU DataHub,Taiwan,TWN,,,,,,,ITU DataHub provides internationally harmonized ICT indicators. Exact downloadable/API query required.
+Internet users,ITU DataHub,Israel,ISR,,,,,,,ITU DataHub provides internationally harmonized ICT indicators. Exact downloadable/API query required.
+Internet users,ITU DataHub,Brazil,BRA,,,,,,,ITU DataHub provides internationally harmonized ICT indicators. Exact downloadable/API query required.
+Fixed broadband,ITU DataHub,India,IND,,,,,,,ITU DataHub provides internationally harmonized ICT indicators. Exact downloadable/API query required.
+Fixed broadband,ITU DataHub,China,CHN,,,,,,,ITU DataHub provides internationally harmonized ICT indicators. Exact downloadable/API query required.
+Fixed broadband,ITU DataHub,South Korea,KOR,,,,,,,ITU DataHub provides internationally harmonized ICT indicators. Exact downloadable/API query required.
+Fixed broadband,ITU DataHub,Taiwan,TWN,,,,,,,ITU DataHub provides internationally harmonized ICT indicators. Exact downloadable/API query required.
+Fixed broadband,ITU DataHub,Israel,ISR,,,,,,,ITU DataHub provides internationally harmonized ICT indicators. Exact downloadable/API query required.
+Fixed broadband,ITU DataHub,Brazil,BRA,,,,,,,ITU DataHub provides internationally harmonized ICT indicators. Exact downloadable/API query required.
+Manufacturing value added,UNIDO,India,IND,,,,,,,UNIDO API/data portal identified. Exact indicator extraction required.
+Manufacturing value added,UNIDO,China,CHN,,,,,,,UNIDO API/data portal identified. Exact indicator extraction required.
+Manufacturing value added,UNIDO,South Korea,KOR,,,,,,,UNIDO API/data portal identified. Exact indicator extraction required.
+Manufacturing value added,UNIDO,Taiwan,TWN,,,,,,,UNIDO API/data portal identified. Exact indicator extraction required.
+Manufacturing value added,UNIDO,Israel,ISR,,,,,,,UNIDO API/data portal identified. Exact indicator extraction required.
+Manufacturing value added,UNIDO,Brazil,BRA,,,,,,,UNIDO API/data portal identified. Exact indicator extraction required.
+Venture capital proxy,OECD / alternative source,India,IND,,,,,,,No single replacement indicator selected yet. Must verify a comparable cross-country proxy before using it in the research dataset.
+Venture capital proxy,OECD / alternative source,China,CHN,,,,,,,No single replacement indicator selected yet. Must verify a comparable cross-country proxy before using it in the research dataset.
+Venture capital proxy,OECD / alternative source,South Korea,KOR,,,,,,,No single replacement indicator selected yet. Must verify a comparable cross-country proxy before using it in the research dataset.
+Venture capital proxy,OECD / alternative source,Taiwan,TWN,,,,,,,No single replacement indicator selected yet. Must verify a comparable cross-country proxy before using it in the research dataset.
+Venture capital proxy,OECD / alternative source,Israel,ISR,,,,,,,No single replacement indicator selected yet. Must verify a comparable cross-country proxy before using it in the research dataset.
+Venture capital proxy,OECD / alternative source,Brazil,BRA,,,,,,,No single replacement indicator selected yet. Must verify a comparable cross-country proxy before using it in the research dataset.
