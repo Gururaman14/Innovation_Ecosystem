@@ -49,3 +49,35 @@ Desktop.ini
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+
+# Later-stage development directories & results (Weeks 5-7, audits, validation)
+results/
+scratch/
+push_ready/
+notebooks/
+
+# Large generated datasets and raw customs cache
+data/processed/layer_a/
+data/processed/layer_b/
+data/raw/comtrade/
+data/raw/wdi/wdi_raw_long.csv
+
+# Later-stage research scripts (Weeks 5, 6, and 7)
+scripts/run_econometric_models.py
+scripts/run_improved_entry_models.py
+scripts/run_improved_ppml.py
+scripts/run_improved_ml_pipeline.py
+scripts/run_nested_ml_improvement.py
+scripts/run_sensitivity_analysis.py
+scripts/run_capability_measure_sensitivity.py
+scripts/run_dtw_analysis.py
+scripts/run_week6_refinements.py
+scripts/evaluate_accuracy_metrics.py
+scripts/generate_improvement_figures.py
+scripts/generate_marginal_effects_figure.py
+
+# Miscellaneous archives, logs, and drafts
+*.zip
+*.log
+chapter_2_final_submitted_1600.md
+literature_survey_chapter.md

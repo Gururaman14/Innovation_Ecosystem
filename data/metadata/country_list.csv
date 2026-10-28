@@ -1,0 +1,19 @@
+country,iso3,reporter_code,region,economic_group,sample_status,notes
+United States,USA,842,North America,Advanced,Included,Major innovation benchmark
+Germany,DEU,276,Europe,Advanced,Included,European industrial anchor
+Japan,JPN,392,Asia,Advanced,Included,Advanced high-tech manufacturing
+France,FRA,251,Europe,Advanced,Included,Major European economy (Comtrade customs territory 251)
+United Kingdom,GBR,826,Europe,Advanced,Included,Major innovation & services economy
+South Korea,KOR,410,Asia,Advanced,Included,High-tech electronics & semiconductors
+Singapore,SGP,702,Asia,Advanced,Included,Global trade & innovation hub
+Israel,ISR,376,Middle East,Advanced,Included,High R&D & venture capital hub
+Netherlands,NLD,528,Europe,Advanced,Included,Advanced trade & logistics hub
+Ireland,IRL,372,Europe,Advanced,Included,Replaced Sweden (SWE); European high-tech/pharma hub (not a nineteenth country)
+China,CHN,156,Asia,Emerging,Included,Leading global exporter and manufacturing superpower
+India,IND,699,Asia,Emerging,Included,Large emerging economy with growing tech sector (Comtrade customs territory 699)
+Brazil,BRA,76,Latin America,Emerging,Included,Latin American industrial leader
+Mexico,MEX,484,Latin America,Emerging,Included,North American integrated manufacturing exporter
+Poland,POL,616,Europe,Emerging/Transition,Included,Central European manufacturing integrator
+Czechia,CZE,203,Europe,Advanced/Transition,Included,Central European high-value industrial exporter
+Türkiye,TUR,792,Europe/Asia,Emerging,Included,Major regional manufacturing & transshipment economy
+Malaysia,MYS,458,Asia,Emerging,Included,Southeast Asian electronics & semiconductor assembly hub
